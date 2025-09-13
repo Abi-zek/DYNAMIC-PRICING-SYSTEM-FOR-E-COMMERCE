@@ -1,0 +1,1096 @@
+day,product,base_price,competitor_price,demand
+1,Wireless Earbuds,78,75.25,179.53
+2,Wireless Earbuds,78,80.58,205.39
+3,Wireless Earbuds,78,80.37,205.11
+4,Wireless Earbuds,78,84.84,188.83
+5,Wireless Earbuds,78,73.42,226.13
+6,Wireless Earbuds,78,77.38,187.02
+7,Wireless Earbuds,78,67.95,243.66
+8,Wireless Earbuds,78,75.54,201.56
+9,Wireless Earbuds,78,79.96,159.98
+10,Wireless Earbuds,78,73.35,217.89
+11,Wireless Earbuds,78,78.4,189.58
+12,Wireless Earbuds,78,77.2,226.55
+13,Wireless Earbuds,78,78.11,199.48
+14,Wireless Earbuds,78,75.86,211.55
+15,Wireless Earbuds,78,75.34,218.6
+16,Wireless Earbuds,78,77.41,202.87
+17,Wireless Earbuds,78,79.11,200.56
+18,Wireless Earbuds,78,74.16,229.96
+19,Wireless Earbuds,78,78.71,187.98
+20,Wireless Earbuds,78,77.83,196.43
+21,Wireless Earbuds,78,83.67,175.25
+22,Wireless Earbuds,78,77.48,230.21
+23,Wireless Earbuds,78,75.37,204.77
+24,Wireless Earbuds,78,87.56,176.89
+25,Wireless Earbuds,78,67.87,229.44
+26,Wireless Earbuds,78,83.6,186.95
+27,Wireless Earbuds,78,81.9,185.93
+28,Wireless Earbuds,78,72.49,232.44
+29,Wireless Earbuds,78,83.65,176.73
+30,Wireless Earbuds,78,79.87,183.72
+31,Wireless Earbuds,78,76.07,207.32
+32,Wireless Earbuds,78,72.21,215.61
+33,Wireless Earbuds,78,80.83,181.93
+34,Wireless Earbuds,78,74.48,216.5
+35,Wireless Earbuds,78,71.11,206.84
+36,Wireless Earbuds,78,76.23,242.57
+37,Wireless Earbuds,78,75.69,196.18
+38,Wireless Earbuds,78,78.33,201.23
+39,Wireless Earbuds,78,77.12,208.79
+40,Wireless Earbuds,78,84.0,219.73
+41,Wireless Earbuds,78,81.49,176.31
+42,Wireless Earbuds,78,77.14,217.71
+43,Wireless Earbuds,78,73.46,242.43
+44,Wireless Earbuds,78,83.94,191.04
+45,Wireless Earbuds,78,81.93,184.44
+46,Wireless Earbuds,78,91.28,172.56
+47,Wireless Earbuds,78,79.32,233.22
+48,Wireless Earbuds,78,86.21,180.64
+49,Wireless Earbuds,78,80.3,229.37
+50,Wireless Earbuds,78,78.43,217.56
+51,Wireless Earbuds,78,70.45,256.33
+52,Wireless Earbuds,78,81.61,207.88
+53,Wireless Earbuds,78,73.78,221.02
+54,Wireless Earbuds,78,75.43,248.13
+55,Wireless Earbuds,78,77.78,220.09
+56,Wireless Earbuds,78,76.62,222.89
+57,Wireless Earbuds,78,70.18,252.02
+58,Wireless Earbuds,78,74.02,242.45
+59,Wireless Earbuds,78,82.65,215.08
+60,Wireless Earbuds,78,81.39,186.6
+61,Wireless Earbuds,78,81.49,197.17
+62,Wireless Earbuds,78,78.87,204.93
+63,Wireless Earbuds,78,81.31,195.93
+64,Wireless Earbuds,78,79.21,201.01
+65,Wireless Earbuds,78,77.16,210.32
+66,Wireless Earbuds,78,83.82,205.59
+67,Wireless Earbuds,78,76.77,229.27
+68,Wireless Earbuds,78,74.15,229.83
+69,Wireless Earbuds,78,84.06,193.87
+70,Wireless Earbuds,78,84.17,219.2
+71,Wireless Earbuds,78,70.13,240.94
+72,Wireless Earbuds,78,81.19,223.31
+73,Wireless Earbuds,78,67.78,241.06
+74,Wireless Earbuds,78,83.35,209.21
+75,Wireless Earbuds,78,73.33,253.28
+76,Wireless Earbuds,78,81.92,168.35
+77,Wireless Earbuds,78,74.93,218.73
+78,Wireless Earbuds,78,79.66,223.33
+79,Wireless Earbuds,78,71.1,258.4
+80,Wireless Earbuds,78,76.6,226.83
+81,Wireless Earbuds,78,77.7,221.28
+82,Wireless Earbuds,78,82.81,229.44
+83,Wireless Earbuds,78,86.97,211.95
+84,Wireless Earbuds,78,80.9,198.07
+85,Wireless Earbuds,78,79.49,217.14
+86,Wireless Earbuds,78,72.86,240.72
+87,Wireless Earbuds,78,70.91,266.98
+88,Wireless Earbuds,78,78.95,230.09
+89,Wireless Earbuds,78,78.68,216.38
+90,Wireless Earbuds,78,81.04,214.17
+91,Wireless Earbuds,78,81.52,181.16
+92,Wireless Earbuds,78,79.8,229.12
+93,Wireless Earbuds,78,70.67,251.69
+94,Wireless Earbuds,78,82.46,224.78
+95,Wireless Earbuds,78,77.47,219.39
+96,Wireless Earbuds,78,73.22,236.2
+97,Wireless Earbuds,78,75.93,218.93
+98,Wireless Earbuds,78,71.01,223.65
+99,Wireless Earbuds,78,76.28,215.98
+100,Wireless Earbuds,78,81.75,181.26
+101,Wireless Earbuds,78,76.36,238.39
+102,Wireless Earbuds,78,73.69,200.0
+103,Wireless Earbuds,78,76.71,254.0
+104,Wireless Earbuds,78,80.3,186.2
+105,Wireless Earbuds,78,71.25,262.24
+106,Wireless Earbuds,78,72.9,221.08
+107,Wireless Earbuds,78,78.64,225.84
+108,Wireless Earbuds,78,71.75,226.7
+109,Wireless Earbuds,78,87.73,215.07
+110,Wireless Earbuds,78,77.23,222.0
+111,Wireless Earbuds,78,73.47,248.64
+112,Wireless Earbuds,78,73.91,232.22
+113,Wireless Earbuds,78,75.58,231.24
+114,Wireless Earbuds,78,75.15,236.36
+115,Wireless Earbuds,78,67.54,241.89
+116,Wireless Earbuds,78,84.32,180.15
+117,Wireless Earbuds,78,77.92,198.87
+118,Wireless Earbuds,78,77.86,219.19
+119,Wireless Earbuds,78,82.09,198.27
+120,Wireless Earbuds,78,72.73,201.34
+121,Wireless Earbuds,78,74.21,236.62
+122,Wireless Earbuds,78,80.29,192.24
+123,Wireless Earbuds,78,77.68,200.77
+124,Wireless Earbuds,78,79.72,211.23
+125,Wireless Earbuds,78,77.6,204.54
+126,Wireless Earbuds,78,76.79,222.11
+127,Wireless Earbuds,78,85.17,224.56
+128,Wireless Earbuds,78,83.33,194.59
+129,Wireless Earbuds,78,65.51,237.65
+130,Wireless Earbuds,78,85.4,196.37
+131,Wireless Earbuds,78,88.79,171.63
+132,Wireless Earbuds,78,84.16,197.3
+133,Wireless Earbuds,78,76.93,223.15
+134,Wireless Earbuds,78,74.55,224.78
+135,Wireless Earbuds,78,81.64,204.67
+136,Wireless Earbuds,78,74.9,226.67
+137,Wireless Earbuds,78,79.78,232.88
+138,Wireless Earbuds,78,77.89,210.55
+139,Wireless Earbuds,78,84.09,197.41
+140,Wireless Earbuds,78,76.05,232.36
+141,Wireless Earbuds,78,75.79,226.97
+142,Wireless Earbuds,78,79.89,201.96
+143,Wireless Earbuds,78,87.67,197.26
+144,Wireless Earbuds,78,78.4,198.19
+145,Wireless Earbuds,78,75.92,215.04
+146,Wireless Earbuds,78,82.29,187.49
+147,Wireless Earbuds,78,81.59,209.51
+148,Wireless Earbuds,78,73.24,243.48
+149,Wireless Earbuds,78,75.32,222.47
+150,Wireless Earbuds,78,83.48,195.47
+151,Wireless Earbuds,78,80.14,190.95
+152,Wireless Earbuds,78,65.65,236.71
+153,Wireless Earbuds,78,80.41,184.77
+154,Wireless Earbuds,78,82.63,163.05
+155,Wireless Earbuds,78,73.81,215.99
+156,Wireless Earbuds,78,81.39,194.36
+157,Wireless Earbuds,78,87.36,213.19
+158,Wireless Earbuds,78,79.98,225.86
+159,Wireless Earbuds,78,74.87,225.77
+160,Wireless Earbuds,78,75.39,246.84
+161,Wireless Earbuds,78,78.07,228.08
+162,Wireless Earbuds,78,79.89,171.31
+163,Wireless Earbuds,78,78.31,221.84
+164,Wireless Earbuds,78,80.51,209.59
+165,Wireless Earbuds,78,77.27,203.98
+166,Wireless Earbuds,78,78.9,181.85
+167,Wireless Earbuds,78,82.82,199.91
+168,Wireless Earbuds,78,72.68,189.91
+169,Wireless Earbuds,78,78.54,202.83
+170,Wireless Earbuds,78,78.53,193.61
+171,Wireless Earbuds,78,82.6,171.42
+172,Wireless Earbuds,78,76.87,225.01
+173,Wireless Earbuds,78,81.27,193.02
+174,Wireless Earbuds,78,83.51,189.16
+175,Wireless Earbuds,78,68.75,244.12
+176,Wireless Earbuds,78,83.84,184.75
+177,Wireless Earbuds,78,73.07,223.62
+178,Wireless Earbuds,78,72.53,230.37
+179,Wireless Earbuds,78,63.6,253.07
+180,Wireless Earbuds,78,73.98,217.37
+181,Wireless Earbuds,78,77.98,227.51
+182,Wireless Earbuds,78,76.08,224.72
+183,Wireless Earbuds,78,75.69,205.65
+184,Wireless Earbuds,78,72.44,202.7
+185,Wireless Earbuds,78,82.34,195.88
+186,Wireless Earbuds,78,82.79,187.83
+187,Wireless Earbuds,78,80.09,217.98
+188,Wireless Earbuds,78,68.57,241.39
+189,Wireless Earbuds,78,89.37,175.3
+190,Wireless Earbuds,78,78.73,195.58
+191,Wireless Earbuds,78,80.7,176.02
+192,Wireless Earbuds,78,70.51,216.41
+193,Wireless Earbuds,78,77.94,203.89
+194,Wireless Earbuds,78,80.07,164.08
+195,Wireless Earbuds,78,77.3,216.63
+196,Wireless Earbuds,78,82.36,213.47
+197,Wireless Earbuds,78,84.5,146.53
+198,Wireless Earbuds,78,71.28,194.03
+199,Wireless Earbuds,78,82.25,185.24
+200,Wireless Earbuds,78,79.97,179.56
+201,Wireless Earbuds,78,77.98,197.87
+202,Wireless Earbuds,78,70.15,216.04
+203,Wireless Earbuds,78,85.4,155.68
+204,Wireless Earbuds,78,79.98,206.28
+205,Wireless Earbuds,78,69.08,226.3
+206,Wireless Earbuds,78,76.78,187.52
+207,Wireless Earbuds,78,79.64,209.62
+208,Wireless Earbuds,78,80.53,176.41
+209,Wireless Earbuds,78,77.36,174.61
+210,Wireless Earbuds,78,79.71,188.64
+211,Wireless Earbuds,78,88.59,164.22
+212,Wireless Earbuds,78,85.73,175.18
+213,Wireless Earbuds,78,73.25,214.79
+214,Wireless Earbuds,78,75.02,206.5
+215,Wireless Earbuds,78,77.44,198.31
+216,Wireless Earbuds,78,69.25,206.84
+217,Wireless Earbuds,78,71.29,198.83
+218,Wireless Earbuds,78,69.89,224.1
+219,Wireless Earbuds,78,72.26,209.22
+220,Wireless Earbuds,78,84.95,179.54
+221,Wireless Earbuds,78,73.72,175.02
+222,Wireless Earbuds,78,72.86,195.42
+223,Wireless Earbuds,78,82.41,202.62
+224,Wireless Earbuds,78,75.75,202.03
+225,Wireless Earbuds,78,80.09,184.89
+226,Wireless Earbuds,78,74.36,208.02
+227,Wireless Earbuds,78,68.99,246.38
+228,Wireless Earbuds,78,80.34,208.94
+229,Wireless Earbuds,78,70.24,185.32
+230,Wireless Earbuds,78,75.45,175.0
+231,Wireless Earbuds,78,74.34,172.05
+232,Wireless Earbuds,78,78.98,170.89
+233,Wireless Earbuds,78,75.22,193.97
+234,Wireless Earbuds,78,77.36,190.13
+235,Wireless Earbuds,78,70.2,184.81
+236,Wireless Earbuds,78,88.0,126.13
+237,Wireless Earbuds,78,72.0,190.47
+238,Wireless Earbuds,78,84.01,179.46
+239,Wireless Earbuds,78,78.75,197.65
+240,Wireless Earbuds,78,78.7,206.82
+241,Wireless Earbuds,78,79.77,177.36
+242,Wireless Earbuds,78,68.6,223.6
+243,Wireless Earbuds,78,82.83,183.45
+244,Wireless Earbuds,78,75.45,182.83
+245,Wireless Earbuds,78,84.05,170.12
+246,Wireless Earbuds,78,77.24,194.44
+247,Wireless Earbuds,78,76.13,174.11
+248,Wireless Earbuds,78,71.54,225.98
+249,Wireless Earbuds,78,74.17,192.73
+250,Wireless Earbuds,78,80.11,176.66
+251,Wireless Earbuds,78,71.46,186.96
+252,Wireless Earbuds,78,68.05,199.59
+253,Wireless Earbuds,78,73.71,161.22
+254,Wireless Earbuds,78,82.2,169.41
+255,Wireless Earbuds,78,86.91,191.93
+256,Wireless Earbuds,78,74.61,175.84
+257,Wireless Earbuds,78,70.26,248.73
+258,Wireless Earbuds,78,76.28,207.12
+259,Wireless Earbuds,78,78.92,170.81
+260,Wireless Earbuds,78,80.89,172.32
+261,Wireless Earbuds,78,88.67,146.46
+262,Wireless Earbuds,78,79.13,202.62
+263,Wireless Earbuds,78,86.28,163.28
+264,Wireless Earbuds,78,75.69,204.97
+265,Wireless Earbuds,78,78.43,184.31
+266,Wireless Earbuds,78,75.04,187.4
+267,Wireless Earbuds,78,74.6,195.24
+268,Wireless Earbuds,78,76.68,177.95
+269,Wireless Earbuds,78,76.6,162.5
+270,Wireless Earbuds,78,74.98,201.31
+271,Wireless Earbuds,78,75.25,165.75
+272,Wireless Earbuds,78,83.48,159.53
+273,Wireless Earbuds,78,88.57,141.71
+274,Wireless Earbuds,78,75.51,197.13
+275,Wireless Earbuds,78,76.38,208.34
+276,Wireless Earbuds,78,80.62,190.22
+277,Wireless Earbuds,78,93.94,142.31
+278,Wireless Earbuds,78,78.42,169.34
+279,Wireless Earbuds,78,82.86,162.73
+280,Wireless Earbuds,78,85.72,152.0
+281,Wireless Earbuds,78,79.72,167.93
+282,Wireless Earbuds,78,82.63,160.26
+283,Wireless Earbuds,78,81.04,164.69
+284,Wireless Earbuds,78,83.16,157.71
+285,Wireless Earbuds,78,72.83,210.15
+286,Wireless Earbuds,78,79.02,161.54
+287,Wireless Earbuds,78,80.41,162.34
+288,Wireless Earbuds,78,80.34,149.82
+289,Wireless Earbuds,78,83.69,184.84
+290,Wireless Earbuds,78,80.23,162.11
+291,Wireless Earbuds,78,72.28,207.94
+292,Wireless Earbuds,78,80.96,179.22
+293,Wireless Earbuds,78,73.58,214.09
+294,Wireless Earbuds,78,74.5,188.52
+295,Wireless Earbuds,78,75.91,173.36
+296,Wireless Earbuds,78,77.44,159.76
+297,Wireless Earbuds,78,70.28,162.94
+298,Wireless Earbuds,78,83.58,167.36
+299,Wireless Earbuds,78,72.22,210.8
+300,Wireless Earbuds,78,85.85,165.5
+301,Wireless Earbuds,78,72.38,176.06
+302,Wireless Earbuds,78,84.41,178.64
+303,Wireless Earbuds,78,77.86,172.41
+304,Wireless Earbuds,78,69.42,194.77
+305,Wireless Earbuds,78,72.79,187.63
+306,Wireless Earbuds,78,84.63,164.25
+307,Wireless Earbuds,78,80.24,154.16
+308,Wireless Earbuds,78,77.61,183.97
+309,Wireless Earbuds,78,66.92,223.23
+310,Wireless Earbuds,78,84.95,179.51
+311,Wireless Earbuds,78,87.35,158.53
+312,Wireless Earbuds,78,86.44,138.74
+313,Wireless Earbuds,78,74.92,195.83
+314,Wireless Earbuds,78,79.91,162.94
+315,Wireless Earbuds,78,80.46,160.65
+316,Wireless Earbuds,78,70.36,187.5
+317,Wireless Earbuds,78,78.9,153.88
+318,Wireless Earbuds,78,83.36,160.92
+319,Wireless Earbuds,78,81.82,191.2
+320,Wireless Earbuds,78,72.44,236.5
+321,Wireless Earbuds,78,73.69,190.56
+322,Wireless Earbuds,78,81.95,190.91
+323,Wireless Earbuds,78,81.16,171.33
+324,Wireless Earbuds,78,66.73,196.05
+325,Wireless Earbuds,78,65.72,234.63
+326,Wireless Earbuds,78,77.62,192.2
+327,Wireless Earbuds,78,75.05,223.92
+328,Wireless Earbuds,78,76.51,169.53
+329,Wireless Earbuds,78,75.94,236.47
+330,Wireless Earbuds,78,82.92,197.75
+331,Wireless Earbuds,78,78.52,187.1
+332,Wireless Earbuds,78,79.34,180.72
+333,Wireless Earbuds,78,71.29,198.9
+334,Wireless Earbuds,78,61.18,241.91
+335,Wireless Earbuds,78,83.62,170.49
+336,Wireless Earbuds,78,88.72,165.96
+337,Wireless Earbuds,78,76.29,191.43
+338,Wireless Earbuds,78,79.25,208.5
+339,Wireless Earbuds,78,79.62,188.33
+340,Wireless Earbuds,78,86.38,162.65
+341,Wireless Earbuds,78,82.44,193.98
+342,Wireless Earbuds,78,80.48,160.49
+343,Wireless Earbuds,78,78.28,196.87
+344,Wireless Earbuds,78,78.3,192.39
+345,Wireless Earbuds,78,70.8,193.66
+346,Wireless Earbuds,78,76.08,173.68
+347,Wireless Earbuds,78,82.43,195.75
+348,Wireless Earbuds,78,76.83,212.16
+349,Wireless Earbuds,78,78.22,196.47
+350,Wireless Earbuds,78,72.12,238.27
+351,Wireless Earbuds,78,80.23,195.15
+352,Wireless Earbuds,78,70.69,236.22
+353,Wireless Earbuds,78,79.45,197.84
+354,Wireless Earbuds,78,77.06,194.9
+355,Wireless Earbuds,78,69.28,206.85
+356,Wireless Earbuds,78,83.35,171.81
+357,Wireless Earbuds,78,77.18,195.85
+358,Wireless Earbuds,78,87.3,190.12
+359,Wireless Earbuds,78,85.39,187.31
+360,Wireless Earbuds,78,73.6,216.42
+361,Wireless Earbuds,78,74.04,223.55
+362,Wireless Earbuds,78,72.14,224.46
+363,Wireless Earbuds,78,70.07,227.04
+364,Wireless Earbuds,78,75.89,183.51
+365,Wireless Earbuds,78,85.22,195.43
+1,Gaming Mouse,41,39.35,180.55
+2,Gaming Mouse,41,40.52,227.55
+3,Gaming Mouse,41,38.62,230.89
+4,Gaming Mouse,41,46.08,164.71
+5,Gaming Mouse,41,37.86,202.5
+6,Gaming Mouse,41,47.26,189.45
+7,Gaming Mouse,41,39.17,203.08
+8,Gaming Mouse,41,43.36,166.54
+9,Gaming Mouse,41,41.83,190.39
+10,Gaming Mouse,41,36.12,247.0
+11,Gaming Mouse,41,40.9,194.88
+12,Gaming Mouse,41,42.67,196.32
+13,Gaming Mouse,41,40.68,187.9
+14,Gaming Mouse,41,34.29,233.41
+15,Gaming Mouse,41,49.51,180.99
+16,Gaming Mouse,41,41.44,192.67
+17,Gaming Mouse,41,37.03,197.8
+18,Gaming Mouse,41,49.1,202.54
+19,Gaming Mouse,41,44.09,172.77
+20,Gaming Mouse,41,35.0,232.0
+21,Gaming Mouse,41,35.78,190.13
+22,Gaming Mouse,41,39.89,221.04
+23,Gaming Mouse,41,42.49,217.51
+24,Gaming Mouse,41,44.11,214.81
+25,Gaming Mouse,41,45.75,191.38
+26,Gaming Mouse,41,43.7,224.03
+27,Gaming Mouse,41,47.73,223.09
+28,Gaming Mouse,41,41.63,202.26
+29,Gaming Mouse,41,37.2,213.92
+30,Gaming Mouse,41,40.98,211.89
+31,Gaming Mouse,41,40.66,203.77
+32,Gaming Mouse,41,28.11,239.51
+33,Gaming Mouse,41,38.19,210.86
+34,Gaming Mouse,41,42.57,231.81
+35,Gaming Mouse,41,38.88,229.02
+36,Gaming Mouse,41,37.77,213.84
+37,Gaming Mouse,41,45.56,161.15
+38,Gaming Mouse,41,36.42,202.5
+39,Gaming Mouse,41,44.56,209.08
+40,Gaming Mouse,41,34.34,200.64
+41,Gaming Mouse,41,54.8,175.72
+42,Gaming Mouse,41,39.92,200.25
+43,Gaming Mouse,41,39.38,219.49
+44,Gaming Mouse,41,46.72,197.33
+45,Gaming Mouse,41,38.91,221.86
+46,Gaming Mouse,41,48.27,186.28
+47,Gaming Mouse,41,42.86,202.28
+48,Gaming Mouse,41,40.41,205.47
+49,Gaming Mouse,41,39.87,225.37
+50,Gaming Mouse,41,47.04,208.93
+51,Gaming Mouse,41,42.15,193.46
+52,Gaming Mouse,41,43.16,208.16
+53,Gaming Mouse,41,43.71,210.47
+54,Gaming Mouse,41,41.66,216.61
+55,Gaming Mouse,41,43.6,210.76
+56,Gaming Mouse,41,40.41,212.01
+57,Gaming Mouse,41,40.75,221.39
+58,Gaming Mouse,41,35.4,242.71
+59,Gaming Mouse,41,42.49,214.49
+60,Gaming Mouse,41,32.4,250.41
+61,Gaming Mouse,41,42.42,227.81
+62,Gaming Mouse,41,39.6,193.82
+63,Gaming Mouse,41,42.87,226.08
+64,Gaming Mouse,41,35.76,238.58
+65,Gaming Mouse,41,30.4,232.98
+66,Gaming Mouse,41,39.25,235.32
+67,Gaming Mouse,41,35.77,227.88
+68,Gaming Mouse,41,32.1,241.09
+69,Gaming Mouse,41,44.84,199.31
+70,Gaming Mouse,41,49.01,199.09
+71,Gaming Mouse,41,37.02,218.87
+72,Gaming Mouse,41,40.62,233.48
+73,Gaming Mouse,41,39.46,221.47
+74,Gaming Mouse,41,37.71,223.46
+75,Gaming Mouse,41,44.32,220.48
+76,Gaming Mouse,41,46.05,199.3
+77,Gaming Mouse,41,36.66,246.59
+78,Gaming Mouse,41,41.22,233.44
+79,Gaming Mouse,41,47.42,180.21
+80,Gaming Mouse,41,44.45,225.88
+81,Gaming Mouse,41,45.19,185.14
+82,Gaming Mouse,41,47.84,216.76
+83,Gaming Mouse,41,47.77,229.86
+84,Gaming Mouse,41,46.14,217.5
+85,Gaming Mouse,41,41.72,185.33
+86,Gaming Mouse,41,39.09,241.58
+87,Gaming Mouse,41,41.52,252.07
+88,Gaming Mouse,41,38.33,223.42
+89,Gaming Mouse,41,31.24,248.74
+90,Gaming Mouse,41,39.6,206.35
+91,Gaming Mouse,41,42.79,219.32
+92,Gaming Mouse,41,38.06,247.85
+93,Gaming Mouse,41,40.04,233.35
+94,Gaming Mouse,41,40.23,269.43
+95,Gaming Mouse,41,47.78,200.12
+96,Gaming Mouse,41,39.2,200.88
+97,Gaming Mouse,41,47.78,202.14
+98,Gaming Mouse,41,27.44,224.33
+99,Gaming Mouse,41,47.74,191.64
+100,Gaming Mouse,41,47.49,224.71
+101,Gaming Mouse,41,45.51,211.1
+102,Gaming Mouse,41,30.94,252.57
+103,Gaming Mouse,41,46.09,231.67
+104,Gaming Mouse,41,40.75,216.27
+105,Gaming Mouse,41,28.35,276.37
+106,Gaming Mouse,41,47.49,201.89
+107,Gaming Mouse,41,48.22,203.37
+108,Gaming Mouse,41,31.48,229.55
+109,Gaming Mouse,41,41.88,209.28
+110,Gaming Mouse,41,47.94,177.25
+111,Gaming Mouse,41,47.15,199.05
+112,Gaming Mouse,41,45.18,212.14
+113,Gaming Mouse,41,27.76,241.76
+114,Gaming Mouse,41,44.65,238.37
+115,Gaming Mouse,41,39.91,225.89
+116,Gaming Mouse,41,45.98,204.24
+117,Gaming Mouse,41,42.28,225.87
+118,Gaming Mouse,41,40.9,205.88
+119,Gaming Mouse,41,44.2,210.71
+120,Gaming Mouse,41,40.14,209.53
+121,Gaming Mouse,41,40.88,241.29
+122,Gaming Mouse,41,38.22,209.83
+123,Gaming Mouse,41,32.97,242.23
+124,Gaming Mouse,41,43.84,213.45
+125,Gaming Mouse,41,36.97,234.85
+126,Gaming Mouse,41,40.0,210.95
+127,Gaming Mouse,41,42.43,198.72
+128,Gaming Mouse,41,30.57,239.04
+129,Gaming Mouse,41,31.69,251.9
+130,Gaming Mouse,41,39.5,218.19
+131,Gaming Mouse,41,43.27,220.76
+132,Gaming Mouse,41,44.72,211.41
+133,Gaming Mouse,41,33.04,204.91
+134,Gaming Mouse,41,44.18,209.13
+135,Gaming Mouse,41,39.77,252.17
+136,Gaming Mouse,41,36.58,247.63
+137,Gaming Mouse,41,37.76,230.32
+138,Gaming Mouse,41,45.01,186.1
+139,Gaming Mouse,41,42.37,216.82
+140,Gaming Mouse,41,41.25,223.86
+141,Gaming Mouse,41,42.22,205.8
+142,Gaming Mouse,41,45.64,203.83
+143,Gaming Mouse,41,40.51,236.84
+144,Gaming Mouse,41,41.27,198.8
+145,Gaming Mouse,41,46.69,179.25
+146,Gaming Mouse,41,39.34,227.29
+147,Gaming Mouse,41,44.09,209.23
+148,Gaming Mouse,41,38.48,234.35
+149,Gaming Mouse,41,38.92,225.86
+150,Gaming Mouse,41,40.48,203.83
+151,Gaming Mouse,41,43.58,209.25
+152,Gaming Mouse,41,46.97,175.15
+153,Gaming Mouse,41,41.48,204.7
+154,Gaming Mouse,41,33.5,239.64
+155,Gaming Mouse,41,44.16,194.42
+156,Gaming Mouse,41,53.27,209.2
+157,Gaming Mouse,41,41.54,178.66
+158,Gaming Mouse,41,32.46,225.78
+159,Gaming Mouse,41,41.85,191.44
+160,Gaming Mouse,41,40.98,197.27
+161,Gaming Mouse,41,40.56,199.08
+162,Gaming Mouse,41,45.73,173.01
+163,Gaming Mouse,41,47.89,197.38
+164,Gaming Mouse,41,44.42,187.98
+165,Gaming Mouse,41,40.33,210.56
+166,Gaming Mouse,41,46.63,182.38
+167,Gaming Mouse,41,33.53,217.5
+168,Gaming Mouse,41,37.42,240.95
+169,Gaming Mouse,41,37.98,227.7
+170,Gaming Mouse,41,40.85,176.89
+171,Gaming Mouse,41,43.53,166.9
+172,Gaming Mouse,41,40.0,222.42
+173,Gaming Mouse,41,36.47,209.23
+174,Gaming Mouse,41,45.87,163.74
+175,Gaming Mouse,41,39.82,221.97
+176,Gaming Mouse,41,41.51,203.42
+177,Gaming Mouse,41,43.76,197.58
+178,Gaming Mouse,41,41.19,213.28
+179,Gaming Mouse,41,41.22,181.08
+180,Gaming Mouse,41,46.15,161.11
+181,Gaming Mouse,41,41.76,222.13
+182,Gaming Mouse,41,45.31,165.85
+183,Gaming Mouse,41,43.72,173.5
+184,Gaming Mouse,41,51.08,154.06
+185,Gaming Mouse,41,43.05,224.37
+186,Gaming Mouse,41,44.19,196.8
+187,Gaming Mouse,41,46.51,196.58
+188,Gaming Mouse,41,41.32,200.26
+189,Gaming Mouse,41,37.81,198.47
+190,Gaming Mouse,41,38.63,214.17
+191,Gaming Mouse,41,38.68,180.87
+192,Gaming Mouse,41,36.25,194.73
+193,Gaming Mouse,41,42.59,202.79
+194,Gaming Mouse,41,37.85,185.31
+195,Gaming Mouse,41,41.97,190.13
+196,Gaming Mouse,41,40.21,195.78
+197,Gaming Mouse,41,40.79,187.91
+198,Gaming Mouse,41,43.78,157.27
+199,Gaming Mouse,41,38.29,193.24
+200,Gaming Mouse,41,44.19,172.26
+201,Gaming Mouse,41,48.84,172.8
+202,Gaming Mouse,41,42.72,190.07
+203,Gaming Mouse,41,37.09,210.63
+204,Gaming Mouse,41,37.92,191.99
+205,Gaming Mouse,41,39.76,204.15
+206,Gaming Mouse,41,38.03,177.85
+207,Gaming Mouse,41,36.04,179.49
+208,Gaming Mouse,41,41.77,154.28
+209,Gaming Mouse,41,39.89,187.15
+210,Gaming Mouse,41,41.95,176.87
+211,Gaming Mouse,41,46.93,184.75
+212,Gaming Mouse,41,39.82,184.22
+213,Gaming Mouse,41,35.07,211.98
+214,Gaming Mouse,41,39.01,207.98
+215,Gaming Mouse,41,44.85,167.65
+216,Gaming Mouse,41,44.38,183.53
+217,Gaming Mouse,41,43.59,196.17
+218,Gaming Mouse,41,37.88,179.44
+219,Gaming Mouse,41,44.76,177.45
+220,Gaming Mouse,41,45.88,163.19
+221,Gaming Mouse,41,37.52,180.62
+222,Gaming Mouse,41,40.79,165.11
+223,Gaming Mouse,41,51.1,139.1
+224,Gaming Mouse,41,37.3,199.0
+225,Gaming Mouse,41,32.47,188.15
+226,Gaming Mouse,41,47.91,157.48
+227,Gaming Mouse,41,46.68,181.38
+228,Gaming Mouse,41,38.72,199.57
+229,Gaming Mouse,41,40.44,179.47
+230,Gaming Mouse,41,34.88,229.22
+231,Gaming Mouse,41,41.44,212.32
+232,Gaming Mouse,41,46.83,167.93
+233,Gaming Mouse,41,38.29,155.91
+234,Gaming Mouse,41,45.39,184.72
+235,Gaming Mouse,41,43.32,143.0
+236,Gaming Mouse,41,43.89,197.63
+237,Gaming Mouse,41,38.58,207.46
+238,Gaming Mouse,41,39.23,215.67
+239,Gaming Mouse,41,31.77,215.15
+240,Gaming Mouse,41,38.17,186.43
+241,Gaming Mouse,41,46.82,158.95
+242,Gaming Mouse,41,36.35,188.72
+243,Gaming Mouse,41,37.1,209.22
+244,Gaming Mouse,41,44.2,183.7
+245,Gaming Mouse,41,43.01,178.22
+246,Gaming Mouse,41,44.45,161.11
+247,Gaming Mouse,41,35.18,239.02
+248,Gaming Mouse,41,53.82,157.21
+249,Gaming Mouse,41,34.92,176.1
+250,Gaming Mouse,41,41.77,171.63
+251,Gaming Mouse,41,40.21,197.91
+252,Gaming Mouse,41,35.07,187.23
+253,Gaming Mouse,41,39.15,192.13
+254,Gaming Mouse,41,41.12,195.09
+255,Gaming Mouse,41,37.75,139.99
+256,Gaming Mouse,41,45.69,165.28
+257,Gaming Mouse,41,40.19,182.25
+258,Gaming Mouse,41,34.29,194.7
+259,Gaming Mouse,41,33.87,206.58
+260,Gaming Mouse,41,44.03,181.35
+261,Gaming Mouse,41,33.57,204.93
+262,Gaming Mouse,41,42.58,170.07
+263,Gaming Mouse,41,43.22,183.18
+264,Gaming Mouse,41,36.02,195.96
+265,Gaming Mouse,41,45.45,163.42
+266,Gaming Mouse,41,32.41,186.27
+267,Gaming Mouse,41,42.48,152.26
+268,Gaming Mouse,41,40.8,160.75
+269,Gaming Mouse,41,40.41,186.03
+270,Gaming Mouse,41,35.11,196.53
+271,Gaming Mouse,41,36.31,171.88
+272,Gaming Mouse,41,49.09,165.42
+273,Gaming Mouse,41,47.08,182.39
+274,Gaming Mouse,41,44.71,159.89
+275,Gaming Mouse,41,45.7,139.79
+276,Gaming Mouse,41,45.23,156.68
+277,Gaming Mouse,41,39.38,197.69
+278,Gaming Mouse,41,41.24,187.56
+279,Gaming Mouse,41,33.64,188.33
+280,Gaming Mouse,41,40.55,204.27
+281,Gaming Mouse,41,46.92,182.62
+282,Gaming Mouse,41,37.7,179.11
+283,Gaming Mouse,41,46.12,153.74
+284,Gaming Mouse,41,41.46,170.03
+285,Gaming Mouse,41,34.07,193.53
+286,Gaming Mouse,41,35.46,211.3
+287,Gaming Mouse,41,45.6,173.09
+288,Gaming Mouse,41,43.76,185.45
+289,Gaming Mouse,41,41.51,189.24
+290,Gaming Mouse,41,39.63,210.59
+291,Gaming Mouse,41,42.05,161.81
+292,Gaming Mouse,41,45.4,173.46
+293,Gaming Mouse,41,48.38,126.32
+294,Gaming Mouse,41,48.62,138.57
+295,Gaming Mouse,41,42.86,174.6
+296,Gaming Mouse,41,40.14,190.28
+297,Gaming Mouse,41,41.73,177.83
+298,Gaming Mouse,41,43.61,165.35
+299,Gaming Mouse,41,43.59,168.22
+300,Gaming Mouse,41,47.54,182.9
+301,Gaming Mouse,41,51.58,144.64
+302,Gaming Mouse,41,39.97,211.61
+303,Gaming Mouse,41,51.78,162.03
+304,Gaming Mouse,41,46.86,171.9
+305,Gaming Mouse,41,40.5,166.4
+306,Gaming Mouse,41,48.49,174.52
+307,Gaming Mouse,41,49.43,150.47
+308,Gaming Mouse,41,38.7,172.33
+309,Gaming Mouse,41,49.66,165.25
+310,Gaming Mouse,41,46.38,146.79
+311,Gaming Mouse,41,52.84,136.98
+312,Gaming Mouse,41,38.88,190.36
+313,Gaming Mouse,41,39.23,222.94
+314,Gaming Mouse,41,30.87,204.68
+315,Gaming Mouse,41,43.86,169.36
+316,Gaming Mouse,41,42.88,190.39
+317,Gaming Mouse,41,38.19,175.13
+318,Gaming Mouse,41,40.59,193.37
+319,Gaming Mouse,41,34.44,223.49
+320,Gaming Mouse,41,46.99,163.4
+321,Gaming Mouse,41,38.55,208.97
+322,Gaming Mouse,41,56.47,144.44
+323,Gaming Mouse,41,40.12,178.41
+324,Gaming Mouse,41,37.2,195.43
+325,Gaming Mouse,41,38.94,187.75
+326,Gaming Mouse,41,33.94,207.4
+327,Gaming Mouse,41,43.41,182.86
+328,Gaming Mouse,41,38.9,203.2
+329,Gaming Mouse,41,46.66,179.02
+330,Gaming Mouse,41,39.63,156.28
+331,Gaming Mouse,41,47.92,166.7
+332,Gaming Mouse,41,44.79,155.21
+333,Gaming Mouse,41,41.14,184.94
+334,Gaming Mouse,41,48.9,164.24
+335,Gaming Mouse,41,45.76,190.46
+336,Gaming Mouse,41,55.73,145.76
+337,Gaming Mouse,41,38.95,200.74
+338,Gaming Mouse,41,41.38,201.76
+339,Gaming Mouse,41,48.84,186.21
+340,Gaming Mouse,41,33.28,212.94
+341,Gaming Mouse,41,47.58,173.61
+342,Gaming Mouse,41,43.2,185.83
+343,Gaming Mouse,41,36.56,197.77
+344,Gaming Mouse,41,34.18,201.82
+345,Gaming Mouse,41,37.64,169.24
+346,Gaming Mouse,41,29.58,211.68
+347,Gaming Mouse,41,38.55,174.55
+348,Gaming Mouse,41,44.11,203.7
+349,Gaming Mouse,41,38.62,204.52
+350,Gaming Mouse,41,47.94,172.17
+351,Gaming Mouse,41,49.3,159.55
+352,Gaming Mouse,41,47.38,176.86
+353,Gaming Mouse,41,42.15,179.71
+354,Gaming Mouse,41,29.38,233.71
+355,Gaming Mouse,41,37.48,210.81
+356,Gaming Mouse,41,40.29,186.12
+357,Gaming Mouse,41,36.53,197.45
+358,Gaming Mouse,41,40.3,214.11
+359,Gaming Mouse,41,49.05,172.99
+360,Gaming Mouse,41,32.77,211.25
+361,Gaming Mouse,41,50.06,165.89
+362,Gaming Mouse,41,45.42,170.53
+363,Gaming Mouse,41,42.34,194.28
+364,Gaming Mouse,41,37.43,222.83
+365,Gaming Mouse,41,36.63,212.69
+1,Smartwatch,55,57.69,170.06
+2,Smartwatch,55,60.36,179.62
+3,Smartwatch,55,53.18,194.88
+4,Smartwatch,55,50.8,218.41
+5,Smartwatch,55,49.78,237.16
+6,Smartwatch,55,45.17,203.09
+7,Smartwatch,55,65.28,172.95
+8,Smartwatch,55,49.48,216.56
+9,Smartwatch,55,53.89,216.14
+10,Smartwatch,55,53.62,210.44
+11,Smartwatch,55,56.54,187.54
+12,Smartwatch,55,59.08,186.75
+13,Smartwatch,55,59.3,179.27
+14,Smartwatch,55,52.08,229.34
+15,Smartwatch,55,54.16,207.61
+16,Smartwatch,55,56.41,229.4
+17,Smartwatch,55,53.76,208.27
+18,Smartwatch,55,63.04,171.05
+19,Smartwatch,55,57.45,176.04
+20,Smartwatch,55,58.67,168.37
+21,Smartwatch,55,58.31,173.06
+22,Smartwatch,55,60.87,193.5
+23,Smartwatch,55,55.91,212.33
+24,Smartwatch,55,48.52,203.47
+25,Smartwatch,55,57.0,215.48
+26,Smartwatch,55,51.74,210.89
+27,Smartwatch,55,52.36,218.81
+28,Smartwatch,55,57.93,224.38
+29,Smartwatch,55,61.19,204.17
+30,Smartwatch,55,55.11,205.25
+31,Smartwatch,55,56.54,191.9
+32,Smartwatch,55,63.51,152.39
+33,Smartwatch,55,56.2,196.1
+34,Smartwatch,55,68.01,168.59
+35,Smartwatch,55,57.83,187.79
+36,Smartwatch,55,46.2,235.8
+37,Smartwatch,55,58.77,201.5
+38,Smartwatch,55,56.91,202.83
+39,Smartwatch,55,61.45,183.1
+40,Smartwatch,55,58.37,204.9
+41,Smartwatch,55,54.31,221.44
+42,Smartwatch,55,48.88,215.01
+43,Smartwatch,55,53.95,237.56
+44,Smartwatch,55,50.75,224.8
+45,Smartwatch,55,52.1,222.76
+46,Smartwatch,55,57.94,215.81
+47,Smartwatch,55,63.35,192.71
+48,Smartwatch,55,56.97,222.88
+49,Smartwatch,55,49.02,236.98
+50,Smartwatch,55,57.22,199.11
+51,Smartwatch,55,60.98,202.67
+52,Smartwatch,55,51.95,207.41
+53,Smartwatch,55,54.33,219.28
+54,Smartwatch,55,55.07,215.13
+55,Smartwatch,55,51.08,224.71
+56,Smartwatch,55,58.24,204.61
+57,Smartwatch,55,54.4,190.05
+58,Smartwatch,55,57.1,202.13
+59,Smartwatch,55,50.56,231.55
+60,Smartwatch,55,52.81,225.99
+61,Smartwatch,55,58.61,190.95
+62,Smartwatch,55,53.14,241.96
+63,Smartwatch,55,63.63,178.65
+64,Smartwatch,55,53.0,238.25
+65,Smartwatch,55,56.12,220.9
+66,Smartwatch,55,59.66,194.34
+67,Smartwatch,55,47.91,266.07
+68,Smartwatch,55,46.2,226.82
+69,Smartwatch,55,47.37,255.12
+70,Smartwatch,55,61.31,214.65
+71,Smartwatch,55,52.24,216.92
+72,Smartwatch,55,67.79,201.33
+73,Smartwatch,55,52.18,223.65
+74,Smartwatch,55,55.92,220.6
+75,Smartwatch,55,62.71,199.92
+76,Smartwatch,55,65.03,187.14
+77,Smartwatch,55,65.31,200.57
+78,Smartwatch,55,61.04,213.2
+79,Smartwatch,55,60.12,177.91
+80,Smartwatch,55,57.96,230.25
+81,Smartwatch,55,58.89,183.03
+82,Smartwatch,55,52.24,243.46
+83,Smartwatch,55,50.91,248.93
+84,Smartwatch,55,54.98,203.5
+85,Smartwatch,55,54.15,216.24
+86,Smartwatch,55,52.73,210.11
+87,Smartwatch,55,58.48,206.26
+88,Smartwatch,55,59.78,201.0
+89,Smartwatch,55,55.44,230.34
+90,Smartwatch,55,62.39,217.48
+91,Smartwatch,55,49.29,258.06
+92,Smartwatch,55,54.03,214.47
+93,Smartwatch,55,51.42,227.61
+94,Smartwatch,55,45.67,222.73
+95,Smartwatch,55,54.59,209.13
+96,Smartwatch,55,54.39,236.25
+97,Smartwatch,55,62.57,221.46
+98,Smartwatch,55,58.15,191.92
+99,Smartwatch,55,49.88,226.33
+100,Smartwatch,55,64.27,191.6
+101,Smartwatch,55,61.11,205.65
+102,Smartwatch,55,57.91,198.83
+103,Smartwatch,55,53.87,229.4
+104,Smartwatch,55,50.2,226.86
+105,Smartwatch,55,53.14,224.86
+106,Smartwatch,55,60.44,211.28
+107,Smartwatch,55,64.42,191.16
+108,Smartwatch,55,62.72,189.55
+109,Smartwatch,55,52.56,224.83
+110,Smartwatch,55,49.4,234.51
+111,Smartwatch,55,55.7,211.27
+112,Smartwatch,55,46.16,241.46
+113,Smartwatch,55,56.62,237.83
+114,Smartwatch,55,54.26,229.2
+115,Smartwatch,55,52.67,221.0
+116,Smartwatch,55,47.03,252.68
+117,Smartwatch,55,57.57,205.46
+118,Smartwatch,55,52.34,243.61
+119,Smartwatch,55,49.15,240.96
+120,Smartwatch,55,40.64,259.18
+121,Smartwatch,55,54.86,224.67
+122,Smartwatch,55,63.86,167.23
+123,Smartwatch,55,63.31,175.38
+124,Smartwatch,55,52.71,205.97
+125,Smartwatch,55,51.99,228.02
+126,Smartwatch,55,57.34,235.61
+127,Smartwatch,55,50.01,264.9
+128,Smartwatch,55,56.51,221.31
+129,Smartwatch,55,58.83,212.08
+130,Smartwatch,55,61.13,170.43
+131,Smartwatch,55,54.5,209.0
+132,Smartwatch,55,53.98,206.66
+133,Smartwatch,55,50.61,219.05
+134,Smartwatch,55,50.87,224.85
+135,Smartwatch,55,53.87,211.05
+136,Smartwatch,55,56.84,179.3
+137,Smartwatch,55,59.57,211.78
+138,Smartwatch,55,50.98,209.98
+139,Smartwatch,55,62.46,194.97
+140,Smartwatch,55,53.64,248.7
+141,Smartwatch,55,54.89,199.79
+142,Smartwatch,55,51.26,186.26
+143,Smartwatch,55,42.88,244.81
+144,Smartwatch,55,59.42,215.72
+145,Smartwatch,55,58.68,230.52
+146,Smartwatch,55,53.59,197.7
+147,Smartwatch,55,55.33,218.09
+148,Smartwatch,55,57.58,196.64
+149,Smartwatch,55,47.19,232.92
+150,Smartwatch,55,52.35,258.39
+151,Smartwatch,55,58.97,176.04
+152,Smartwatch,55,48.73,232.82
+153,Smartwatch,55,56.47,212.51
+154,Smartwatch,55,48.22,246.23
+155,Smartwatch,55,57.33,203.77
+156,Smartwatch,55,54.82,214.14
+157,Smartwatch,55,46.92,227.03
+158,Smartwatch,55,60.82,194.93
+159,Smartwatch,55,51.33,213.92
+160,Smartwatch,55,50.95,229.21
+161,Smartwatch,55,56.0,198.86
+162,Smartwatch,55,60.74,195.52
+163,Smartwatch,55,49.92,221.57
+164,Smartwatch,55,55.31,222.41
+165,Smartwatch,55,57.14,198.91
+166,Smartwatch,55,58.47,168.79
+167,Smartwatch,55,55.88,221.74
+168,Smartwatch,55,53.16,197.04
+169,Smartwatch,55,50.86,207.39
+170,Smartwatch,55,55.43,194.22
+171,Smartwatch,55,49.64,240.81
+172,Smartwatch,55,40.39,215.56
+173,Smartwatch,55,57.18,243.95
+174,Smartwatch,55,59.52,205.38
+175,Smartwatch,55,43.19,241.55
+176,Smartwatch,55,49.95,216.73
+177,Smartwatch,55,58.1,197.06
+178,Smartwatch,55,65.29,178.68
+179,Smartwatch,55,55.1,210.75
+180,Smartwatch,55,51.36,220.29
+181,Smartwatch,55,54.09,204.78
+182,Smartwatch,55,61.87,176.76
+183,Smartwatch,55,51.77,207.42
+184,Smartwatch,55,51.0,208.72
+185,Smartwatch,55,52.59,223.56
+186,Smartwatch,55,50.23,222.17
+187,Smartwatch,55,55.61,152.67
+188,Smartwatch,55,63.12,183.74
+189,Smartwatch,55,56.62,196.01
+190,Smartwatch,55,53.74,201.09
+191,Smartwatch,55,53.54,195.8
+192,Smartwatch,55,47.18,237.21
+193,Smartwatch,55,59.42,197.53
+194,Smartwatch,55,54.61,185.8
+195,Smartwatch,55,54.1,204.7
+196,Smartwatch,55,70.97,133.08
+197,Smartwatch,55,56.49,170.04
+198,Smartwatch,55,51.24,196.76
+199,Smartwatch,55,52.87,213.88
+200,Smartwatch,55,60.74,191.29
+201,Smartwatch,55,55.57,199.88
+202,Smartwatch,55,47.81,226.01
+203,Smartwatch,55,59.6,187.19
+204,Smartwatch,55,51.66,193.31
+205,Smartwatch,55,64.37,170.97
+206,Smartwatch,55,60.4,188.07
+207,Smartwatch,55,52.76,209.97
+208,Smartwatch,55,61.41,190.25
+209,Smartwatch,55,55.34,200.93
+210,Smartwatch,55,59.26,183.49
+211,Smartwatch,55,57.42,199.49
+212,Smartwatch,55,50.77,202.7
+213,Smartwatch,55,51.78,186.52
+214,Smartwatch,55,60.15,171.91
+215,Smartwatch,55,53.33,183.35
+216,Smartwatch,55,52.98,185.14
+217,Smartwatch,55,50.22,201.08
+218,Smartwatch,55,57.12,170.4
+219,Smartwatch,55,65.31,152.8
+220,Smartwatch,55,49.66,175.69
+221,Smartwatch,55,55.12,190.64
+222,Smartwatch,55,62.06,166.36
+223,Smartwatch,55,54.6,176.2
+224,Smartwatch,55,57.26,190.1
+225,Smartwatch,55,49.69,216.74
+226,Smartwatch,55,57.14,155.94
+227,Smartwatch,55,54.06,177.6
+228,Smartwatch,55,59.93,159.66
+229,Smartwatch,55,60.94,153.83
+230,Smartwatch,55,67.95,159.1
+231,Smartwatch,55,57.9,173.66
+232,Smartwatch,55,56.63,176.18
+233,Smartwatch,55,55.97,151.83
+234,Smartwatch,55,53.23,199.41
+235,Smartwatch,55,56.69,160.7
+236,Smartwatch,55,53.52,189.48
+237,Smartwatch,55,55.84,185.58
+238,Smartwatch,55,61.59,184.38
+239,Smartwatch,55,49.97,179.01
+240,Smartwatch,55,60.7,120.96
+241,Smartwatch,55,61.59,166.16
+242,Smartwatch,55,54.41,211.75
+243,Smartwatch,55,44.39,233.21
+244,Smartwatch,55,51.96,194.88
+245,Smartwatch,55,61.48,155.62
+246,Smartwatch,55,54.89,194.74
+247,Smartwatch,55,50.0,182.52
+248,Smartwatch,55,52.48,196.7
+249,Smartwatch,55,59.2,176.81
+250,Smartwatch,55,57.73,189.39
+251,Smartwatch,55,53.81,226.53
+252,Smartwatch,55,53.17,192.81
+253,Smartwatch,55,53.04,179.54
+254,Smartwatch,55,50.39,194.63
+255,Smartwatch,55,63.08,130.3
+256,Smartwatch,55,53.39,175.37
+257,Smartwatch,55,61.09,156.46
+258,Smartwatch,55,62.61,150.08
+259,Smartwatch,55,59.99,167.98
+260,Smartwatch,55,52.84,174.72
+261,Smartwatch,55,57.02,191.26
+262,Smartwatch,55,54.88,180.79
+263,Smartwatch,55,50.48,193.78
+264,Smartwatch,55,56.62,170.51
+265,Smartwatch,55,49.1,200.25
+266,Smartwatch,55,60.94,174.75
+267,Smartwatch,55,52.68,174.11
+268,Smartwatch,55,56.01,167.22
+269,Smartwatch,55,56.42,171.27
+270,Smartwatch,55,53.71,163.74
+271,Smartwatch,55,57.93,158.94
+272,Smartwatch,55,52.63,179.99
+273,Smartwatch,55,59.36,180.05
+274,Smartwatch,55,48.27,204.13
+275,Smartwatch,55,55.63,181.01
+276,Smartwatch,55,64.69,163.69
+277,Smartwatch,55,50.0,192.97
+278,Smartwatch,55,51.61,196.07
+279,Smartwatch,55,57.57,170.82
+280,Smartwatch,55,55.9,181.39
+281,Smartwatch,55,56.75,166.14
+282,Smartwatch,55,57.45,136.27
+283,Smartwatch,55,58.17,168.71
+284,Smartwatch,55,60.55,184.99
+285,Smartwatch,55,57.05,188.11
+286,Smartwatch,55,53.79,198.53
+287,Smartwatch,55,58.36,188.95
+288,Smartwatch,55,64.5,153.41
+289,Smartwatch,55,54.34,185.62
+290,Smartwatch,55,50.13,186.11
+291,Smartwatch,55,60.54,159.51
+292,Smartwatch,55,54.4,192.0
+293,Smartwatch,55,44.14,231.71
+294,Smartwatch,55,59.24,166.38
+295,Smartwatch,55,52.32,182.58
+296,Smartwatch,55,54.55,182.79
+297,Smartwatch,55,56.66,185.59
+298,Smartwatch,55,55.95,157.18
+299,Smartwatch,55,58.55,136.75
+300,Smartwatch,55,52.82,180.25
+301,Smartwatch,55,57.57,156.13
+302,Smartwatch,55,53.7,178.56
+303,Smartwatch,55,58.69,169.16
+304,Smartwatch,55,58.08,166.59
+305,Smartwatch,55,50.32,218.61
+306,Smartwatch,55,60.43,171.59
+307,Smartwatch,55,52.32,195.7
+308,Smartwatch,55,59.04,180.56
+309,Smartwatch,55,56.84,160.95
+310,Smartwatch,55,64.19,171.75
+311,Smartwatch,55,53.88,186.16
+312,Smartwatch,55,53.25,199.45
+313,Smartwatch,55,54.9,168.58
+314,Smartwatch,55,53.48,165.82
+315,Smartwatch,55,59.0,185.07
+316,Smartwatch,55,46.92,214.92
+317,Smartwatch,55,49.73,187.54
+318,Smartwatch,55,49.66,188.47
+319,Smartwatch,55,59.75,188.36
+320,Smartwatch,55,63.55,142.48
+321,Smartwatch,55,54.48,212.44
+322,Smartwatch,55,54.16,175.5
+323,Smartwatch,55,55.35,195.26
+324,Smartwatch,55,60.81,164.64
+325,Smartwatch,55,50.36,210.22
+326,Smartwatch,55,56.19,175.79
+327,Smartwatch,55,59.88,170.73
+328,Smartwatch,55,57.51,181.17
+329,Smartwatch,55,55.95,170.48
+330,Smartwatch,55,60.01,184.74
+331,Smartwatch,55,41.48,221.77
+332,Smartwatch,55,58.39,175.62
+333,Smartwatch,55,51.73,184.4
+334,Smartwatch,55,45.85,178.83
+335,Smartwatch,55,57.56,179.57
+336,Smartwatch,55,61.87,205.99
+337,Smartwatch,55,54.31,204.54
+338,Smartwatch,55,59.76,176.43
+339,Smartwatch,55,63.06,163.19
+340,Smartwatch,55,61.57,172.25
+341,Smartwatch,55,63.2,175.56
+342,Smartwatch,55,58.71,163.42
+343,Smartwatch,55,55.38,208.17
+344,Smartwatch,55,46.99,227.67
+345,Smartwatch,55,53.77,207.7
+346,Smartwatch,55,50.78,212.78
+347,Smartwatch,55,65.85,161.62
+348,Smartwatch,55,54.12,206.95
+349,Smartwatch,55,55.62,201.58
+350,Smartwatch,55,57.76,181.3
+351,Smartwatch,55,55.22,185.96
+352,Smartwatch,55,63.48,171.65
+353,Smartwatch,55,51.89,228.46
+354,Smartwatch,55,55.97,174.72
+355,Smartwatch,55,51.29,185.69
+356,Smartwatch,55,48.4,219.18
+357,Smartwatch,55,51.94,207.19
+358,Smartwatch,55,54.81,200.74
+359,Smartwatch,55,52.85,208.03
+360,Smartwatch,55,51.54,205.31
+361,Smartwatch,55,47.97,242.06
+362,Smartwatch,55,54.58,176.2
+363,Smartwatch,55,47.48,209.45
+364,Smartwatch,55,58.8,186.71
+365,Smartwatch,55,55.41,174.12
