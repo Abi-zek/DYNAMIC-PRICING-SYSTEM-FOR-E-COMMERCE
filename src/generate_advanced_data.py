@@ -68,6 +68,11 @@ df.rename(columns={
     "promotion_discount": "promotion_flag"
 }, inplace=True)
 
+# Add cost, revenue, and profit columns for projections
+df["cost_per_unit"] = df["base_price"] * 0.6  # Approximate cost
+df["revenue"] = df["base_price"] * df["demand"]
+df["profit"] = (df["base_price"] - df["cost_per_unit"]) * df["demand"]
+
 # Save to CSV
 script_dir = os.path.dirname(os.path.abspath(__file__))
 output_path = os.path.join(script_dir, "..", "data", "advanced_dynamic_pricing_data.csv")

@@ -1,1096 +1,1096 @@
-day,product,base_price,avg_competitor_price,inventory_level,promotion_flag,customer_type,demand
-1,Wireless Earbuds,78,77.14,485,-5,price_sensitive,217.83
-2,Wireless Earbuds,78,79.81,485,-10,loyal,184.93
-3,Wireless Earbuds,78,74.52,485,0,occasional,190.01
-4,Wireless Earbuds,78,77.0,485,0,price_sensitive,204.02
-5,Wireless Earbuds,78,77.79,485,0,loyal,181.82
-6,Wireless Earbuds,78,73.49,485,0,occasional,242.26
-7,Wireless Earbuds,78,77.05,485,0,occasional,209.92
-8,Wireless Earbuds,78,75.68,485,0,occasional,230.3
-9,Wireless Earbuds,78,77.27,485,0,loyal,184.45
-10,Wireless Earbuds,78,76.14,485,-10,price_sensitive,198.66
-11,Wireless Earbuds,78,80.4,485,-5,loyal,210.85
-12,Wireless Earbuds,78,75.28,485,-5,price_sensitive,228.13
-13,Wireless Earbuds,78,81.49,485,0,loyal,198.63
-14,Wireless Earbuds,78,79.42,485,-5,occasional,220.7
-15,Wireless Earbuds,78,74.87,485,0,occasional,214.18
-16,Wireless Earbuds,78,77.69,485,0,loyal,206.05
-17,Wireless Earbuds,78,81.19,485,0,occasional,195.87
-18,Wireless Earbuds,78,76.54,485,0,occasional,231.17
-19,Wireless Earbuds,78,75.21,485,0,loyal,214.48
-20,Wireless Earbuds,78,76.61,485,0,loyal,194.05
-21,Wireless Earbuds,78,77.03,485,0,loyal,214.68
-22,Wireless Earbuds,78,83.88,485,0,occasional,189.45
-23,Wireless Earbuds,78,78.0,485,0,occasional,207.41
-24,Wireless Earbuds,78,80.46,485,0,price_sensitive,200.34
-25,Wireless Earbuds,78,79.14,485,0,loyal,225.09
-26,Wireless Earbuds,78,78.23,485,0,price_sensitive,207.67
-27,Wireless Earbuds,78,79.65,485,-5,loyal,203.74
-28,Wireless Earbuds,78,71.82,485,-5,occasional,204.27
-29,Wireless Earbuds,78,77.88,485,0,occasional,209.66
-30,Wireless Earbuds,78,77.89,485,-10,price_sensitive,220.91
-31,Wireless Earbuds,78,80.72,485,-5,occasional,176.56
-32,Wireless Earbuds,78,77.52,485,-10,occasional,222.82
-33,Wireless Earbuds,78,76.38,485,0,price_sensitive,193.81
-34,Wireless Earbuds,78,82.27,485,0,occasional,182.67
-35,Wireless Earbuds,78,78.9,485,0,occasional,213.37
-36,Wireless Earbuds,78,81.45,485,0,loyal,201.0
-37,Wireless Earbuds,78,79.31,485,0,loyal,207.71
-38,Wireless Earbuds,78,83.53,485,0,loyal,214.87
-39,Wireless Earbuds,78,71.77,485,0,occasional,230.9
-40,Wireless Earbuds,78,76.34,485,0,price_sensitive,239.21
-41,Wireless Earbuds,78,81.3,485,0,price_sensitive,228.61
-42,Wireless Earbuds,78,75.85,485,0,occasional,202.02
-43,Wireless Earbuds,78,86.23,485,-10,occasional,197.43
-44,Wireless Earbuds,78,75.47,485,-5,occasional,194.0
-45,Wireless Earbuds,78,75.03,485,0,occasional,222.68
-46,Wireless Earbuds,78,77.3,485,0,loyal,237.72
-47,Wireless Earbuds,78,79.14,485,-10,price_sensitive,200.84
-48,Wireless Earbuds,78,76.61,485,-5,occasional,196.31
-49,Wireless Earbuds,78,78.71,485,0,occasional,217.61
-50,Wireless Earbuds,78,74.48,485,0,loyal,248.09
-51,Wireless Earbuds,78,82.83,485,0,loyal,220.71
-52,Wireless Earbuds,78,75.03,485,0,loyal,201.9
-53,Wireless Earbuds,78,79.36,485,0,loyal,211.55
-54,Wireless Earbuds,78,73.99,485,0,price_sensitive,227.87
-55,Wireless Earbuds,78,85.07,485,-10,price_sensitive,189.84
-56,Wireless Earbuds,78,83.41,485,-5,occasional,220.52
-57,Wireless Earbuds,78,81.48,485,0,occasional,185.43
-58,Wireless Earbuds,78,75.72,485,0,loyal,223.48
-59,Wireless Earbuds,78,75.85,485,0,occasional,223.29
-60,Wireless Earbuds,78,80.99,485,0,loyal,187.25
-61,Wireless Earbuds,78,80.36,485,0,occasional,231.14
-62,Wireless Earbuds,78,80.97,485,0,loyal,213.48
-63,Wireless Earbuds,78,74.18,485,-5,loyal,205.62
-64,Wireless Earbuds,78,83.75,485,-5,price_sensitive,195.47
-65,Wireless Earbuds,78,74.59,485,0,loyal,228.08
-66,Wireless Earbuds,78,76.93,485,-5,price_sensitive,194.1
-67,Wireless Earbuds,78,82.81,485,0,loyal,224.09
-68,Wireless Earbuds,78,78.44,485,0,occasional,216.98
-69,Wireless Earbuds,78,77.26,485,0,occasional,248.22
-70,Wireless Earbuds,78,76.84,485,-10,loyal,239.75
-71,Wireless Earbuds,78,72.08,485,-5,occasional,231.45
-72,Wireless Earbuds,78,80.7,485,0,loyal,210.72
-73,Wireless Earbuds,78,72.24,485,0,occasional,236.22
-74,Wireless Earbuds,78,80.3,485,-10,loyal,202.15
-75,Wireless Earbuds,78,77.61,485,0,price_sensitive,220.31
-76,Wireless Earbuds,78,78.27,485,-10,loyal,213.42
-77,Wireless Earbuds,78,72.32,485,0,loyal,241.38
-78,Wireless Earbuds,78,78.64,485,0,loyal,217.49
-79,Wireless Earbuds,78,80.18,485,0,occasional,212.97
-80,Wireless Earbuds,78,79.44,485,-5,price_sensitive,231.79
-81,Wireless Earbuds,78,78.88,485,0,occasional,216.99
-82,Wireless Earbuds,78,82.22,485,0,loyal,207.04
-83,Wireless Earbuds,78,76.51,485,0,price_sensitive,252.16
-84,Wireless Earbuds,78,79.15,485,0,occasional,221.37
-85,Wireless Earbuds,78,82.01,485,0,loyal,207.83
-86,Wireless Earbuds,78,81.79,485,0,price_sensitive,187.67
-87,Wireless Earbuds,78,81.22,485,-5,occasional,205.26
-88,Wireless Earbuds,78,72.06,485,0,price_sensitive,237.78
-89,Wireless Earbuds,78,79.64,485,0,loyal,193.55
-90,Wireless Earbuds,78,76.16,485,0,loyal,253.55
-91,Wireless Earbuds,78,77.26,485,0,loyal,249.92
-92,Wireless Earbuds,78,79.21,485,0,loyal,216.38
-93,Wireless Earbuds,78,76.31,485,0,loyal,247.56
-94,Wireless Earbuds,78,73.96,485,0,occasional,232.12
-95,Wireless Earbuds,78,78.76,485,0,price_sensitive,217.7
-96,Wireless Earbuds,78,80.36,485,0,price_sensitive,191.57
-97,Wireless Earbuds,78,80.49,485,0,occasional,217.44
-98,Wireless Earbuds,78,79.81,485,0,price_sensitive,219.45
-99,Wireless Earbuds,78,75.09,485,0,loyal,205.71
-100,Wireless Earbuds,78,74.24,485,0,loyal,231.1
-101,Wireless Earbuds,78,80.58,485,0,occasional,190.81
-102,Wireless Earbuds,78,75.0,485,0,loyal,205.84
-103,Wireless Earbuds,78,76.43,485,0,loyal,224.36
-104,Wireless Earbuds,78,74.07,485,0,occasional,236.36
-105,Wireless Earbuds,78,77.15,485,0,price_sensitive,227.06
-106,Wireless Earbuds,78,78.65,485,0,occasional,239.2
-107,Wireless Earbuds,78,85.66,485,-10,occasional,166.72
-108,Wireless Earbuds,78,76.44,485,-5,price_sensitive,241.31
-109,Wireless Earbuds,78,76.23,485,-5,price_sensitive,197.0
-110,Wireless Earbuds,78,79.06,485,0,loyal,215.87
-111,Wireless Earbuds,78,80.62,485,0,loyal,216.07
-112,Wireless Earbuds,78,77.88,485,-10,loyal,236.61
-113,Wireless Earbuds,78,79.78,485,0,occasional,213.36
-114,Wireless Earbuds,78,78.1,485,0,occasional,240.11
-115,Wireless Earbuds,78,75.93,485,-5,price_sensitive,219.67
-116,Wireless Earbuds,78,77.02,485,0,loyal,199.13
-117,Wireless Earbuds,78,78.17,485,0,occasional,239.42
-118,Wireless Earbuds,78,77.86,485,-5,price_sensitive,218.43
-119,Wireless Earbuds,78,77.95,485,0,loyal,200.71
-120,Wireless Earbuds,78,76.17,485,0,loyal,200.89
-121,Wireless Earbuds,78,78.69,485,0,loyal,259.02
-122,Wireless Earbuds,78,80.9,485,0,price_sensitive,187.82
-123,Wireless Earbuds,78,77.68,485,-5,occasional,191.35
-124,Wireless Earbuds,78,80.29,485,0,loyal,231.18
-125,Wireless Earbuds,78,75.88,485,-5,loyal,223.21
-126,Wireless Earbuds,78,78.31,485,-5,loyal,215.72
-127,Wireless Earbuds,78,77.04,485,0,price_sensitive,219.34
-128,Wireless Earbuds,78,77.6,485,0,loyal,217.47
-129,Wireless Earbuds,78,79.23,485,0,price_sensitive,191.13
-130,Wireless Earbuds,78,76.41,485,0,price_sensitive,198.56
-131,Wireless Earbuds,78,77.06,485,0,occasional,218.47
-132,Wireless Earbuds,78,75.19,485,0,loyal,205.96
-133,Wireless Earbuds,78,76.11,485,0,occasional,225.86
-134,Wireless Earbuds,78,76.49,485,0,price_sensitive,219.5
-135,Wireless Earbuds,78,72.42,485,-5,occasional,226.48
-136,Wireless Earbuds,78,74.62,485,0,price_sensitive,202.19
-137,Wireless Earbuds,78,80.63,485,0,loyal,206.38
-138,Wireless Earbuds,78,77.81,485,0,occasional,193.13
-139,Wireless Earbuds,78,81.31,485,0,occasional,208.85
-140,Wireless Earbuds,78,76.82,485,-5,price_sensitive,194.86
-141,Wireless Earbuds,78,76.09,485,0,occasional,240.89
-142,Wireless Earbuds,78,77.54,485,0,occasional,214.38
-143,Wireless Earbuds,78,78.31,485,-5,price_sensitive,206.8
-144,Wireless Earbuds,78,82.78,485,0,price_sensitive,178.33
-145,Wireless Earbuds,78,76.38,485,0,loyal,217.05
-146,Wireless Earbuds,78,77.73,485,-10,occasional,207.72
-147,Wireless Earbuds,78,79.49,485,0,price_sensitive,212.19
-148,Wireless Earbuds,78,75.66,485,0,loyal,196.54
-149,Wireless Earbuds,78,80.35,485,0,loyal,224.44
-150,Wireless Earbuds,78,74.44,485,0,price_sensitive,221.47
-151,Wireless Earbuds,78,79.5,485,-5,occasional,200.99
-152,Wireless Earbuds,78,75.12,485,0,price_sensitive,218.83
-153,Wireless Earbuds,78,84.02,485,0,loyal,177.15
-154,Wireless Earbuds,78,78.41,485,0,occasional,213.36
-155,Wireless Earbuds,78,77.5,485,0,loyal,210.81
-156,Wireless Earbuds,78,81.33,485,0,loyal,198.98
-157,Wireless Earbuds,78,78.53,485,-5,price_sensitive,181.38
-158,Wireless Earbuds,78,80.81,485,-10,occasional,209.92
-159,Wireless Earbuds,78,79.68,485,-5,price_sensitive,198.0
-160,Wireless Earbuds,78,78.1,485,-5,loyal,228.66
-161,Wireless Earbuds,78,81.28,485,0,occasional,182.33
-162,Wireless Earbuds,78,77.16,485,0,loyal,188.65
-163,Wireless Earbuds,78,74.44,485,-5,price_sensitive,190.7
-164,Wireless Earbuds,78,81.57,485,0,price_sensitive,215.3
-165,Wireless Earbuds,78,74.36,485,0,loyal,217.04
-166,Wireless Earbuds,78,80.71,485,0,occasional,177.9
-167,Wireless Earbuds,78,79.67,485,0,loyal,205.45
-168,Wireless Earbuds,78,78.81,485,0,price_sensitive,228.46
-169,Wireless Earbuds,78,80.2,485,-5,loyal,213.01
-170,Wireless Earbuds,78,78.24,485,0,occasional,183.36
-171,Wireless Earbuds,78,75.01,485,0,price_sensitive,191.77
-172,Wireless Earbuds,78,75.94,485,-5,loyal,225.93
-173,Wireless Earbuds,78,76.75,485,-10,price_sensitive,217.91
-174,Wireless Earbuds,78,77.56,485,0,loyal,230.36
-175,Wireless Earbuds,78,72.49,485,-5,price_sensitive,241.71
-176,Wireless Earbuds,78,77.78,485,-5,loyal,218.39
-177,Wireless Earbuds,78,78.7,485,0,loyal,179.98
-178,Wireless Earbuds,78,79.64,485,-10,price_sensitive,206.49
-179,Wireless Earbuds,78,76.44,485,0,loyal,206.06
-180,Wireless Earbuds,78,75.32,485,0,loyal,209.06
-181,Wireless Earbuds,78,77.1,485,0,occasional,187.55
-182,Wireless Earbuds,78,79.79,485,0,price_sensitive,219.96
-183,Wireless Earbuds,78,75.46,485,0,loyal,207.62
-184,Wireless Earbuds,78,79.57,485,0,occasional,175.44
-185,Wireless Earbuds,78,78.66,485,0,loyal,197.32
-186,Wireless Earbuds,78,76.1,485,-5,price_sensitive,179.21
-187,Wireless Earbuds,78,82.05,485,-10,price_sensitive,195.13
-188,Wireless Earbuds,78,82.01,485,-5,price_sensitive,186.25
-189,Wireless Earbuds,78,72.66,485,0,loyal,197.07
-190,Wireless Earbuds,78,77.18,485,-5,price_sensitive,195.06
-191,Wireless Earbuds,78,75.53,485,-10,price_sensitive,194.67
-192,Wireless Earbuds,78,75.03,485,-5,occasional,221.39
-193,Wireless Earbuds,78,78.18,485,0,occasional,215.62
-194,Wireless Earbuds,78,77.62,485,0,occasional,197.37
-195,Wireless Earbuds,78,79.36,485,0,occasional,177.13
-196,Wireless Earbuds,78,78.38,485,0,loyal,179.48
-197,Wireless Earbuds,78,77.12,485,0,loyal,197.87
-198,Wireless Earbuds,78,73.14,485,0,price_sensitive,209.46
-199,Wireless Earbuds,78,78.18,485,0,loyal,174.61
-200,Wireless Earbuds,78,76.12,485,0,loyal,179.86
-201,Wireless Earbuds,78,74.53,485,0,loyal,201.86
-202,Wireless Earbuds,78,76.29,485,0,price_sensitive,224.07
-203,Wireless Earbuds,78,80.15,485,0,occasional,191.79
-204,Wireless Earbuds,78,82.06,485,-5,price_sensitive,157.66
-205,Wireless Earbuds,78,80.53,485,0,occasional,203.48
-206,Wireless Earbuds,78,86.32,485,-5,loyal,162.32
-207,Wireless Earbuds,78,77.87,485,0,occasional,211.56
-208,Wireless Earbuds,78,79.08,485,0,price_sensitive,188.38
-209,Wireless Earbuds,78,79.33,485,0,price_sensitive,173.09
-210,Wireless Earbuds,78,81.39,485,-5,occasional,180.86
-211,Wireless Earbuds,78,82.93,485,0,occasional,193.52
-212,Wireless Earbuds,78,73.48,485,-5,price_sensitive,178.56
-213,Wireless Earbuds,78,78.44,485,0,price_sensitive,169.9
-214,Wireless Earbuds,78,74.72,485,0,occasional,179.69
-215,Wireless Earbuds,78,75.79,485,0,occasional,196.15
-216,Wireless Earbuds,78,74.23,485,0,price_sensitive,205.54
-217,Wireless Earbuds,78,77.72,485,0,price_sensitive,175.29
-218,Wireless Earbuds,78,74.56,485,0,occasional,218.87
-219,Wireless Earbuds,78,77.93,485,0,loyal,188.55
-220,Wireless Earbuds,78,78.61,485,0,price_sensitive,167.61
-221,Wireless Earbuds,78,76.62,485,0,occasional,211.14
-222,Wireless Earbuds,78,77.94,485,0,loyal,187.71
-223,Wireless Earbuds,78,82.51,485,0,occasional,178.73
-224,Wireless Earbuds,78,79.23,485,0,price_sensitive,207.13
-225,Wireless Earbuds,78,76.48,485,0,occasional,172.16
-226,Wireless Earbuds,78,76.45,485,-5,price_sensitive,186.14
-227,Wireless Earbuds,78,82.89,485,0,loyal,171.55
-228,Wireless Earbuds,78,82.33,485,-10,price_sensitive,162.98
-229,Wireless Earbuds,78,80.77,485,-5,occasional,190.16
-230,Wireless Earbuds,78,75.98,485,-5,price_sensitive,191.54
-231,Wireless Earbuds,78,78.93,485,0,loyal,206.21
-232,Wireless Earbuds,78,75.22,485,-5,price_sensitive,188.37
-233,Wireless Earbuds,78,71.66,485,0,loyal,203.84
-234,Wireless Earbuds,78,80.02,485,0,price_sensitive,160.66
-235,Wireless Earbuds,78,82.24,485,0,occasional,154.47
-236,Wireless Earbuds,78,72.98,485,0,occasional,199.22
-237,Wireless Earbuds,78,75.79,485,0,price_sensitive,176.01
-238,Wireless Earbuds,78,79.8,485,-5,loyal,160.0
-239,Wireless Earbuds,78,78.55,485,0,loyal,200.08
-240,Wireless Earbuds,78,79.04,485,0,occasional,180.24
-241,Wireless Earbuds,78,74.13,485,-5,price_sensitive,170.3
-242,Wireless Earbuds,78,75.27,485,-5,loyal,205.27
-243,Wireless Earbuds,78,79.26,485,0,loyal,161.11
-244,Wireless Earbuds,78,82.92,485,-10,occasional,145.57
-245,Wireless Earbuds,78,78.26,485,-5,loyal,163.0
-246,Wireless Earbuds,78,77.98,485,-5,price_sensitive,177.35
-247,Wireless Earbuds,78,78.2,485,0,price_sensitive,163.37
-248,Wireless Earbuds,78,76.57,485,0,loyal,204.9
-249,Wireless Earbuds,78,78.32,485,0,occasional,162.79
-250,Wireless Earbuds,78,79.52,485,0,occasional,177.14
-251,Wireless Earbuds,78,81.03,485,-5,loyal,172.46
-252,Wireless Earbuds,78,74.64,485,0,loyal,216.15
-253,Wireless Earbuds,78,80.76,485,0,occasional,155.72
-254,Wireless Earbuds,78,74.02,485,0,occasional,173.8
-255,Wireless Earbuds,78,81.97,485,-10,occasional,142.24
-256,Wireless Earbuds,78,80.24,485,-10,loyal,146.81
-257,Wireless Earbuds,78,79.55,485,0,occasional,176.21
-258,Wireless Earbuds,78,80.06,485,0,loyal,179.57
-259,Wireless Earbuds,78,78.71,485,0,occasional,165.19
-260,Wireless Earbuds,78,78.51,485,0,loyal,179.06
-261,Wireless Earbuds,78,77.91,485,0,price_sensitive,180.77
-262,Wireless Earbuds,78,75.2,485,-5,price_sensitive,202.72
-263,Wireless Earbuds,78,79.5,485,-5,occasional,188.43
-264,Wireless Earbuds,78,77.61,485,0,price_sensitive,163.32
-265,Wireless Earbuds,78,78.55,485,0,loyal,183.61
-266,Wireless Earbuds,78,77.14,485,0,loyal,168.99
-267,Wireless Earbuds,78,74.06,485,-5,loyal,167.78
-268,Wireless Earbuds,78,74.92,485,0,loyal,189.36
-269,Wireless Earbuds,78,69.1,485,-10,price_sensitive,176.08
-270,Wireless Earbuds,78,83.07,485,0,price_sensitive,148.35
-271,Wireless Earbuds,78,78.79,485,0,price_sensitive,177.65
-272,Wireless Earbuds,78,76.21,485,-10,loyal,161.34
-273,Wireless Earbuds,78,79.91,485,0,loyal,161.34
-274,Wireless Earbuds,78,79.35,485,0,occasional,175.94
-275,Wireless Earbuds,78,78.59,485,0,occasional,178.23
-276,Wireless Earbuds,78,70.77,485,-5,occasional,216.88
-277,Wireless Earbuds,78,74.76,485,0,occasional,170.78
-278,Wireless Earbuds,78,78.01,485,-10,price_sensitive,170.01
-279,Wireless Earbuds,78,75.66,485,-5,occasional,187.09
-280,Wireless Earbuds,78,71.27,485,0,loyal,205.29
-281,Wireless Earbuds,78,76.94,485,0,occasional,201.66
-282,Wireless Earbuds,78,79.95,485,-10,occasional,164.33
-283,Wireless Earbuds,78,79.87,485,0,loyal,174.64
-284,Wireless Earbuds,78,77.55,485,0,loyal,163.48
-285,Wireless Earbuds,78,77.97,485,0,occasional,162.41
-286,Wireless Earbuds,78,78.07,485,-10,occasional,175.22
-287,Wireless Earbuds,78,79.18,485,0,occasional,181.98
-288,Wireless Earbuds,78,77.28,485,0,loyal,164.46
-289,Wireless Earbuds,78,78.57,485,0,loyal,161.06
-290,Wireless Earbuds,78,77.27,485,0,occasional,201.26
-291,Wireless Earbuds,78,71.98,485,-10,loyal,188.92
-292,Wireless Earbuds,78,75.96,485,0,price_sensitive,187.08
-293,Wireless Earbuds,78,78.18,485,0,loyal,204.07
-294,Wireless Earbuds,78,81.76,485,-10,price_sensitive,164.91
-295,Wireless Earbuds,78,78.44,485,0,price_sensitive,161.99
-296,Wireless Earbuds,78,75.8,485,-10,loyal,178.03
-297,Wireless Earbuds,78,81.76,485,-5,loyal,165.27
-298,Wireless Earbuds,78,76.12,485,0,loyal,168.59
-299,Wireless Earbuds,78,76.1,485,-5,loyal,163.77
-300,Wireless Earbuds,78,78.11,485,-5,loyal,162.99
-301,Wireless Earbuds,78,80.65,485,0,occasional,199.17
-302,Wireless Earbuds,78,74.27,485,-10,price_sensitive,183.48
-303,Wireless Earbuds,78,78.83,485,0,occasional,197.96
-304,Wireless Earbuds,78,70.62,485,0,price_sensitive,225.25
-305,Wireless Earbuds,78,79.29,485,0,loyal,178.92
-306,Wireless Earbuds,78,82.52,485,0,occasional,152.47
-307,Wireless Earbuds,78,79.42,485,0,price_sensitive,183.91
-308,Wireless Earbuds,78,78.38,485,0,price_sensitive,187.19
-309,Wireless Earbuds,78,74.52,485,0,price_sensitive,213.36
-310,Wireless Earbuds,78,80.58,485,0,loyal,175.99
-311,Wireless Earbuds,78,77.84,485,0,occasional,165.97
-312,Wireless Earbuds,78,72.99,485,0,loyal,199.17
-313,Wireless Earbuds,78,77.04,485,0,loyal,168.51
-314,Wireless Earbuds,78,78.19,485,-10,occasional,179.01
-315,Wireless Earbuds,78,79.0,485,0,loyal,168.11
-316,Wireless Earbuds,78,78.27,485,0,price_sensitive,165.78
-317,Wireless Earbuds,78,74.56,485,-10,loyal,185.6
-318,Wireless Earbuds,78,85.76,485,0,loyal,162.22
-319,Wireless Earbuds,78,78.87,485,0,price_sensitive,164.81
-320,Wireless Earbuds,78,81.85,485,-5,loyal,169.42
-321,Wireless Earbuds,78,74.87,485,0,loyal,220.67
-322,Wireless Earbuds,78,83.73,485,-10,loyal,181.73
-323,Wireless Earbuds,78,77.12,485,0,loyal,208.3
-324,Wireless Earbuds,78,77.84,485,0,occasional,168.72
-325,Wireless Earbuds,78,83.55,485,0,occasional,170.6
-326,Wireless Earbuds,78,74.41,485,-5,price_sensitive,193.29
-327,Wireless Earbuds,78,74.79,485,-5,occasional,192.44
-328,Wireless Earbuds,78,75.61,485,0,occasional,180.22
-329,Wireless Earbuds,78,79.04,485,0,occasional,190.23
-330,Wireless Earbuds,78,81.62,485,0,loyal,177.77
-331,Wireless Earbuds,78,75.89,485,0,loyal,214.79
-332,Wireless Earbuds,78,77.45,485,0,occasional,190.85
-333,Wireless Earbuds,78,75.18,485,0,occasional,178.18
-334,Wireless Earbuds,78,79.43,485,0,occasional,166.97
-335,Wireless Earbuds,78,74.63,485,-10,occasional,195.21
-336,Wireless Earbuds,78,79.32,485,0,price_sensitive,210.59
-337,Wireless Earbuds,78,78.1,485,-5,occasional,166.36
-338,Wireless Earbuds,78,78.1,485,-5,occasional,185.72
-339,Wireless Earbuds,78,74.57,485,-5,occasional,216.79
-340,Wireless Earbuds,78,84.1,485,0,occasional,173.33
-341,Wireless Earbuds,78,77.79,485,-5,price_sensitive,168.33
-342,Wireless Earbuds,78,77.06,485,-5,price_sensitive,195.09
-343,Wireless Earbuds,78,77.17,485,0,loyal,200.07
-344,Wireless Earbuds,78,80.0,485,0,loyal,186.91
-345,Wireless Earbuds,78,73.28,485,0,loyal,228.13
-346,Wireless Earbuds,78,75.99,485,0,occasional,179.62
-347,Wireless Earbuds,78,78.85,485,0,loyal,210.46
-348,Wireless Earbuds,78,83.63,485,-10,price_sensitive,185.06
-349,Wireless Earbuds,78,72.28,485,0,occasional,195.04
-350,Wireless Earbuds,78,79.19,485,0,price_sensitive,176.68
-351,Wireless Earbuds,78,82.26,485,-5,loyal,195.67
-352,Wireless Earbuds,78,78.0,485,0,loyal,195.55
-353,Wireless Earbuds,78,80.96,485,0,loyal,168.31
-354,Wireless Earbuds,78,77.02,485,-10,price_sensitive,189.17
-355,Wireless Earbuds,78,85.61,485,0,price_sensitive,191.1
-356,Wireless Earbuds,78,74.8,485,0,occasional,190.34
-357,Wireless Earbuds,78,77.52,485,0,occasional,203.7
-358,Wireless Earbuds,78,74.34,485,0,price_sensitive,208.58
-359,Wireless Earbuds,78,74.94,485,-10,loyal,197.11
-360,Wireless Earbuds,78,78.07,485,0,loyal,198.08
-361,Wireless Earbuds,78,76.76,485,0,occasional,202.33
-362,Wireless Earbuds,78,80.65,485,0,loyal,191.03
-363,Wireless Earbuds,78,74.54,485,0,price_sensitive,193.23
-364,Wireless Earbuds,78,81.08,485,0,loyal,195.42
-365,Wireless Earbuds,78,78.87,485,0,occasional,177.64
-1,Gaming Mouse,57,55.3,499,-5,price_sensitive,179.58
-2,Gaming Mouse,57,59.62,499,-5,occasional,187.5
-3,Gaming Mouse,57,57.04,499,0,loyal,220.63
-4,Gaming Mouse,57,54.68,499,-5,loyal,182.21
-5,Gaming Mouse,57,55.62,499,0,price_sensitive,184.98
-6,Gaming Mouse,57,56.38,499,0,loyal,208.58
-7,Gaming Mouse,57,58.69,499,0,loyal,181.8
-8,Gaming Mouse,57,57.5,499,0,loyal,221.0
-9,Gaming Mouse,57,53.6,499,0,loyal,212.97
-10,Gaming Mouse,57,65.22,499,0,loyal,178.43
-11,Gaming Mouse,57,59.79,499,0,price_sensitive,214.56
-12,Gaming Mouse,57,56.08,499,-5,occasional,201.52
-13,Gaming Mouse,57,57.01,499,0,price_sensitive,209.09
-14,Gaming Mouse,57,56.3,499,0,price_sensitive,190.4
-15,Gaming Mouse,57,54.63,499,-5,loyal,206.9
-16,Gaming Mouse,57,52.61,499,0,loyal,240.13
-17,Gaming Mouse,57,57.54,499,0,loyal,224.2
-18,Gaming Mouse,57,55.52,499,-5,loyal,226.25
-19,Gaming Mouse,57,53.98,499,0,price_sensitive,236.7
-20,Gaming Mouse,57,56.67,499,0,loyal,212.43
-21,Gaming Mouse,57,61.02,499,0,price_sensitive,179.72
-22,Gaming Mouse,57,59.04,499,-5,price_sensitive,195.97
-23,Gaming Mouse,57,54.95,499,0,occasional,213.57
-24,Gaming Mouse,57,60.01,499,-10,loyal,188.7
-25,Gaming Mouse,57,56.77,499,0,loyal,187.86
-26,Gaming Mouse,57,54.82,499,-10,occasional,226.41
-27,Gaming Mouse,57,55.05,499,0,price_sensitive,197.57
-28,Gaming Mouse,57,63.07,499,0,price_sensitive,195.79
-29,Gaming Mouse,57,56.7,499,-5,loyal,184.18
-30,Gaming Mouse,57,62.34,499,-5,price_sensitive,188.59
-31,Gaming Mouse,57,59.25,499,-5,occasional,177.83
-32,Gaming Mouse,57,59.99,499,-5,price_sensitive,176.11
-33,Gaming Mouse,57,57.77,499,0,price_sensitive,229.0
-34,Gaming Mouse,57,57.07,499,0,loyal,215.58
-35,Gaming Mouse,57,56.3,499,0,occasional,240.01
-36,Gaming Mouse,57,64.7,499,0,loyal,188.27
-37,Gaming Mouse,57,56.98,499,0,price_sensitive,232.87
-38,Gaming Mouse,57,56.57,499,0,price_sensitive,234.52
-39,Gaming Mouse,57,60.12,499,0,loyal,202.84
-40,Gaming Mouse,57,57.44,499,-5,price_sensitive,185.05
-41,Gaming Mouse,57,57.7,499,0,occasional,237.21
-42,Gaming Mouse,57,57.52,499,0,occasional,216.45
-43,Gaming Mouse,57,58.93,499,0,price_sensitive,186.72
-44,Gaming Mouse,57,58.19,499,-5,loyal,204.96
-45,Gaming Mouse,57,54.15,499,0,occasional,222.33
-46,Gaming Mouse,57,55.9,499,0,occasional,217.32
-47,Gaming Mouse,57,59.65,499,0,price_sensitive,226.95
-48,Gaming Mouse,57,55.08,499,0,occasional,225.26
-49,Gaming Mouse,57,58.6,499,0,price_sensitive,214.95
-50,Gaming Mouse,57,56.47,499,-5,occasional,233.22
-51,Gaming Mouse,57,60.13,499,0,price_sensitive,225.81
-52,Gaming Mouse,57,54.36,499,0,price_sensitive,223.35
-53,Gaming Mouse,57,58.17,499,0,occasional,190.91
-54,Gaming Mouse,57,56.4,499,0,occasional,217.65
-55,Gaming Mouse,57,55.16,499,-10,occasional,193.92
-56,Gaming Mouse,57,50.28,499,-5,loyal,236.44
-57,Gaming Mouse,57,57.63,499,0,price_sensitive,193.11
-58,Gaming Mouse,57,62.3,499,0,occasional,200.76
-59,Gaming Mouse,57,57.11,499,0,price_sensitive,194.86
-60,Gaming Mouse,57,58.9,499,0,loyal,211.34
-61,Gaming Mouse,57,58.6,499,0,loyal,212.41
-62,Gaming Mouse,57,57.51,499,0,loyal,220.84
-63,Gaming Mouse,57,55.22,499,0,price_sensitive,227.89
-64,Gaming Mouse,57,57.61,499,0,occasional,215.88
-65,Gaming Mouse,57,54.28,499,0,occasional,203.44
-66,Gaming Mouse,57,58.21,499,0,loyal,214.38
-67,Gaming Mouse,57,56.42,499,-10,loyal,187.91
-68,Gaming Mouse,57,54.05,499,-10,occasional,217.15
-69,Gaming Mouse,57,55.39,499,-10,occasional,195.45
-70,Gaming Mouse,57,59.01,499,0,occasional,217.54
-71,Gaming Mouse,57,56.23,499,0,occasional,221.01
-72,Gaming Mouse,57,54.69,499,0,occasional,248.33
-73,Gaming Mouse,57,53.6,499,0,price_sensitive,229.14
-74,Gaming Mouse,57,52.4,499,0,occasional,256.11
-75,Gaming Mouse,57,59.42,499,0,loyal,211.89
-76,Gaming Mouse,57,56.67,499,-10,occasional,237.75
-77,Gaming Mouse,57,62.09,499,0,price_sensitive,188.15
-78,Gaming Mouse,57,60.04,499,-5,occasional,226.33
-79,Gaming Mouse,57,57.88,499,0,price_sensitive,238.56
-80,Gaming Mouse,57,59.66,499,0,occasional,190.43
-81,Gaming Mouse,57,59.98,499,0,price_sensitive,231.78
-82,Gaming Mouse,57,57.83,499,0,occasional,217.21
-83,Gaming Mouse,57,56.86,499,-10,occasional,192.66
-84,Gaming Mouse,57,54.76,499,0,loyal,208.39
-85,Gaming Mouse,57,57.74,499,-5,occasional,212.65
-86,Gaming Mouse,57,57.69,499,0,occasional,239.62
-87,Gaming Mouse,57,56.4,499,0,loyal,199.55
-88,Gaming Mouse,57,54.13,499,0,occasional,228.58
-89,Gaming Mouse,57,60.8,499,0,price_sensitive,229.42
-90,Gaming Mouse,57,57.16,499,0,price_sensitive,224.52
-91,Gaming Mouse,57,64.37,499,0,loyal,223.17
-92,Gaming Mouse,57,52.36,499,0,price_sensitive,233.92
-93,Gaming Mouse,57,56.08,499,0,price_sensitive,222.74
-94,Gaming Mouse,57,57.87,499,-5,price_sensitive,212.39
-95,Gaming Mouse,57,57.79,499,0,loyal,217.6
-96,Gaming Mouse,57,55.6,499,0,occasional,224.16
-97,Gaming Mouse,57,54.76,499,0,loyal,231.63
-98,Gaming Mouse,57,56.4,499,-5,occasional,199.01
-99,Gaming Mouse,57,58.98,499,-5,price_sensitive,187.51
-100,Gaming Mouse,57,57.62,499,-5,loyal,212.96
-101,Gaming Mouse,57,58.7,499,-5,price_sensitive,231.13
-102,Gaming Mouse,57,54.83,499,0,loyal,203.59
-103,Gaming Mouse,57,57.29,499,-5,price_sensitive,213.77
-104,Gaming Mouse,57,61.07,499,-5,occasional,186.14
-105,Gaming Mouse,57,56.1,499,-10,loyal,217.19
-106,Gaming Mouse,57,59.27,499,0,price_sensitive,212.61
-107,Gaming Mouse,57,56.92,499,-10,loyal,209.57
-108,Gaming Mouse,57,50.49,499,0,loyal,214.89
-109,Gaming Mouse,57,55.51,499,0,occasional,245.98
-110,Gaming Mouse,57,56.91,499,0,loyal,219.31
-111,Gaming Mouse,57,56.58,499,-5,occasional,197.67
-112,Gaming Mouse,57,58.1,499,-10,occasional,188.46
-113,Gaming Mouse,57,58.43,499,0,occasional,235.85
-114,Gaming Mouse,57,56.38,499,0,price_sensitive,198.38
-115,Gaming Mouse,57,61.55,499,0,price_sensitive,204.79
-116,Gaming Mouse,57,57.42,499,0,occasional,195.34
-117,Gaming Mouse,57,60.52,499,0,occasional,207.6
-118,Gaming Mouse,57,60.07,499,0,price_sensitive,213.82
-119,Gaming Mouse,57,56.49,499,0,loyal,201.95
-120,Gaming Mouse,57,53.57,499,0,loyal,228.01
-121,Gaming Mouse,57,57.04,499,-5,occasional,208.67
-122,Gaming Mouse,57,56.54,499,0,price_sensitive,218.76
-123,Gaming Mouse,57,56.28,499,0,loyal,241.31
-124,Gaming Mouse,57,57.38,499,-5,occasional,210.88
-125,Gaming Mouse,57,59.16,499,0,price_sensitive,215.35
-126,Gaming Mouse,57,57.5,499,0,price_sensitive,198.13
-127,Gaming Mouse,57,56.49,499,0,price_sensitive,196.2
-128,Gaming Mouse,57,59.58,499,0,loyal,187.67
-129,Gaming Mouse,57,62.51,499,-10,occasional,209.48
-130,Gaming Mouse,57,51.81,499,-5,occasional,226.41
-131,Gaming Mouse,57,56.59,499,0,occasional,238.57
-132,Gaming Mouse,57,58.71,499,0,occasional,193.75
-133,Gaming Mouse,57,58.99,499,0,loyal,214.21
-134,Gaming Mouse,57,58.59,499,-5,occasional,184.18
-135,Gaming Mouse,57,59.27,499,0,loyal,187.14
-136,Gaming Mouse,57,56.64,499,0,occasional,237.15
-137,Gaming Mouse,57,57.61,499,-5,price_sensitive,228.67
-138,Gaming Mouse,57,59.05,499,0,price_sensitive,228.66
-139,Gaming Mouse,57,54.67,499,0,price_sensitive,225.77
-140,Gaming Mouse,57,57.44,499,0,occasional,217.2
-141,Gaming Mouse,57,53.91,499,0,occasional,222.53
-142,Gaming Mouse,57,61.5,499,0,price_sensitive,219.46
-143,Gaming Mouse,57,53.2,499,0,price_sensitive,224.14
-144,Gaming Mouse,57,58.2,499,0,price_sensitive,187.98
-145,Gaming Mouse,57,55.45,499,-5,price_sensitive,190.16
-146,Gaming Mouse,57,59.98,499,0,occasional,187.19
-147,Gaming Mouse,57,61.3,499,0,occasional,183.36
-148,Gaming Mouse,57,59.03,499,0,occasional,184.74
-149,Gaming Mouse,57,62.0,499,0,loyal,196.09
-150,Gaming Mouse,57,56.41,499,-5,loyal,207.56
-151,Gaming Mouse,57,55.54,499,-5,loyal,209.87
-152,Gaming Mouse,57,55.73,499,0,loyal,214.01
-153,Gaming Mouse,57,58.27,499,0,loyal,232.19
-154,Gaming Mouse,57,52.92,499,0,occasional,204.16
-155,Gaming Mouse,57,55.82,499,0,price_sensitive,212.85
-156,Gaming Mouse,57,56.83,499,-5,price_sensitive,204.49
-157,Gaming Mouse,57,56.13,499,0,loyal,211.3
-158,Gaming Mouse,57,59.21,499,0,price_sensitive,201.72
-159,Gaming Mouse,57,56.01,499,-5,price_sensitive,227.11
-160,Gaming Mouse,57,57.84,499,-5,loyal,205.2
-161,Gaming Mouse,57,56.04,499,0,loyal,193.77
-162,Gaming Mouse,57,57.02,499,0,occasional,207.04
-163,Gaming Mouse,57,58.51,499,-10,loyal,192.25
-164,Gaming Mouse,57,55.11,499,-10,occasional,202.11
-165,Gaming Mouse,57,57.89,499,0,price_sensitive,203.45
-166,Gaming Mouse,57,58.91,499,-5,loyal,215.07
-167,Gaming Mouse,57,56.42,499,0,loyal,212.2
-168,Gaming Mouse,57,58.89,499,-5,price_sensitive,179.01
-169,Gaming Mouse,57,55.7,499,-10,price_sensitive,219.55
-170,Gaming Mouse,57,59.72,499,-5,price_sensitive,210.92
-171,Gaming Mouse,57,57.71,499,0,price_sensitive,201.98
-172,Gaming Mouse,57,57.19,499,0,occasional,203.19
-173,Gaming Mouse,57,57.31,499,0,loyal,182.26
-174,Gaming Mouse,57,60.81,499,0,price_sensitive,196.66
-175,Gaming Mouse,57,55.02,499,0,price_sensitive,235.07
-176,Gaming Mouse,57,58.53,499,-10,price_sensitive,187.82
-177,Gaming Mouse,57,58.63,499,0,price_sensitive,216.9
-178,Gaming Mouse,57,56.93,499,0,loyal,181.73
-179,Gaming Mouse,57,57.72,499,-5,loyal,194.21
-180,Gaming Mouse,57,57.76,499,0,occasional,218.62
-181,Gaming Mouse,57,53.87,499,0,loyal,193.58
-182,Gaming Mouse,57,57.11,499,0,loyal,225.52
-183,Gaming Mouse,57,57.59,499,0,occasional,198.22
-184,Gaming Mouse,57,58.2,499,0,price_sensitive,176.45
-185,Gaming Mouse,57,60.07,499,0,loyal,190.1
-186,Gaming Mouse,57,56.46,499,-5,occasional,195.58
-187,Gaming Mouse,57,59.13,499,0,occasional,192.22
-188,Gaming Mouse,57,55.28,499,0,price_sensitive,208.44
-189,Gaming Mouse,57,55.11,499,0,loyal,229.48
-190,Gaming Mouse,57,52.8,499,0,loyal,210.2
-191,Gaming Mouse,57,61.22,499,-5,occasional,179.58
-192,Gaming Mouse,57,52.71,499,0,occasional,209.78
-193,Gaming Mouse,57,58.55,499,0,price_sensitive,211.11
-194,Gaming Mouse,57,62.42,499,0,loyal,179.97
-195,Gaming Mouse,57,60.62,499,0,loyal,209.01
-196,Gaming Mouse,57,59.95,499,-10,occasional,162.53
-197,Gaming Mouse,57,57.65,499,0,price_sensitive,212.6
-198,Gaming Mouse,57,61.48,499,0,occasional,163.3
-199,Gaming Mouse,57,57.26,499,0,price_sensitive,213.13
-200,Gaming Mouse,57,55.03,499,0,occasional,180.11
-201,Gaming Mouse,57,54.43,499,0,occasional,199.44
-202,Gaming Mouse,57,57.39,499,-5,price_sensitive,192.4
-203,Gaming Mouse,57,65.23,499,-10,price_sensitive,163.53
-204,Gaming Mouse,57,60.38,499,0,occasional,182.78
-205,Gaming Mouse,57,55.54,499,0,occasional,196.96
-206,Gaming Mouse,57,59.19,499,-10,loyal,194.27
-207,Gaming Mouse,57,57.18,499,-5,occasional,186.42
-208,Gaming Mouse,57,57.36,499,-5,price_sensitive,166.49
-209,Gaming Mouse,57,56.77,499,0,price_sensitive,197.01
-210,Gaming Mouse,57,56.01,499,0,loyal,218.87
-211,Gaming Mouse,57,55.36,499,0,loyal,215.18
-212,Gaming Mouse,57,58.83,499,0,occasional,184.91
-213,Gaming Mouse,57,59.39,499,-5,occasional,177.93
-214,Gaming Mouse,57,57.99,499,0,loyal,168.16
-215,Gaming Mouse,57,55.44,499,0,occasional,194.17
-216,Gaming Mouse,57,53.77,499,-10,occasional,173.52
-217,Gaming Mouse,57,55.41,499,0,loyal,178.83
-218,Gaming Mouse,57,59.91,499,-10,price_sensitive,169.92
-219,Gaming Mouse,57,57.03,499,0,occasional,207.09
-220,Gaming Mouse,57,55.58,499,0,occasional,211.57
-221,Gaming Mouse,57,57.04,499,0,price_sensitive,187.68
-222,Gaming Mouse,57,59.88,499,-5,price_sensitive,191.76
-223,Gaming Mouse,57,54.79,499,0,occasional,198.9
-224,Gaming Mouse,57,59.19,499,0,loyal,185.41
-225,Gaming Mouse,57,59.63,499,0,loyal,178.85
-226,Gaming Mouse,57,59.8,499,0,occasional,178.07
-227,Gaming Mouse,57,56.55,499,-10,loyal,158.81
-228,Gaming Mouse,57,52.99,499,0,price_sensitive,198.0
-229,Gaming Mouse,57,57.5,499,-5,price_sensitive,160.8
-230,Gaming Mouse,57,54.12,499,0,price_sensitive,199.14
-231,Gaming Mouse,57,53.27,499,0,loyal,201.46
-232,Gaming Mouse,57,56.32,499,0,occasional,168.36
-233,Gaming Mouse,57,56.08,499,-5,occasional,201.33
-234,Gaming Mouse,57,59.17,499,0,occasional,178.08
-235,Gaming Mouse,57,53.68,499,-5,occasional,169.89
-236,Gaming Mouse,57,57.38,499,0,occasional,164.7
-237,Gaming Mouse,57,58.52,499,0,occasional,184.37
-238,Gaming Mouse,57,56.16,499,0,price_sensitive,210.38
-239,Gaming Mouse,57,61.95,499,-5,loyal,163.7
-240,Gaming Mouse,57,62.95,499,-10,loyal,172.03
-241,Gaming Mouse,57,59.05,499,0,occasional,177.02
-242,Gaming Mouse,57,59.88,499,0,price_sensitive,174.34
-243,Gaming Mouse,57,56.11,499,-10,price_sensitive,156.92
-244,Gaming Mouse,57,55.36,499,0,loyal,192.55
-245,Gaming Mouse,57,56.81,499,-5,loyal,183.02
-246,Gaming Mouse,57,55.9,499,-10,occasional,175.59
-247,Gaming Mouse,57,56.62,499,0,occasional,201.6
-248,Gaming Mouse,57,60.54,499,0,occasional,171.36
-249,Gaming Mouse,57,55.07,499,0,loyal,187.63
-250,Gaming Mouse,57,60.32,499,0,loyal,188.91
-251,Gaming Mouse,57,58.86,499,0,price_sensitive,180.99
-252,Gaming Mouse,57,55.13,499,0,loyal,192.03
-253,Gaming Mouse,57,55.06,499,0,occasional,168.39
-254,Gaming Mouse,57,54.54,499,0,price_sensitive,188.55
-255,Gaming Mouse,57,58.67,499,0,occasional,176.07
-256,Gaming Mouse,57,58.22,499,0,occasional,159.57
-257,Gaming Mouse,57,53.58,499,0,price_sensitive,172.0
-258,Gaming Mouse,57,53.38,499,0,loyal,196.61
-259,Gaming Mouse,57,54.25,499,0,price_sensitive,193.93
-260,Gaming Mouse,57,52.67,499,-5,price_sensitive,188.58
-261,Gaming Mouse,57,58.61,499,0,price_sensitive,158.1
-262,Gaming Mouse,57,56.08,499,0,occasional,201.5
-263,Gaming Mouse,57,57.77,499,0,loyal,178.04
-264,Gaming Mouse,57,51.56,499,-10,price_sensitive,186.62
-265,Gaming Mouse,57,58.87,499,0,loyal,179.62
-266,Gaming Mouse,57,55.2,499,0,loyal,171.53
-267,Gaming Mouse,57,52.61,499,0,price_sensitive,212.66
-268,Gaming Mouse,57,59.14,499,0,occasional,173.68
-269,Gaming Mouse,57,61.75,499,0,occasional,165.81
-270,Gaming Mouse,57,55.61,499,0,price_sensitive,184.21
-271,Gaming Mouse,57,52.88,499,0,occasional,211.63
-272,Gaming Mouse,57,54.96,499,0,price_sensitive,172.01
-273,Gaming Mouse,57,60.86,499,0,occasional,190.75
-274,Gaming Mouse,57,59.98,499,0,occasional,153.95
-275,Gaming Mouse,57,53.71,499,0,occasional,189.87
-276,Gaming Mouse,57,52.65,499,-5,occasional,188.06
-277,Gaming Mouse,57,59.29,499,0,occasional,173.16
-278,Gaming Mouse,57,58.89,499,0,occasional,174.37
-279,Gaming Mouse,57,61.67,499,-5,occasional,148.94
-280,Gaming Mouse,57,60.23,499,0,loyal,175.4
-281,Gaming Mouse,57,62.65,499,-5,price_sensitive,158.21
-282,Gaming Mouse,57,58.21,499,0,price_sensitive,176.55
-283,Gaming Mouse,57,54.44,499,0,loyal,187.92
-284,Gaming Mouse,57,58.14,499,0,price_sensitive,176.87
-285,Gaming Mouse,57,61.86,499,0,price_sensitive,165.79
-286,Gaming Mouse,57,53.22,499,0,price_sensitive,196.76
-287,Gaming Mouse,57,56.41,499,-5,occasional,182.29
-288,Gaming Mouse,57,57.68,499,-10,loyal,186.4
-289,Gaming Mouse,57,59.28,499,-5,loyal,168.82
-290,Gaming Mouse,57,62.78,499,0,price_sensitive,147.06
-291,Gaming Mouse,57,57.15,499,-5,loyal,175.42
-292,Gaming Mouse,57,58.83,499,0,occasional,175.46
-293,Gaming Mouse,57,53.24,499,0,loyal,177.62
-294,Gaming Mouse,57,53.24,499,0,occasional,197.46
-295,Gaming Mouse,57,54.8,499,-10,occasional,177.9
-296,Gaming Mouse,57,59.37,499,0,occasional,174.32
-297,Gaming Mouse,57,62.08,499,0,price_sensitive,182.96
-298,Gaming Mouse,57,58.87,499,0,price_sensitive,193.69
-299,Gaming Mouse,57,56.04,499,0,price_sensitive,184.71
-300,Gaming Mouse,57,53.92,499,-5,occasional,191.22
-301,Gaming Mouse,57,51.75,499,0,price_sensitive,222.89
-302,Gaming Mouse,57,54.28,499,0,loyal,171.41
-303,Gaming Mouse,57,59.2,499,0,loyal,193.45
-304,Gaming Mouse,57,54.43,499,-5,price_sensitive,185.34
-305,Gaming Mouse,57,56.25,499,0,loyal,166.55
-306,Gaming Mouse,57,59.83,499,0,occasional,157.03
-307,Gaming Mouse,57,57.64,499,0,price_sensitive,186.23
-308,Gaming Mouse,57,64.11,499,0,occasional,167.02
-309,Gaming Mouse,57,55.62,499,0,price_sensitive,187.67
-310,Gaming Mouse,57,56.41,499,-10,loyal,194.07
-311,Gaming Mouse,57,56.03,499,-10,occasional,176.86
-312,Gaming Mouse,57,58.52,499,-10,loyal,169.58
-313,Gaming Mouse,57,53.06,499,0,occasional,196.19
-314,Gaming Mouse,57,61.46,499,0,occasional,176.2
-315,Gaming Mouse,57,49.49,499,-10,loyal,202.32
-316,Gaming Mouse,57,63.23,499,-10,loyal,156.35
-317,Gaming Mouse,57,56.64,499,-5,loyal,181.33
-318,Gaming Mouse,57,54.38,499,0,price_sensitive,174.03
-319,Gaming Mouse,57,56.24,499,0,occasional,169.21
-320,Gaming Mouse,57,58.22,499,0,loyal,164.09
-321,Gaming Mouse,57,55.39,499,0,loyal,196.04
-322,Gaming Mouse,57,60.69,499,-10,loyal,152.38
-323,Gaming Mouse,57,60.69,499,-10,occasional,183.25
-324,Gaming Mouse,57,57.04,499,0,price_sensitive,186.87
-325,Gaming Mouse,57,63.95,499,0,occasional,149.77
-326,Gaming Mouse,57,55.76,499,0,occasional,210.37
-327,Gaming Mouse,57,55.73,499,0,price_sensitive,172.44
-328,Gaming Mouse,57,54.16,499,0,occasional,221.77
-329,Gaming Mouse,57,59.94,499,0,occasional,166.09
-330,Gaming Mouse,57,60.43,499,-5,price_sensitive,173.36
-331,Gaming Mouse,57,55.9,499,0,occasional,172.99
-332,Gaming Mouse,57,57.14,499,0,price_sensitive,188.81
-333,Gaming Mouse,57,54.06,499,0,price_sensitive,198.32
-334,Gaming Mouse,57,53.41,499,0,price_sensitive,200.59
-335,Gaming Mouse,57,57.86,499,0,loyal,173.26
-336,Gaming Mouse,57,52.14,499,0,occasional,210.0
-337,Gaming Mouse,57,53.11,499,0,occasional,202.37
-338,Gaming Mouse,57,55.01,499,-10,price_sensitive,186.97
-339,Gaming Mouse,57,55.61,499,0,loyal,195.5
-340,Gaming Mouse,57,56.01,499,0,occasional,194.61
-341,Gaming Mouse,57,56.76,499,-5,price_sensitive,168.4
-342,Gaming Mouse,57,53.03,499,0,price_sensitive,188.26
-343,Gaming Mouse,57,61.8,499,0,occasional,183.19
-344,Gaming Mouse,57,53.48,499,0,loyal,183.13
-345,Gaming Mouse,57,55.02,499,0,occasional,179.27
-346,Gaming Mouse,57,60.47,499,0,loyal,201.45
-347,Gaming Mouse,57,57.72,499,-5,price_sensitive,186.72
-348,Gaming Mouse,57,56.5,499,0,loyal,195.71
-349,Gaming Mouse,57,57.15,499,0,loyal,199.1
-350,Gaming Mouse,57,54.12,499,0,price_sensitive,187.68
-351,Gaming Mouse,57,54.94,499,0,price_sensitive,201.4
-352,Gaming Mouse,57,60.63,499,0,occasional,184.67
-353,Gaming Mouse,57,53.92,499,0,occasional,205.12
-354,Gaming Mouse,57,56.54,499,0,loyal,197.59
-355,Gaming Mouse,57,57.39,499,-5,price_sensitive,190.39
-356,Gaming Mouse,57,56.73,499,-5,loyal,197.72
-357,Gaming Mouse,57,62.77,499,-5,loyal,179.93
-358,Gaming Mouse,57,58.01,499,0,price_sensitive,214.01
-359,Gaming Mouse,57,56.95,499,0,occasional,178.27
-360,Gaming Mouse,57,55.81,499,0,occasional,201.83
-361,Gaming Mouse,57,61.32,499,0,occasional,204.22
-362,Gaming Mouse,57,59.09,499,-5,loyal,187.7
-363,Gaming Mouse,57,59.54,499,0,loyal,216.37
-364,Gaming Mouse,57,59.76,499,0,occasional,176.73
-365,Gaming Mouse,57,59.52,499,0,price_sensitive,192.45
-1,Smartwatch,56,58.96,429,0,price_sensitive,172.01
-2,Smartwatch,56,58.87,429,-10,loyal,181.75
-3,Smartwatch,56,54.38,429,0,loyal,205.55
-4,Smartwatch,56,52.89,429,0,loyal,210.37
-5,Smartwatch,56,52.76,429,0,occasional,211.09
-6,Smartwatch,56,55.7,429,0,occasional,207.63
-7,Smartwatch,56,52.91,429,0,occasional,194.72
-8,Smartwatch,56,59.1,429,0,price_sensitive,173.81
-9,Smartwatch,56,53.77,429,0,price_sensitive,209.45
-10,Smartwatch,56,58.81,429,-5,price_sensitive,170.21
-11,Smartwatch,56,55.05,429,0,occasional,206.28
-12,Smartwatch,56,52.61,429,0,occasional,213.95
-13,Smartwatch,56,59.07,429,-5,occasional,194.91
-14,Smartwatch,56,57.14,429,-5,occasional,201.02
-15,Smartwatch,56,54.19,429,-5,occasional,226.25
-16,Smartwatch,56,53.1,429,0,occasional,235.21
-17,Smartwatch,56,47.44,429,0,occasional,208.02
-18,Smartwatch,56,55.73,429,0,price_sensitive,227.24
-19,Smartwatch,56,55.86,429,0,loyal,185.89
-20,Smartwatch,56,57.79,429,0,price_sensitive,206.08
-21,Smartwatch,56,57.67,429,0,price_sensitive,227.45
-22,Smartwatch,56,56.58,429,-10,price_sensitive,215.87
-23,Smartwatch,56,56.07,429,0,loyal,186.48
-24,Smartwatch,56,57.33,429,0,loyal,203.74
-25,Smartwatch,56,54.82,429,-10,price_sensitive,201.58
-26,Smartwatch,56,56.53,429,0,price_sensitive,227.44
-27,Smartwatch,56,60.79,429,0,loyal,179.36
-28,Smartwatch,56,60.21,429,-10,occasional,211.5
-29,Smartwatch,56,60.6,429,-5,occasional,210.04
-30,Smartwatch,56,54.99,429,-5,occasional,186.37
-31,Smartwatch,56,58.64,429,0,occasional,222.18
-32,Smartwatch,56,62.28,429,0,occasional,210.48
-33,Smartwatch,56,51.97,429,0,occasional,222.58
-34,Smartwatch,56,54.41,429,0,occasional,220.55
-35,Smartwatch,56,54.92,429,0,loyal,219.33
-36,Smartwatch,56,53.45,429,-5,occasional,214.01
-37,Smartwatch,56,59.52,429,0,loyal,221.19
-38,Smartwatch,56,56.32,429,-5,loyal,227.06
-39,Smartwatch,56,57.44,429,-5,price_sensitive,202.88
-40,Smartwatch,56,56.0,429,0,price_sensitive,212.48
-41,Smartwatch,56,51.34,429,-10,loyal,198.56
-42,Smartwatch,56,54.68,429,-10,loyal,211.96
-43,Smartwatch,56,54.82,429,-5,loyal,211.79
-44,Smartwatch,56,56.97,429,0,price_sensitive,189.56
-45,Smartwatch,56,53.39,429,0,price_sensitive,221.6
-46,Smartwatch,56,54.53,429,0,loyal,218.43
-47,Smartwatch,56,56.61,429,0,occasional,212.44
-48,Smartwatch,56,55.92,429,0,occasional,219.75
-49,Smartwatch,56,52.27,429,0,price_sensitive,230.92
-50,Smartwatch,56,56.99,429,0,occasional,233.21
-51,Smartwatch,56,57.06,429,0,occasional,208.83
-52,Smartwatch,56,60.93,429,0,price_sensitive,200.62
-53,Smartwatch,56,57.77,429,0,loyal,231.34
-54,Smartwatch,56,54.02,429,0,loyal,199.62
-55,Smartwatch,56,58.46,429,-5,price_sensitive,187.3
-56,Smartwatch,56,57.76,429,-5,occasional,232.56
-57,Smartwatch,56,55.79,429,-5,price_sensitive,190.38
-58,Smartwatch,56,58.22,429,0,occasional,188.99
-59,Smartwatch,56,60.2,429,-10,price_sensitive,173.81
-60,Smartwatch,56,50.5,429,0,loyal,233.52
-61,Smartwatch,56,56.4,429,-5,occasional,189.41
-62,Smartwatch,56,52.99,429,-5,loyal,203.27
-63,Smartwatch,56,56.04,429,-5,occasional,217.44
-64,Smartwatch,56,54.55,429,0,loyal,222.06
-65,Smartwatch,56,51.91,429,0,loyal,207.13
-66,Smartwatch,56,54.41,429,-5,loyal,217.8
-67,Smartwatch,56,54.56,429,0,loyal,200.24
-68,Smartwatch,56,55.26,429,0,price_sensitive,220.53
-69,Smartwatch,56,51.61,429,0,occasional,212.95
-70,Smartwatch,56,56.72,429,-10,loyal,211.42
-71,Smartwatch,56,53.16,429,-5,price_sensitive,199.5
-72,Smartwatch,56,49.55,429,0,loyal,238.18
-73,Smartwatch,56,59.93,429,-10,occasional,197.13
-74,Smartwatch,56,54.92,429,0,occasional,200.04
-75,Smartwatch,56,55.7,429,0,price_sensitive,220.05
-76,Smartwatch,56,58.39,429,-5,loyal,190.36
-77,Smartwatch,56,52.44,429,-5,price_sensitive,230.02
-78,Smartwatch,56,55.54,429,0,loyal,198.73
-79,Smartwatch,56,56.73,429,0,loyal,217.3
-80,Smartwatch,56,55.05,429,-10,occasional,212.41
-81,Smartwatch,56,55.38,429,0,loyal,199.35
-82,Smartwatch,56,51.13,429,0,occasional,234.3
-83,Smartwatch,56,53.36,429,0,price_sensitive,209.42
-84,Smartwatch,56,56.64,429,-5,loyal,195.59
-85,Smartwatch,56,52.56,429,0,loyal,230.17
-86,Smartwatch,56,54.42,429,0,loyal,247.11
-87,Smartwatch,56,55.61,429,0,occasional,198.99
-88,Smartwatch,56,57.6,429,0,occasional,215.16
-89,Smartwatch,56,56.3,429,0,price_sensitive,219.06
-90,Smartwatch,56,58.64,429,-10,price_sensitive,207.06
-91,Smartwatch,56,52.02,429,-10,loyal,226.95
-92,Smartwatch,56,49.89,429,-5,occasional,209.5
-93,Smartwatch,56,51.0,429,0,price_sensitive,258.49
-94,Smartwatch,56,58.84,429,0,loyal,232.6
-95,Smartwatch,56,56.11,429,0,price_sensitive,219.65
-96,Smartwatch,56,53.17,429,0,occasional,228.44
-97,Smartwatch,56,51.74,429,0,occasional,261.46
-98,Smartwatch,56,54.94,429,-10,loyal,195.25
-99,Smartwatch,56,53.17,429,0,price_sensitive,205.51
-100,Smartwatch,56,58.31,429,0,loyal,191.6
-101,Smartwatch,56,53.43,429,-10,price_sensitive,194.71
-102,Smartwatch,56,57.1,429,-10,occasional,184.75
-103,Smartwatch,56,52.95,429,-10,loyal,218.8
-104,Smartwatch,56,53.31,429,0,price_sensitive,255.91
-105,Smartwatch,56,56.21,429,0,loyal,201.49
-106,Smartwatch,56,55.93,429,0,loyal,241.61
-107,Smartwatch,56,59.9,429,0,occasional,207.62
-108,Smartwatch,56,52.94,429,0,occasional,205.59
-109,Smartwatch,56,53.75,429,0,price_sensitive,225.88
-110,Smartwatch,56,55.38,429,0,loyal,198.81
-111,Smartwatch,56,51.8,429,0,loyal,260.2
-112,Smartwatch,56,56.22,429,-5,occasional,218.17
-113,Smartwatch,56,59.19,429,0,occasional,209.12
-114,Smartwatch,56,54.75,429,0,price_sensitive,244.56
-115,Smartwatch,56,56.68,429,-5,occasional,211.4
-116,Smartwatch,56,56.89,429,0,occasional,194.08
-117,Smartwatch,56,55.83,429,-5,occasional,213.69
-118,Smartwatch,56,62.21,429,0,price_sensitive,204.38
-119,Smartwatch,56,53.77,429,0,price_sensitive,229.55
-120,Smartwatch,56,54.32,429,-5,occasional,217.76
-121,Smartwatch,56,53.48,429,0,occasional,220.6
-122,Smartwatch,56,52.27,429,0,loyal,228.58
-123,Smartwatch,56,51.76,429,0,loyal,206.94
-124,Smartwatch,56,49.66,429,0,loyal,236.06
-125,Smartwatch,56,55.92,429,-5,loyal,239.28
-126,Smartwatch,56,53.82,429,-5,price_sensitive,246.02
-127,Smartwatch,56,59.34,429,0,price_sensitive,185.79
-128,Smartwatch,56,59.81,429,0,occasional,225.31
-129,Smartwatch,56,50.63,429,-5,price_sensitive,227.16
-130,Smartwatch,56,59.07,429,0,price_sensitive,185.97
-131,Smartwatch,56,52.61,429,0,loyal,225.79
-132,Smartwatch,56,51.56,429,0,loyal,233.75
-133,Smartwatch,56,56.82,429,-5,loyal,234.5
-134,Smartwatch,56,59.79,429,0,loyal,203.61
-135,Smartwatch,56,55.41,429,0,price_sensitive,216.5
-136,Smartwatch,56,53.86,429,0,occasional,220.92
-137,Smartwatch,56,55.94,429,-5,loyal,209.44
-138,Smartwatch,56,54.19,429,-5,loyal,214.44
-139,Smartwatch,56,55.25,429,0,occasional,221.01
-140,Smartwatch,56,60.81,429,0,loyal,224.5
-141,Smartwatch,56,50.47,429,0,price_sensitive,252.84
-142,Smartwatch,56,60.32,429,0,price_sensitive,200.05
-143,Smartwatch,56,55.5,429,0,price_sensitive,214.25
-144,Smartwatch,56,58.95,429,-10,price_sensitive,173.25
-145,Smartwatch,56,55.58,429,0,occasional,213.47
-146,Smartwatch,56,55.83,429,-10,occasional,207.45
-147,Smartwatch,56,60.01,429,0,price_sensitive,225.08
-148,Smartwatch,56,56.92,429,0,loyal,208.6
-149,Smartwatch,56,57.26,429,0,occasional,207.29
-150,Smartwatch,56,54.9,429,0,occasional,214.08
-151,Smartwatch,56,54.83,429,-10,loyal,204.02
-152,Smartwatch,56,53.17,429,-5,loyal,213.7
-153,Smartwatch,56,60.52,429,0,loyal,201.33
-154,Smartwatch,56,53.09,429,0,price_sensitive,201.0
-155,Smartwatch,56,53.94,429,-5,loyal,188.92
-156,Smartwatch,56,56.69,429,-10,occasional,217.61
-157,Smartwatch,56,57.0,429,0,occasional,205.69
-158,Smartwatch,56,55.57,429,-5,loyal,204.66
-159,Smartwatch,56,54.83,429,0,loyal,211.57
-160,Smartwatch,56,56.87,429,0,price_sensitive,231.12
-161,Smartwatch,56,57.76,429,0,price_sensitive,186.42
-162,Smartwatch,56,53.64,429,-10,loyal,225.6
-163,Smartwatch,56,58.69,429,0,loyal,218.57
-164,Smartwatch,56,54.47,429,0,loyal,211.04
-165,Smartwatch,56,52.11,429,0,loyal,195.99
-166,Smartwatch,56,53.27,429,0,loyal,213.96
-167,Smartwatch,56,51.59,429,0,price_sensitive,223.69
-168,Smartwatch,56,59.87,429,0,price_sensitive,218.35
-169,Smartwatch,56,53.75,429,0,loyal,190.4
-170,Smartwatch,56,57.03,429,0,occasional,201.37
-171,Smartwatch,56,58.4,429,-10,loyal,186.9
-172,Smartwatch,56,56.86,429,-5,loyal,176.06
-173,Smartwatch,56,55.7,429,0,occasional,183.9
-174,Smartwatch,56,54.76,429,-5,loyal,206.82
-175,Smartwatch,56,57.45,429,-10,loyal,213.74
-176,Smartwatch,56,53.97,429,0,occasional,229.34
-177,Smartwatch,56,59.46,429,0,price_sensitive,191.7
-178,Smartwatch,56,59.14,429,0,occasional,211.55
-179,Smartwatch,56,55.65,429,0,price_sensitive,182.19
-180,Smartwatch,56,57.19,429,0,occasional,197.45
-181,Smartwatch,56,59.93,429,0,occasional,174.52
-182,Smartwatch,56,57.92,429,0,loyal,199.6
-183,Smartwatch,56,54.37,429,0,loyal,204.9
-184,Smartwatch,56,56.14,429,-5,price_sensitive,194.24
-185,Smartwatch,56,57.44,429,0,price_sensitive,194.99
-186,Smartwatch,56,56.4,429,0,price_sensitive,177.99
-187,Smartwatch,56,51.58,429,0,loyal,211.87
-188,Smartwatch,56,57.06,429,-5,price_sensitive,195.11
-189,Smartwatch,56,52.48,429,0,loyal,192.16
-190,Smartwatch,56,58.55,429,-10,occasional,160.95
-191,Smartwatch,56,53.91,429,0,occasional,183.16
-192,Smartwatch,56,56.98,429,0,price_sensitive,193.96
-193,Smartwatch,56,57.54,429,0,price_sensitive,191.94
-194,Smartwatch,56,54.85,429,0,price_sensitive,199.66
-195,Smartwatch,56,52.7,429,0,occasional,189.7
-196,Smartwatch,56,55.68,429,-10,loyal,191.52
-197,Smartwatch,56,55.56,429,-10,price_sensitive,186.54
-198,Smartwatch,56,55.33,429,0,price_sensitive,177.21
-199,Smartwatch,56,58.15,429,0,occasional,188.11
-200,Smartwatch,56,54.71,429,0,occasional,178.27
-201,Smartwatch,56,57.2,429,-5,loyal,205.28
-202,Smartwatch,56,54.01,429,0,price_sensitive,184.07
-203,Smartwatch,56,57.41,429,0,price_sensitive,174.59
-204,Smartwatch,56,56.24,429,0,price_sensitive,172.97
-205,Smartwatch,56,55.91,429,0,loyal,173.56
-206,Smartwatch,56,55.32,429,0,occasional,194.32
-207,Smartwatch,56,58.62,429,0,price_sensitive,165.69
-208,Smartwatch,56,57.16,429,0,loyal,169.35
-209,Smartwatch,56,58.43,429,0,loyal,170.13
-210,Smartwatch,56,53.33,429,0,loyal,204.03
-211,Smartwatch,56,57.01,429,-5,occasional,201.44
-212,Smartwatch,56,54.99,429,0,price_sensitive,174.08
-213,Smartwatch,56,56.03,429,0,loyal,190.0
-214,Smartwatch,56,52.38,429,0,price_sensitive,200.67
-215,Smartwatch,56,52.39,429,0,occasional,220.38
-216,Smartwatch,56,45.24,429,0,occasional,249.14
-217,Smartwatch,56,58.03,429,0,occasional,187.85
-218,Smartwatch,56,54.62,429,0,occasional,173.5
-219,Smartwatch,56,53.46,429,0,price_sensitive,176.38
-220,Smartwatch,56,53.38,429,0,loyal,195.94
-221,Smartwatch,56,50.65,429,0,loyal,183.47
-222,Smartwatch,56,55.31,429,-5,occasional,184.6
-223,Smartwatch,56,59.11,429,-5,price_sensitive,177.93
-224,Smartwatch,56,58.18,429,-5,occasional,180.45
-225,Smartwatch,56,55.04,429,0,price_sensitive,189.62
-226,Smartwatch,56,52.05,429,-10,occasional,188.34
-227,Smartwatch,56,53.41,429,0,price_sensitive,193.99
-228,Smartwatch,56,51.52,429,-5,price_sensitive,214.36
-229,Smartwatch,56,58.75,429,0,occasional,177.48
-230,Smartwatch,56,55.03,429,-5,occasional,188.41
-231,Smartwatch,56,51.49,429,-5,price_sensitive,198.8
-232,Smartwatch,56,59.48,429,0,price_sensitive,192.04
-233,Smartwatch,56,55.1,429,0,occasional,187.49
-234,Smartwatch,56,55.14,429,-5,loyal,163.44
-235,Smartwatch,56,55.44,429,0,occasional,204.66
-236,Smartwatch,56,56.33,429,-5,price_sensitive,178.16
-237,Smartwatch,56,58.13,429,0,occasional,164.29
-238,Smartwatch,56,57.31,429,0,occasional,203.28
-239,Smartwatch,56,56.88,429,0,occasional,198.99
-240,Smartwatch,56,56.98,429,-5,occasional,175.4
-241,Smartwatch,56,51.4,429,0,loyal,196.97
-242,Smartwatch,56,60.0,429,0,occasional,170.97
-243,Smartwatch,56,54.15,429,-5,occasional,183.35
-244,Smartwatch,56,54.22,429,-10,loyal,182.96
-245,Smartwatch,56,56.0,429,-10,price_sensitive,158.7
-246,Smartwatch,56,54.6,429,0,occasional,186.5
-247,Smartwatch,56,60.08,429,-5,occasional,147.9
-248,Smartwatch,56,52.65,429,0,occasional,192.03
-249,Smartwatch,56,59.66,429,0,occasional,170.85
-250,Smartwatch,56,54.35,429,0,occasional,186.63
-251,Smartwatch,56,57.01,429,-5,price_sensitive,178.53
-252,Smartwatch,56,61.38,429,0,loyal,170.28
-253,Smartwatch,56,58.26,429,0,loyal,157.06
-254,Smartwatch,56,60.45,429,0,occasional,151.06
-255,Smartwatch,56,58.03,429,0,occasional,157.48
-256,Smartwatch,56,55.91,429,0,price_sensitive,163.1
-257,Smartwatch,56,62.83,429,0,loyal,144.32
-258,Smartwatch,56,53.38,429,0,loyal,174.25
-259,Smartwatch,56,56.07,429,0,loyal,166.92
-260,Smartwatch,56,62.09,429,0,loyal,162.3
-261,Smartwatch,56,56.77,429,0,price_sensitive,178.18
-262,Smartwatch,56,57.06,429,0,price_sensitive,177.26
-263,Smartwatch,56,57.24,429,0,price_sensitive,158.98
-264,Smartwatch,56,57.46,429,0,occasional,158.32
-265,Smartwatch,56,56.83,429,0,loyal,164.49
-266,Smartwatch,56,55.03,429,0,price_sensitive,169.3
-267,Smartwatch,56,59.31,429,0,occasional,170.2
-268,Smartwatch,56,57.8,429,0,occasional,174.7
-269,Smartwatch,56,54.84,429,0,occasional,201.91
-270,Smartwatch,56,53.68,429,-10,occasional,158.31
-271,Smartwatch,56,55.71,429,0,price_sensitive,180.9
-272,Smartwatch,56,58.7,429,0,occasional,194.61
-273,Smartwatch,56,56.91,429,0,loyal,200.51
-274,Smartwatch,56,50.83,429,0,price_sensitive,175.95
-275,Smartwatch,56,56.95,429,0,occasional,177.15
-276,Smartwatch,56,57.3,429,0,loyal,193.72
-277,Smartwatch,56,58.84,429,-10,price_sensitive,161.5
-278,Smartwatch,56,56.26,429,0,loyal,179.27
-279,Smartwatch,56,56.14,429,-10,price_sensitive,174.65
-280,Smartwatch,56,53.64,429,0,occasional,192.18
-281,Smartwatch,56,54.06,429,0,loyal,185.96
-282,Smartwatch,56,52.73,429,0,occasional,189.99
-283,Smartwatch,56,56.55,429,0,occasional,196.45
-284,Smartwatch,56,60.16,429,0,loyal,151.05
-285,Smartwatch,56,58.65,429,0,price_sensitive,172.41
-286,Smartwatch,56,52.42,429,0,price_sensitive,215.77
-287,Smartwatch,56,52.42,429,-5,loyal,191.23
-288,Smartwatch,56,55.21,429,0,loyal,182.96
-289,Smartwatch,56,56.52,429,-5,loyal,192.02
-290,Smartwatch,56,54.51,429,0,price_sensitive,203.74
-291,Smartwatch,56,58.62,429,0,price_sensitive,190.28
-292,Smartwatch,56,57.95,429,-10,loyal,165.11
-293,Smartwatch,56,58.56,429,-5,occasional,173.39
-294,Smartwatch,56,55.57,429,0,loyal,187.46
-295,Smartwatch,56,53.45,429,-5,occasional,183.95
-296,Smartwatch,56,62.25,429,0,occasional,162.66
-297,Smartwatch,56,50.66,429,-5,loyal,172.81
-298,Smartwatch,56,51.96,429,0,price_sensitive,174.42
-299,Smartwatch,56,53.84,429,0,occasional,169.49
-300,Smartwatch,56,57.72,429,0,loyal,163.63
-301,Smartwatch,56,54.21,429,0,price_sensitive,212.5
-302,Smartwatch,56,55.51,429,0,occasional,165.38
-303,Smartwatch,56,56.78,429,0,loyal,180.1
-304,Smartwatch,56,56.65,429,0,price_sensitive,198.74
-305,Smartwatch,56,56.59,429,0,price_sensitive,162.92
-306,Smartwatch,56,56.05,429,-5,loyal,196.12
-307,Smartwatch,56,54.92,429,0,occasional,191.39
-308,Smartwatch,56,50.84,429,-10,occasional,173.45
-309,Smartwatch,56,58.4,429,0,price_sensitive,158.71
-310,Smartwatch,56,56.86,429,0,price_sensitive,163.04
-311,Smartwatch,56,56.0,429,0,occasional,165.55
-312,Smartwatch,56,51.91,429,-5,occasional,171.77
-313,Smartwatch,56,52.48,429,0,price_sensitive,175.44
-314,Smartwatch,56,58.56,429,-5,price_sensitive,176.89
-315,Smartwatch,56,57.82,429,0,price_sensitive,202.77
-316,Smartwatch,56,58.79,429,0,occasional,176.67
-317,Smartwatch,56,54.48,429,0,loyal,170.83
-318,Smartwatch,56,57.11,429,0,price_sensitive,163.96
-319,Smartwatch,56,55.79,429,-5,occasional,181.36
-320,Smartwatch,56,58.77,429,0,occasional,159.9
-321,Smartwatch,56,53.47,429,0,loyal,198.81
-322,Smartwatch,56,53.13,429,0,occasional,200.08
-323,Smartwatch,56,59.71,429,0,price_sensitive,175.62
-324,Smartwatch,56,55.4,429,-5,occasional,183.81
-325,Smartwatch,56,57.87,429,0,price_sensitive,163.49
-326,Smartwatch,56,54.36,429,0,loyal,211.69
-327,Smartwatch,56,55.04,429,-5,price_sensitive,185.69
-328,Smartwatch,56,53.26,429,0,occasional,221.42
-329,Smartwatch,56,54.47,429,0,loyal,178.14
-330,Smartwatch,56,55.23,429,0,loyal,190.95
-331,Smartwatch,56,59.23,429,0,loyal,161.32
-332,Smartwatch,56,51.91,429,0,occasional,221.64
-333,Smartwatch,56,48.54,429,0,loyal,190.69
-334,Smartwatch,56,55.11,429,-5,occasional,187.46
-335,Smartwatch,56,51.11,429,0,loyal,209.78
-336,Smartwatch,56,55.39,429,0,loyal,197.23
-337,Smartwatch,56,55.76,429,-5,loyal,186.42
-338,Smartwatch,56,56.83,429,0,occasional,188.54
-339,Smartwatch,56,59.57,429,0,occasional,180.61
-340,Smartwatch,56,54.89,429,0,loyal,175.46
-341,Smartwatch,56,53.9,429,-10,price_sensitive,188.25
-342,Smartwatch,56,59.83,429,0,occasional,167.21
-343,Smartwatch,56,48.99,429,0,occasional,218.63
-344,Smartwatch,56,60.41,429,0,occasional,179.68
-345,Smartwatch,56,55.29,429,0,occasional,195.35
-346,Smartwatch,56,54.11,429,-5,price_sensitive,214.15
-347,Smartwatch,56,55.62,429,0,loyal,195.02
-348,Smartwatch,56,52.67,429,0,occasional,204.21
-349,Smartwatch,56,55.12,429,-5,price_sensitive,197.18
-350,Smartwatch,56,56.2,429,0,price_sensitive,219.2
-351,Smartwatch,56,58.4,429,-10,occasional,178.0
-352,Smartwatch,56,57.69,429,-5,loyal,185.48
-353,Smartwatch,56,55.83,429,0,occasional,196.4
-354,Smartwatch,56,57.08,429,0,price_sensitive,212.29
-355,Smartwatch,56,57.42,429,0,price_sensitive,173.09
-356,Smartwatch,56,59.45,429,0,occasional,191.56
-357,Smartwatch,56,53.87,429,0,occasional,208.63
-358,Smartwatch,56,57.53,429,0,loyal,173.7
-359,Smartwatch,56,54.28,429,0,loyal,223.41
-360,Smartwatch,56,56.79,429,-10,price_sensitive,166.32
-361,Smartwatch,56,60.29,429,0,price_sensitive,185.74
-362,Smartwatch,56,58.47,429,0,occasional,191.57
-363,Smartwatch,56,52.38,429,0,loyal,215.18
-364,Smartwatch,56,58.3,429,0,occasional,177.97
-365,Smartwatch,56,56.87,429,0,loyal,197.39
+day,product,base_price,avg_competitor_price,inventory_level,promotion_flag,customer_type,demand,cost_per_unit,revenue,profit
+1,Wireless Earbuds,78,77.14,485,-5,price_sensitive,217.83,46.8,16990.74,6796.296000000001
+2,Wireless Earbuds,78,79.81,485,-10,loyal,184.93,46.8,14424.54,5769.816000000001
+3,Wireless Earbuds,78,74.52,485,0,occasional,190.01,46.8,14820.779999999999,5928.312
+4,Wireless Earbuds,78,77.0,485,0,price_sensitive,204.02,46.8,15913.560000000001,6365.424000000001
+5,Wireless Earbuds,78,77.79,485,0,loyal,181.82,46.8,14181.96,5672.784000000001
+6,Wireless Earbuds,78,73.49,485,0,occasional,242.26,46.8,18896.28,7558.512000000001
+7,Wireless Earbuds,78,77.05,485,0,occasional,209.92,46.8,16373.759999999998,6549.504
+8,Wireless Earbuds,78,75.68,485,0,occasional,230.3,46.8,17963.4,7185.360000000001
+9,Wireless Earbuds,78,77.27,485,0,loyal,184.45,46.8,14387.099999999999,5754.84
+10,Wireless Earbuds,78,76.14,485,-10,price_sensitive,198.66,46.8,15495.48,6198.192
+11,Wireless Earbuds,78,80.4,485,-5,loyal,210.85,46.8,16446.3,6578.52
+12,Wireless Earbuds,78,75.28,485,-5,price_sensitive,228.13,46.8,17794.14,7117.656000000001
+13,Wireless Earbuds,78,81.49,485,0,loyal,198.63,46.8,15493.14,6197.256
+14,Wireless Earbuds,78,79.42,485,-5,occasional,220.7,46.8,17214.6,6885.84
+15,Wireless Earbuds,78,74.87,485,0,occasional,214.18,46.8,16706.04,6682.416000000001
+16,Wireless Earbuds,78,77.69,485,0,loyal,206.05,46.8,16071.900000000001,6428.760000000001
+17,Wireless Earbuds,78,81.19,485,0,occasional,195.87,46.8,15277.86,6111.144000000001
+18,Wireless Earbuds,78,76.54,485,0,occasional,231.17,46.8,18031.26,7212.504
+19,Wireless Earbuds,78,75.21,485,0,loyal,214.48,46.8,16729.44,6691.776
+20,Wireless Earbuds,78,76.61,485,0,loyal,194.05,46.8,15135.900000000001,6054.360000000001
+21,Wireless Earbuds,78,77.03,485,0,loyal,214.68,46.8,16745.04,6698.0160000000005
+22,Wireless Earbuds,78,83.88,485,0,occasional,189.45,46.8,14777.099999999999,5910.84
+23,Wireless Earbuds,78,78.0,485,0,occasional,207.41,46.8,16177.98,6471.192000000001
+24,Wireless Earbuds,78,80.46,485,0,price_sensitive,200.34,46.8,15626.52,6250.608000000001
+25,Wireless Earbuds,78,79.14,485,0,loyal,225.09,46.8,17557.02,7022.808000000001
+26,Wireless Earbuds,78,78.23,485,0,price_sensitive,207.67,46.8,16198.259999999998,6479.304
+27,Wireless Earbuds,78,79.65,485,-5,loyal,203.74,46.8,15891.720000000001,6356.688000000001
+28,Wireless Earbuds,78,71.82,485,-5,occasional,204.27,46.8,15933.060000000001,6373.224000000001
+29,Wireless Earbuds,78,77.88,485,0,occasional,209.66,46.8,16353.48,6541.392000000001
+30,Wireless Earbuds,78,77.89,485,-10,price_sensitive,220.91,46.8,17230.98,6892.392000000001
+31,Wireless Earbuds,78,80.72,485,-5,occasional,176.56,46.8,13771.68,5508.6720000000005
+32,Wireless Earbuds,78,77.52,485,-10,occasional,222.82,46.8,17379.96,6951.984
+33,Wireless Earbuds,78,76.38,485,0,price_sensitive,193.81,46.8,15117.18,6046.872
+34,Wireless Earbuds,78,82.27,485,0,occasional,182.67,46.8,14248.259999999998,5699.304
+35,Wireless Earbuds,78,78.9,485,0,occasional,213.37,46.8,16642.86,6657.144000000001
+36,Wireless Earbuds,78,81.45,485,0,loyal,201.0,46.8,15678.0,6271.200000000001
+37,Wireless Earbuds,78,79.31,485,0,loyal,207.71,46.8,16201.380000000001,6480.552000000001
+38,Wireless Earbuds,78,83.53,485,0,loyal,214.87,46.8,16759.86,6703.944
+39,Wireless Earbuds,78,71.77,485,0,occasional,230.9,46.8,18010.2,7204.080000000001
+40,Wireless Earbuds,78,76.34,485,0,price_sensitive,239.21,46.8,18658.38,7463.352000000001
+41,Wireless Earbuds,78,81.3,485,0,price_sensitive,228.61,46.8,17831.58,7132.632000000001
+42,Wireless Earbuds,78,75.85,485,0,occasional,202.02,46.8,15757.560000000001,6303.024000000001
+43,Wireless Earbuds,78,86.23,485,-10,occasional,197.43,46.8,15399.54,6159.816000000001
+44,Wireless Earbuds,78,75.47,485,-5,occasional,194.0,46.8,15132.0,6052.8
+45,Wireless Earbuds,78,75.03,485,0,occasional,222.68,46.8,17369.04,6947.616000000001
+46,Wireless Earbuds,78,77.3,485,0,loyal,237.72,46.8,18542.16,7416.8640000000005
+47,Wireless Earbuds,78,79.14,485,-10,price_sensitive,200.84,46.8,15665.52,6266.2080000000005
+48,Wireless Earbuds,78,76.61,485,-5,occasional,196.31,46.8,15312.18,6124.872
+49,Wireless Earbuds,78,78.71,485,0,occasional,217.61,46.8,16973.58,6789.432000000001
+50,Wireless Earbuds,78,74.48,485,0,loyal,248.09,46.8,19351.02,7740.408000000001
+51,Wireless Earbuds,78,82.83,485,0,loyal,220.71,46.8,17215.38,6886.152000000001
+52,Wireless Earbuds,78,75.03,485,0,loyal,201.9,46.8,15748.2,6299.280000000001
+53,Wireless Earbuds,78,79.36,485,0,loyal,211.55,46.8,16500.9,6600.360000000001
+54,Wireless Earbuds,78,73.99,485,0,price_sensitive,227.87,46.8,17773.86,7109.544000000001
+55,Wireless Earbuds,78,85.07,485,-10,price_sensitive,189.84,46.8,14807.52,5923.008000000001
+56,Wireless Earbuds,78,83.41,485,-5,occasional,220.52,46.8,17200.56,6880.224000000001
+57,Wireless Earbuds,78,81.48,485,0,occasional,185.43,46.8,14463.54,5785.416000000001
+58,Wireless Earbuds,78,75.72,485,0,loyal,223.48,46.8,17431.44,6972.576
+59,Wireless Earbuds,78,75.85,485,0,occasional,223.29,46.8,17416.62,6966.648
+60,Wireless Earbuds,78,80.99,485,0,loyal,187.25,46.8,14605.5,5842.200000000001
+61,Wireless Earbuds,78,80.36,485,0,occasional,231.14,46.8,18028.92,7211.568
+62,Wireless Earbuds,78,80.97,485,0,loyal,213.48,46.8,16651.44,6660.576
+63,Wireless Earbuds,78,74.18,485,-5,loyal,205.62,46.8,16038.36,6415.344000000001
+64,Wireless Earbuds,78,83.75,485,-5,price_sensitive,195.47,46.8,15246.66,6098.664000000001
+65,Wireless Earbuds,78,74.59,485,0,loyal,228.08,46.8,17790.24,7116.096000000001
+66,Wireless Earbuds,78,76.93,485,-5,price_sensitive,194.1,46.8,15139.8,6055.92
+67,Wireless Earbuds,78,82.81,485,0,loyal,224.09,46.8,17479.02,6991.608000000001
+68,Wireless Earbuds,78,78.44,485,0,occasional,216.98,46.8,16924.44,6769.776000000001
+69,Wireless Earbuds,78,77.26,485,0,occasional,248.22,46.8,19361.16,7744.464000000001
+70,Wireless Earbuds,78,76.84,485,-10,loyal,239.75,46.8,18700.5,7480.200000000001
+71,Wireless Earbuds,78,72.08,485,-5,occasional,231.45,46.8,18053.1,7221.240000000001
+72,Wireless Earbuds,78,80.7,485,0,loyal,210.72,46.8,16436.16,6574.464000000001
+73,Wireless Earbuds,78,72.24,485,0,occasional,236.22,46.8,18425.16,7370.064
+74,Wireless Earbuds,78,80.3,485,-10,loyal,202.15,46.8,15767.7,6307.080000000001
+75,Wireless Earbuds,78,77.61,485,0,price_sensitive,220.31,46.8,17184.18,6873.6720000000005
+76,Wireless Earbuds,78,78.27,485,-10,loyal,213.42,46.8,16646.76,6658.704000000001
+77,Wireless Earbuds,78,72.32,485,0,loyal,241.38,46.8,18827.64,7531.0560000000005
+78,Wireless Earbuds,78,78.64,485,0,loyal,217.49,46.8,16964.22,6785.688000000001
+79,Wireless Earbuds,78,80.18,485,0,occasional,212.97,46.8,16611.66,6644.664000000001
+80,Wireless Earbuds,78,79.44,485,-5,price_sensitive,231.79,46.8,18079.62,7231.848
+81,Wireless Earbuds,78,78.88,485,0,occasional,216.99,46.8,16925.22,6770.088000000001
+82,Wireless Earbuds,78,82.22,485,0,loyal,207.04,46.8,16149.119999999999,6459.648
+83,Wireless Earbuds,78,76.51,485,0,price_sensitive,252.16,46.8,19668.48,7867.392000000001
+84,Wireless Earbuds,78,79.15,485,0,occasional,221.37,46.8,17266.86,6906.744000000001
+85,Wireless Earbuds,78,82.01,485,0,loyal,207.83,46.8,16210.740000000002,6484.296000000001
+86,Wireless Earbuds,78,81.79,485,0,price_sensitive,187.67,46.8,14638.259999999998,5855.304
+87,Wireless Earbuds,78,81.22,485,-5,occasional,205.26,46.8,16010.279999999999,6404.112
+88,Wireless Earbuds,78,72.06,485,0,price_sensitive,237.78,46.8,18546.84,7418.736000000001
+89,Wireless Earbuds,78,79.64,485,0,loyal,193.55,46.8,15096.900000000001,6038.760000000001
+90,Wireless Earbuds,78,76.16,485,0,loyal,253.55,46.8,19776.9,7910.760000000001
+91,Wireless Earbuds,78,77.26,485,0,loyal,249.92,46.8,19493.76,7797.504
+92,Wireless Earbuds,78,79.21,485,0,loyal,216.38,46.8,16877.64,6751.0560000000005
+93,Wireless Earbuds,78,76.31,485,0,loyal,247.56,46.8,19309.68,7723.872000000001
+94,Wireless Earbuds,78,73.96,485,0,occasional,232.12,46.8,18105.36,7242.144000000001
+95,Wireless Earbuds,78,78.76,485,0,price_sensitive,217.7,46.8,16980.6,6792.240000000001
+96,Wireless Earbuds,78,80.36,485,0,price_sensitive,191.57,46.8,14942.46,5976.984
+97,Wireless Earbuds,78,80.49,485,0,occasional,217.44,46.8,16960.32,6784.128000000001
+98,Wireless Earbuds,78,79.81,485,0,price_sensitive,219.45,46.8,17117.1,6846.84
+99,Wireless Earbuds,78,75.09,485,0,loyal,205.71,46.8,16045.380000000001,6418.152000000001
+100,Wireless Earbuds,78,74.24,485,0,loyal,231.1,46.8,18025.8,7210.320000000001
+101,Wireless Earbuds,78,80.58,485,0,occasional,190.81,46.8,14883.18,5953.272000000001
+102,Wireless Earbuds,78,75.0,485,0,loyal,205.84,46.8,16055.52,6422.2080000000005
+103,Wireless Earbuds,78,76.43,485,0,loyal,224.36,46.8,17500.08,7000.032000000001
+104,Wireless Earbuds,78,74.07,485,0,occasional,236.36,46.8,18436.08,7374.432000000001
+105,Wireless Earbuds,78,77.15,485,0,price_sensitive,227.06,46.8,17710.68,7084.272000000001
+106,Wireless Earbuds,78,78.65,485,0,occasional,239.2,46.8,18657.6,7463.04
+107,Wireless Earbuds,78,85.66,485,-10,occasional,166.72,46.8,13004.16,5201.664000000001
+108,Wireless Earbuds,78,76.44,485,-5,price_sensitive,241.31,46.8,18822.18,7528.872000000001
+109,Wireless Earbuds,78,76.23,485,-5,price_sensitive,197.0,46.8,15366.0,6146.400000000001
+110,Wireless Earbuds,78,79.06,485,0,loyal,215.87,46.8,16837.86,6735.144000000001
+111,Wireless Earbuds,78,80.62,485,0,loyal,216.07,46.8,16853.46,6741.384
+112,Wireless Earbuds,78,77.88,485,-10,loyal,236.61,46.8,18455.58,7382.232000000001
+113,Wireless Earbuds,78,79.78,485,0,occasional,213.36,46.8,16642.08,6656.832000000001
+114,Wireless Earbuds,78,78.1,485,0,occasional,240.11,46.8,18728.58,7491.432000000001
+115,Wireless Earbuds,78,75.93,485,-5,price_sensitive,219.67,46.8,17134.26,6853.704000000001
+116,Wireless Earbuds,78,77.02,485,0,loyal,199.13,46.8,15532.14,6212.856000000001
+117,Wireless Earbuds,78,78.17,485,0,occasional,239.42,46.8,18674.76,7469.904
+118,Wireless Earbuds,78,77.86,485,-5,price_sensitive,218.43,46.8,17037.54,6815.0160000000005
+119,Wireless Earbuds,78,77.95,485,0,loyal,200.71,46.8,15655.380000000001,6262.152000000001
+120,Wireless Earbuds,78,76.17,485,0,loyal,200.89,46.8,15669.419999999998,6267.768
+121,Wireless Earbuds,78,78.69,485,0,loyal,259.02,46.8,20203.559999999998,8081.424
+122,Wireless Earbuds,78,80.9,485,0,price_sensitive,187.82,46.8,14649.96,5859.984
+123,Wireless Earbuds,78,77.68,485,-5,occasional,191.35,46.8,14925.3,5970.120000000001
+124,Wireless Earbuds,78,80.29,485,0,loyal,231.18,46.8,18032.04,7212.816000000001
+125,Wireless Earbuds,78,75.88,485,-5,loyal,223.21,46.8,17410.38,6964.152000000001
+126,Wireless Earbuds,78,78.31,485,-5,loyal,215.72,46.8,16826.16,6730.464000000001
+127,Wireless Earbuds,78,77.04,485,0,price_sensitive,219.34,46.8,17108.52,6843.408
+128,Wireless Earbuds,78,77.6,485,0,loyal,217.47,46.8,16962.66,6785.064
+129,Wireless Earbuds,78,79.23,485,0,price_sensitive,191.13,46.8,14908.14,5963.256
+130,Wireless Earbuds,78,76.41,485,0,price_sensitive,198.56,46.8,15487.68,6195.072000000001
+131,Wireless Earbuds,78,77.06,485,0,occasional,218.47,46.8,17040.66,6816.264000000001
+132,Wireless Earbuds,78,75.19,485,0,loyal,205.96,46.8,16064.880000000001,6425.952000000001
+133,Wireless Earbuds,78,76.11,485,0,occasional,225.86,46.8,17617.08,7046.832000000001
+134,Wireless Earbuds,78,76.49,485,0,price_sensitive,219.5,46.8,17121.0,6848.400000000001
+135,Wireless Earbuds,78,72.42,485,-5,occasional,226.48,46.8,17665.44,7066.176
+136,Wireless Earbuds,78,74.62,485,0,price_sensitive,202.19,46.8,15770.82,6308.328
+137,Wireless Earbuds,78,80.63,485,0,loyal,206.38,46.8,16097.64,6439.0560000000005
+138,Wireless Earbuds,78,77.81,485,0,occasional,193.13,46.8,15064.14,6025.656000000001
+139,Wireless Earbuds,78,81.31,485,0,occasional,208.85,46.8,16290.3,6516.120000000001
+140,Wireless Earbuds,78,76.82,485,-5,price_sensitive,194.86,46.8,15199.080000000002,6079.632000000001
+141,Wireless Earbuds,78,76.09,485,0,occasional,240.89,46.8,18789.42,7515.768
+142,Wireless Earbuds,78,77.54,485,0,occasional,214.38,46.8,16721.64,6688.656000000001
+143,Wireless Earbuds,78,78.31,485,-5,price_sensitive,206.8,46.8,16130.400000000001,6452.160000000001
+144,Wireless Earbuds,78,82.78,485,0,price_sensitive,178.33,46.8,13909.740000000002,5563.896000000001
+145,Wireless Earbuds,78,76.38,485,0,loyal,217.05,46.8,16929.9,6771.960000000001
+146,Wireless Earbuds,78,77.73,485,-10,occasional,207.72,46.8,16202.16,6480.8640000000005
+147,Wireless Earbuds,78,79.49,485,0,price_sensitive,212.19,46.8,16550.82,6620.328
+148,Wireless Earbuds,78,75.66,485,0,loyal,196.54,46.8,15330.119999999999,6132.048000000001
+149,Wireless Earbuds,78,80.35,485,0,loyal,224.44,46.8,17506.32,7002.528
+150,Wireless Earbuds,78,74.44,485,0,price_sensitive,221.47,46.8,17274.66,6909.8640000000005
+151,Wireless Earbuds,78,79.5,485,-5,occasional,200.99,46.8,15677.220000000001,6270.888000000001
+152,Wireless Earbuds,78,75.12,485,0,price_sensitive,218.83,46.8,17068.74,6827.496000000001
+153,Wireless Earbuds,78,84.02,485,0,loyal,177.15,46.8,13817.7,5527.080000000001
+154,Wireless Earbuds,78,78.41,485,0,occasional,213.36,46.8,16642.08,6656.832000000001
+155,Wireless Earbuds,78,77.5,485,0,loyal,210.81,46.8,16443.18,6577.272000000001
+156,Wireless Earbuds,78,81.33,485,0,loyal,198.98,46.8,15520.439999999999,6208.176
+157,Wireless Earbuds,78,78.53,485,-5,price_sensitive,181.38,46.8,14147.64,5659.0560000000005
+158,Wireless Earbuds,78,80.81,485,-10,occasional,209.92,46.8,16373.759999999998,6549.504
+159,Wireless Earbuds,78,79.68,485,-5,price_sensitive,198.0,46.8,15444.0,6177.6
+160,Wireless Earbuds,78,78.1,485,-5,loyal,228.66,46.8,17835.48,7134.192000000001
+161,Wireless Earbuds,78,81.28,485,0,occasional,182.33,46.8,14221.740000000002,5688.696000000001
+162,Wireless Earbuds,78,77.16,485,0,loyal,188.65,46.8,14714.7,5885.880000000001
+163,Wireless Earbuds,78,74.44,485,-5,price_sensitive,190.7,46.8,14874.599999999999,5949.84
+164,Wireless Earbuds,78,81.57,485,0,price_sensitive,215.3,46.8,16793.4,6717.360000000001
+165,Wireless Earbuds,78,74.36,485,0,loyal,217.04,46.8,16929.12,6771.648
+166,Wireless Earbuds,78,80.71,485,0,occasional,177.9,46.8,13876.2,5550.4800000000005
+167,Wireless Earbuds,78,79.67,485,0,loyal,205.45,46.8,16025.099999999999,6410.04
+168,Wireless Earbuds,78,78.81,485,0,price_sensitive,228.46,46.8,17819.88,7127.952000000001
+169,Wireless Earbuds,78,80.2,485,-5,loyal,213.01,46.8,16614.78,6645.912
+170,Wireless Earbuds,78,78.24,485,0,occasional,183.36,46.8,14302.080000000002,5720.832000000001
+171,Wireless Earbuds,78,75.01,485,0,price_sensitive,191.77,46.8,14958.060000000001,5983.224000000001
+172,Wireless Earbuds,78,75.94,485,-5,loyal,225.93,46.8,17622.54,7049.0160000000005
+173,Wireless Earbuds,78,76.75,485,-10,price_sensitive,217.91,46.8,16996.98,6798.792
+174,Wireless Earbuds,78,77.56,485,0,loyal,230.36,46.8,17968.08,7187.232000000001
+175,Wireless Earbuds,78,72.49,485,-5,price_sensitive,241.71,46.8,18853.38,7541.352000000001
+176,Wireless Earbuds,78,77.78,485,-5,loyal,218.39,46.8,17034.42,6813.768
+177,Wireless Earbuds,78,78.7,485,0,loyal,179.98,46.8,14038.439999999999,5615.376
+178,Wireless Earbuds,78,79.64,485,-10,price_sensitive,206.49,46.8,16106.220000000001,6442.488000000001
+179,Wireless Earbuds,78,76.44,485,0,loyal,206.06,46.8,16072.68,6429.072000000001
+180,Wireless Earbuds,78,75.32,485,0,loyal,209.06,46.8,16306.68,6522.6720000000005
+181,Wireless Earbuds,78,77.1,485,0,occasional,187.55,46.8,14628.900000000001,5851.560000000001
+182,Wireless Earbuds,78,79.79,485,0,price_sensitive,219.96,46.8,17156.88,6862.752000000001
+183,Wireless Earbuds,78,75.46,485,0,loyal,207.62,46.8,16194.36,6477.744000000001
+184,Wireless Earbuds,78,79.57,485,0,occasional,175.44,46.8,13684.32,5473.728
+185,Wireless Earbuds,78,78.66,485,0,loyal,197.32,46.8,15390.96,6156.384
+186,Wireless Earbuds,78,76.1,485,-5,price_sensitive,179.21,46.8,13978.380000000001,5591.352000000001
+187,Wireless Earbuds,78,82.05,485,-10,price_sensitive,195.13,46.8,15220.14,6088.0560000000005
+188,Wireless Earbuds,78,82.01,485,-5,price_sensitive,186.25,46.8,14527.5,5811.000000000001
+189,Wireless Earbuds,78,72.66,485,0,loyal,197.07,46.8,15371.46,6148.584000000001
+190,Wireless Earbuds,78,77.18,485,-5,price_sensitive,195.06,46.8,15214.68,6085.872
+191,Wireless Earbuds,78,75.53,485,-10,price_sensitive,194.67,46.8,15184.259999999998,6073.704
+192,Wireless Earbuds,78,75.03,485,-5,occasional,221.39,46.8,17268.42,6907.368
+193,Wireless Earbuds,78,78.18,485,0,occasional,215.62,46.8,16818.36,6727.344000000001
+194,Wireless Earbuds,78,77.62,485,0,occasional,197.37,46.8,15394.86,6157.944
+195,Wireless Earbuds,78,79.36,485,0,occasional,177.13,46.8,13816.14,5526.456
+196,Wireless Earbuds,78,78.38,485,0,loyal,179.48,46.8,13999.439999999999,5599.776
+197,Wireless Earbuds,78,77.12,485,0,loyal,197.87,46.8,15433.86,6173.544000000001
+198,Wireless Earbuds,78,73.14,485,0,price_sensitive,209.46,46.8,16337.880000000001,6535.152000000001
+199,Wireless Earbuds,78,78.18,485,0,loyal,174.61,46.8,13619.580000000002,5447.832000000001
+200,Wireless Earbuds,78,76.12,485,0,loyal,179.86,46.8,14029.080000000002,5611.6320000000005
+201,Wireless Earbuds,78,74.53,485,0,loyal,201.86,46.8,15745.080000000002,6298.032000000001
+202,Wireless Earbuds,78,76.29,485,0,price_sensitive,224.07,46.8,17477.46,6990.984
+203,Wireless Earbuds,78,80.15,485,0,occasional,191.79,46.8,14959.619999999999,5983.848
+204,Wireless Earbuds,78,82.06,485,-5,price_sensitive,157.66,46.8,12297.48,4918.992
+205,Wireless Earbuds,78,80.53,485,0,occasional,203.48,46.8,15871.439999999999,6348.576
+206,Wireless Earbuds,78,86.32,485,-5,loyal,162.32,46.8,12660.96,5064.384
+207,Wireless Earbuds,78,77.87,485,0,occasional,211.56,46.8,16501.68,6600.6720000000005
+208,Wireless Earbuds,78,79.08,485,0,price_sensitive,188.38,46.8,14693.64,5877.456
+209,Wireless Earbuds,78,79.33,485,0,price_sensitive,173.09,46.8,13501.02,5400.408
+210,Wireless Earbuds,78,81.39,485,-5,occasional,180.86,46.8,14107.080000000002,5642.832000000001
+211,Wireless Earbuds,78,82.93,485,0,occasional,193.52,46.8,15094.560000000001,6037.8240000000005
+212,Wireless Earbuds,78,73.48,485,-5,price_sensitive,178.56,46.8,13927.68,5571.072000000001
+213,Wireless Earbuds,78,78.44,485,0,price_sensitive,169.9,46.8,13252.2,5300.880000000001
+214,Wireless Earbuds,78,74.72,485,0,occasional,179.69,46.8,14015.82,5606.328
+215,Wireless Earbuds,78,75.79,485,0,occasional,196.15,46.8,15299.7,6119.880000000001
+216,Wireless Earbuds,78,74.23,485,0,price_sensitive,205.54,46.8,16032.119999999999,6412.848
+217,Wireless Earbuds,78,77.72,485,0,price_sensitive,175.29,46.8,13672.619999999999,5469.048000000001
+218,Wireless Earbuds,78,74.56,485,0,occasional,218.87,46.8,17071.86,6828.744000000001
+219,Wireless Earbuds,78,77.93,485,0,loyal,188.55,46.8,14706.900000000001,5882.760000000001
+220,Wireless Earbuds,78,78.61,485,0,price_sensitive,167.61,46.8,13073.580000000002,5229.432000000001
+221,Wireless Earbuds,78,76.62,485,0,occasional,211.14,46.8,16468.92,6587.568
+222,Wireless Earbuds,78,77.94,485,0,loyal,187.71,46.8,14641.380000000001,5856.552000000001
+223,Wireless Earbuds,78,82.51,485,0,occasional,178.73,46.8,13940.939999999999,5576.376
+224,Wireless Earbuds,78,79.23,485,0,price_sensitive,207.13,46.8,16156.14,6462.456
+225,Wireless Earbuds,78,76.48,485,0,occasional,172.16,46.8,13428.48,5371.392000000001
+226,Wireless Earbuds,78,76.45,485,-5,price_sensitive,186.14,46.8,14518.919999999998,5807.568
+227,Wireless Earbuds,78,82.89,485,0,loyal,171.55,46.8,13380.900000000001,5352.360000000001
+228,Wireless Earbuds,78,82.33,485,-10,price_sensitive,162.98,46.8,12712.439999999999,5084.976000000001
+229,Wireless Earbuds,78,80.77,485,-5,occasional,190.16,46.8,14832.48,5932.992
+230,Wireless Earbuds,78,75.98,485,-5,price_sensitive,191.54,46.8,14940.119999999999,5976.048000000001
+231,Wireless Earbuds,78,78.93,485,0,loyal,206.21,46.8,16084.380000000001,6433.752
+232,Wireless Earbuds,78,75.22,485,-5,price_sensitive,188.37,46.8,14692.86,5877.144
+233,Wireless Earbuds,78,71.66,485,0,loyal,203.84,46.8,15899.52,6359.808000000001
+234,Wireless Earbuds,78,80.02,485,0,price_sensitive,160.66,46.8,12531.48,5012.592000000001
+235,Wireless Earbuds,78,82.24,485,0,occasional,154.47,46.8,12048.66,4819.464000000001
+236,Wireless Earbuds,78,72.98,485,0,occasional,199.22,46.8,15539.16,6215.664000000001
+237,Wireless Earbuds,78,75.79,485,0,price_sensitive,176.01,46.8,13728.779999999999,5491.512000000001
+238,Wireless Earbuds,78,79.8,485,-5,loyal,160.0,46.8,12480.0,4992.0
+239,Wireless Earbuds,78,78.55,485,0,loyal,200.08,46.8,15606.240000000002,6242.496000000001
+240,Wireless Earbuds,78,79.04,485,0,occasional,180.24,46.8,14058.720000000001,5623.488000000001
+241,Wireless Earbuds,78,74.13,485,-5,price_sensitive,170.3,46.8,13283.400000000001,5313.360000000001
+242,Wireless Earbuds,78,75.27,485,-5,loyal,205.27,46.8,16011.060000000001,6404.424000000001
+243,Wireless Earbuds,78,79.26,485,0,loyal,161.11,46.8,12566.580000000002,5026.6320000000005
+244,Wireless Earbuds,78,82.92,485,-10,occasional,145.57,46.8,11354.46,4541.784000000001
+245,Wireless Earbuds,78,78.26,485,-5,loyal,163.0,46.8,12714.0,5085.6
+246,Wireless Earbuds,78,77.98,485,-5,price_sensitive,177.35,46.8,13833.3,5533.320000000001
+247,Wireless Earbuds,78,78.2,485,0,price_sensitive,163.37,46.8,12742.86,5097.144
+248,Wireless Earbuds,78,76.57,485,0,loyal,204.9,46.8,15982.2,6392.880000000001
+249,Wireless Earbuds,78,78.32,485,0,occasional,162.79,46.8,12697.619999999999,5079.048
+250,Wireless Earbuds,78,79.52,485,0,occasional,177.14,46.8,13816.919999999998,5526.768
+251,Wireless Earbuds,78,81.03,485,-5,loyal,172.46,46.8,13451.880000000001,5380.752
+252,Wireless Earbuds,78,74.64,485,0,loyal,216.15,46.8,16859.7,6743.880000000001
+253,Wireless Earbuds,78,80.76,485,0,occasional,155.72,46.8,12146.16,4858.464000000001
+254,Wireless Earbuds,78,74.02,485,0,occasional,173.8,46.8,13556.400000000001,5422.56
+255,Wireless Earbuds,78,81.97,485,-10,occasional,142.24,46.8,11094.720000000001,4437.888000000001
+256,Wireless Earbuds,78,80.24,485,-10,loyal,146.81,46.8,11451.18,4580.472000000001
+257,Wireless Earbuds,78,79.55,485,0,occasional,176.21,46.8,13744.380000000001,5497.752
+258,Wireless Earbuds,78,80.06,485,0,loyal,179.57,46.8,14006.46,5602.584000000001
+259,Wireless Earbuds,78,78.71,485,0,occasional,165.19,46.8,12884.82,5153.928000000001
+260,Wireless Earbuds,78,78.51,485,0,loyal,179.06,46.8,13966.68,5586.6720000000005
+261,Wireless Earbuds,78,77.91,485,0,price_sensitive,180.77,46.8,14100.060000000001,5640.024000000001
+262,Wireless Earbuds,78,75.2,485,-5,price_sensitive,202.72,46.8,15812.16,6324.8640000000005
+263,Wireless Earbuds,78,79.5,485,-5,occasional,188.43,46.8,14697.54,5879.0160000000005
+264,Wireless Earbuds,78,77.61,485,0,price_sensitive,163.32,46.8,12738.96,5095.584
+265,Wireless Earbuds,78,78.55,485,0,loyal,183.61,46.8,14321.580000000002,5728.6320000000005
+266,Wireless Earbuds,78,77.14,485,0,loyal,168.99,46.8,13181.220000000001,5272.488000000001
+267,Wireless Earbuds,78,74.06,485,-5,loyal,167.78,46.8,13086.84,5234.736000000001
+268,Wireless Earbuds,78,74.92,485,0,loyal,189.36,46.8,14770.080000000002,5908.032000000001
+269,Wireless Earbuds,78,69.1,485,-10,price_sensitive,176.08,46.8,13734.240000000002,5493.696000000001
+270,Wireless Earbuds,78,83.07,485,0,price_sensitive,148.35,46.8,11571.3,4628.52
+271,Wireless Earbuds,78,78.79,485,0,price_sensitive,177.65,46.8,13856.7,5542.68
+272,Wireless Earbuds,78,76.21,485,-10,loyal,161.34,46.8,12584.52,5033.808000000001
+273,Wireless Earbuds,78,79.91,485,0,loyal,161.34,46.8,12584.52,5033.808000000001
+274,Wireless Earbuds,78,79.35,485,0,occasional,175.94,46.8,13723.32,5489.328
+275,Wireless Earbuds,78,78.59,485,0,occasional,178.23,46.8,13901.939999999999,5560.776
+276,Wireless Earbuds,78,70.77,485,-5,occasional,216.88,46.8,16916.64,6766.656000000001
+277,Wireless Earbuds,78,74.76,485,0,occasional,170.78,46.8,13320.84,5328.336
+278,Wireless Earbuds,78,78.01,485,-10,price_sensitive,170.01,46.8,13260.779999999999,5304.312
+279,Wireless Earbuds,78,75.66,485,-5,occasional,187.09,46.8,14593.02,5837.2080000000005
+280,Wireless Earbuds,78,71.27,485,0,loyal,205.29,46.8,16012.619999999999,6405.048000000001
+281,Wireless Earbuds,78,76.94,485,0,occasional,201.66,46.8,15729.48,6291.792
+282,Wireless Earbuds,78,79.95,485,-10,occasional,164.33,46.8,12817.740000000002,5127.0960000000005
+283,Wireless Earbuds,78,79.87,485,0,loyal,174.64,46.8,13621.919999999998,5448.768
+284,Wireless Earbuds,78,77.55,485,0,loyal,163.48,46.8,12751.439999999999,5100.576
+285,Wireless Earbuds,78,77.97,485,0,occasional,162.41,46.8,12667.98,5067.192
+286,Wireless Earbuds,78,78.07,485,-10,occasional,175.22,46.8,13667.16,5466.8640000000005
+287,Wireless Earbuds,78,79.18,485,0,occasional,181.98,46.8,14194.439999999999,5677.776
+288,Wireless Earbuds,78,77.28,485,0,loyal,164.46,46.8,12827.880000000001,5131.152000000001
+289,Wireless Earbuds,78,78.57,485,0,loyal,161.06,46.8,12562.68,5025.072
+290,Wireless Earbuds,78,77.27,485,0,occasional,201.26,46.8,15698.279999999999,6279.312
+291,Wireless Earbuds,78,71.98,485,-10,loyal,188.92,46.8,14735.759999999998,5894.304
+292,Wireless Earbuds,78,75.96,485,0,price_sensitive,187.08,46.8,14592.240000000002,5836.896000000001
+293,Wireless Earbuds,78,78.18,485,0,loyal,204.07,46.8,15917.46,6366.984
+294,Wireless Earbuds,78,81.76,485,-10,price_sensitive,164.91,46.8,12862.98,5145.192
+295,Wireless Earbuds,78,78.44,485,0,price_sensitive,161.99,46.8,12635.220000000001,5054.088000000001
+296,Wireless Earbuds,78,75.8,485,-10,loyal,178.03,46.8,13886.34,5554.536000000001
+297,Wireless Earbuds,78,81.76,485,-5,loyal,165.27,46.8,12891.060000000001,5156.424000000001
+298,Wireless Earbuds,78,76.12,485,0,loyal,168.59,46.8,13150.02,5260.008000000001
+299,Wireless Earbuds,78,76.1,485,-5,loyal,163.77,46.8,12774.060000000001,5109.624000000001
+300,Wireless Earbuds,78,78.11,485,-5,loyal,162.99,46.8,12713.220000000001,5085.2880000000005
+301,Wireless Earbuds,78,80.65,485,0,occasional,199.17,46.8,15535.259999999998,6214.104
+302,Wireless Earbuds,78,74.27,485,-10,price_sensitive,183.48,46.8,14311.439999999999,5724.576
+303,Wireless Earbuds,78,78.83,485,0,occasional,197.96,46.8,15440.880000000001,6176.352000000001
+304,Wireless Earbuds,78,70.62,485,0,price_sensitive,225.25,46.8,17569.5,7027.800000000001
+305,Wireless Earbuds,78,79.29,485,0,loyal,178.92,46.8,13955.759999999998,5582.304
+306,Wireless Earbuds,78,82.52,485,0,occasional,152.47,46.8,11892.66,4757.064
+307,Wireless Earbuds,78,79.42,485,0,price_sensitive,183.91,46.8,14344.98,5737.992
+308,Wireless Earbuds,78,78.38,485,0,price_sensitive,187.19,46.8,14600.82,5840.328
+309,Wireless Earbuds,78,74.52,485,0,price_sensitive,213.36,46.8,16642.08,6656.832000000001
+310,Wireless Earbuds,78,80.58,485,0,loyal,175.99,46.8,13727.220000000001,5490.888000000001
+311,Wireless Earbuds,78,77.84,485,0,occasional,165.97,46.8,12945.66,5178.264
+312,Wireless Earbuds,78,72.99,485,0,loyal,199.17,46.8,15535.259999999998,6214.104
+313,Wireless Earbuds,78,77.04,485,0,loyal,168.51,46.8,13143.779999999999,5257.512000000001
+314,Wireless Earbuds,78,78.19,485,-10,occasional,179.01,46.8,13962.779999999999,5585.112
+315,Wireless Earbuds,78,79.0,485,0,loyal,168.11,46.8,13112.580000000002,5245.032000000001
+316,Wireless Earbuds,78,78.27,485,0,price_sensitive,165.78,46.8,12930.84,5172.336
+317,Wireless Earbuds,78,74.56,485,-10,loyal,185.6,46.8,14476.8,5790.72
+318,Wireless Earbuds,78,85.76,485,0,loyal,162.22,46.8,12653.16,5061.264
+319,Wireless Earbuds,78,78.87,485,0,price_sensitive,164.81,46.8,12855.18,5142.072
+320,Wireless Earbuds,78,81.85,485,-5,loyal,169.42,46.8,13214.759999999998,5285.904
+321,Wireless Earbuds,78,74.87,485,0,loyal,220.67,46.8,17212.26,6884.904
+322,Wireless Earbuds,78,83.73,485,-10,loyal,181.73,46.8,14174.939999999999,5669.976000000001
+323,Wireless Earbuds,78,77.12,485,0,loyal,208.3,46.8,16247.400000000001,6498.960000000001
+324,Wireless Earbuds,78,77.84,485,0,occasional,168.72,46.8,13160.16,5264.064
+325,Wireless Earbuds,78,83.55,485,0,occasional,170.6,46.8,13306.8,5322.72
+326,Wireless Earbuds,78,74.41,485,-5,price_sensitive,193.29,46.8,15076.619999999999,6030.648
+327,Wireless Earbuds,78,74.79,485,-5,occasional,192.44,46.8,15010.32,6004.128000000001
+328,Wireless Earbuds,78,75.61,485,0,occasional,180.22,46.8,14057.16,5622.8640000000005
+329,Wireless Earbuds,78,79.04,485,0,occasional,190.23,46.8,14837.939999999999,5935.176
+330,Wireless Earbuds,78,81.62,485,0,loyal,177.77,46.8,13866.060000000001,5546.424000000001
+331,Wireless Earbuds,78,75.89,485,0,loyal,214.79,46.8,16753.62,6701.448
+332,Wireless Earbuds,78,77.45,485,0,occasional,190.85,46.8,14886.3,5954.52
+333,Wireless Earbuds,78,75.18,485,0,occasional,178.18,46.8,13898.04,5559.216
+334,Wireless Earbuds,78,79.43,485,0,occasional,166.97,46.8,13023.66,5209.464000000001
+335,Wireless Earbuds,78,74.63,485,-10,occasional,195.21,46.8,15226.380000000001,6090.552000000001
+336,Wireless Earbuds,78,79.32,485,0,price_sensitive,210.59,46.8,16426.02,6570.408
+337,Wireless Earbuds,78,78.1,485,-5,occasional,166.36,46.8,12976.080000000002,5190.432000000001
+338,Wireless Earbuds,78,78.1,485,-5,occasional,185.72,46.8,14486.16,5794.464000000001
+339,Wireless Earbuds,78,74.57,485,-5,occasional,216.79,46.8,16909.62,6763.848
+340,Wireless Earbuds,78,84.1,485,0,occasional,173.33,46.8,13519.740000000002,5407.896000000001
+341,Wireless Earbuds,78,77.79,485,-5,price_sensitive,168.33,46.8,13129.740000000002,5251.896000000001
+342,Wireless Earbuds,78,77.06,485,-5,price_sensitive,195.09,46.8,15217.02,6086.808000000001
+343,Wireless Earbuds,78,77.17,485,0,loyal,200.07,46.8,15605.46,6242.184
+344,Wireless Earbuds,78,80.0,485,0,loyal,186.91,46.8,14578.98,5831.592000000001
+345,Wireless Earbuds,78,73.28,485,0,loyal,228.13,46.8,17794.14,7117.656000000001
+346,Wireless Earbuds,78,75.99,485,0,occasional,179.62,46.8,14010.36,5604.144
+347,Wireless Earbuds,78,78.85,485,0,loyal,210.46,46.8,16415.88,6566.352000000001
+348,Wireless Earbuds,78,83.63,485,-10,price_sensitive,185.06,46.8,14434.68,5773.872
+349,Wireless Earbuds,78,72.28,485,0,occasional,195.04,46.8,15213.119999999999,6085.2480000000005
+350,Wireless Earbuds,78,79.19,485,0,price_sensitive,176.68,46.8,13781.04,5512.416000000001
+351,Wireless Earbuds,78,82.26,485,-5,loyal,195.67,46.8,15262.259999999998,6104.904
+352,Wireless Earbuds,78,78.0,485,0,loyal,195.55,46.8,15252.900000000001,6101.160000000001
+353,Wireless Earbuds,78,80.96,485,0,loyal,168.31,46.8,13128.18,5251.272000000001
+354,Wireless Earbuds,78,77.02,485,-10,price_sensitive,189.17,46.8,14755.259999999998,5902.104
+355,Wireless Earbuds,78,85.61,485,0,price_sensitive,191.1,46.8,14905.8,5962.320000000001
+356,Wireless Earbuds,78,74.8,485,0,occasional,190.34,46.8,14846.52,5938.608000000001
+357,Wireless Earbuds,78,77.52,485,0,occasional,203.7,46.8,15888.599999999999,6355.4400000000005
+358,Wireless Earbuds,78,74.34,485,0,price_sensitive,208.58,46.8,16269.240000000002,6507.696000000001
+359,Wireless Earbuds,78,74.94,485,-10,loyal,197.11,46.8,15374.580000000002,6149.832000000001
+360,Wireless Earbuds,78,78.07,485,0,loyal,198.08,46.8,15450.240000000002,6180.096000000001
+361,Wireless Earbuds,78,76.76,485,0,occasional,202.33,46.8,15781.740000000002,6312.696000000001
+362,Wireless Earbuds,78,80.65,485,0,loyal,191.03,46.8,14900.34,5960.136
+363,Wireless Earbuds,78,74.54,485,0,price_sensitive,193.23,46.8,15071.939999999999,6028.776
+364,Wireless Earbuds,78,81.08,485,0,loyal,195.42,46.8,15242.759999999998,6097.104
+365,Wireless Earbuds,78,78.87,485,0,occasional,177.64,46.8,13855.919999999998,5542.368
+1,Gaming Mouse,57,55.3,499,-5,price_sensitive,179.58,34.199999999999996,10236.060000000001,4094.424000000001
+2,Gaming Mouse,57,59.62,499,-5,occasional,187.5,34.199999999999996,10687.5,4275.000000000001
+3,Gaming Mouse,57,57.04,499,0,loyal,220.63,34.199999999999996,12575.91,5030.3640000000005
+4,Gaming Mouse,57,54.68,499,-5,loyal,182.21,34.199999999999996,10385.970000000001,4154.388000000001
+5,Gaming Mouse,57,55.62,499,0,price_sensitive,184.98,34.199999999999996,10543.859999999999,4217.544000000001
+6,Gaming Mouse,57,56.38,499,0,loyal,208.58,34.199999999999996,11889.060000000001,4755.624000000002
+7,Gaming Mouse,57,58.69,499,0,loyal,181.8,34.199999999999996,10362.6,4145.040000000001
+8,Gaming Mouse,57,57.5,499,0,loyal,221.0,34.199999999999996,12597.0,5038.800000000001
+9,Gaming Mouse,57,53.6,499,0,loyal,212.97,34.199999999999996,12139.289999999999,4855.716000000001
+10,Gaming Mouse,57,65.22,499,0,loyal,178.43,34.199999999999996,10170.51,4068.204000000001
+11,Gaming Mouse,57,59.79,499,0,price_sensitive,214.56,34.199999999999996,12229.92,4891.968000000001
+12,Gaming Mouse,57,56.08,499,-5,occasional,201.52,34.199999999999996,11486.640000000001,4594.656000000001
+13,Gaming Mouse,57,57.01,499,0,price_sensitive,209.09,34.199999999999996,11918.130000000001,4767.252000000001
+14,Gaming Mouse,57,56.3,499,0,price_sensitive,190.4,34.199999999999996,10852.800000000001,4341.120000000001
+15,Gaming Mouse,57,54.63,499,-5,loyal,206.9,34.199999999999996,11793.300000000001,4717.320000000001
+16,Gaming Mouse,57,52.61,499,0,loyal,240.13,34.199999999999996,13687.41,5474.964000000001
+17,Gaming Mouse,57,57.54,499,0,loyal,224.2,34.199999999999996,12779.4,5111.760000000001
+18,Gaming Mouse,57,55.52,499,-5,loyal,226.25,34.199999999999996,12896.25,5158.500000000001
+19,Gaming Mouse,57,53.98,499,0,price_sensitive,236.7,34.199999999999996,13491.9,5396.760000000001
+20,Gaming Mouse,57,56.67,499,0,loyal,212.43,34.199999999999996,12108.51,4843.404000000001
+21,Gaming Mouse,57,61.02,499,0,price_sensitive,179.72,34.199999999999996,10244.039999999999,4097.616000000001
+22,Gaming Mouse,57,59.04,499,-5,price_sensitive,195.97,34.199999999999996,11170.289999999999,4468.116000000001
+23,Gaming Mouse,57,54.95,499,0,occasional,213.57,34.199999999999996,12173.49,4869.396000000001
+24,Gaming Mouse,57,60.01,499,-10,loyal,188.7,34.199999999999996,10755.9,4302.360000000001
+25,Gaming Mouse,57,56.77,499,0,loyal,187.86,34.199999999999996,10708.02,4283.208000000001
+26,Gaming Mouse,57,54.82,499,-10,occasional,226.41,34.199999999999996,12905.369999999999,5162.148000000001
+27,Gaming Mouse,57,55.05,499,0,price_sensitive,197.57,34.199999999999996,11261.49,4504.5960000000005
+28,Gaming Mouse,57,63.07,499,0,price_sensitive,195.79,34.199999999999996,11160.029999999999,4464.012000000001
+29,Gaming Mouse,57,56.7,499,-5,loyal,184.18,34.199999999999996,10498.26,4199.304000000001
+30,Gaming Mouse,57,62.34,499,-5,price_sensitive,188.59,34.199999999999996,10749.630000000001,4299.852000000001
+31,Gaming Mouse,57,59.25,499,-5,occasional,177.83,34.199999999999996,10136.310000000001,4054.5240000000013
+32,Gaming Mouse,57,59.99,499,-5,price_sensitive,176.11,34.199999999999996,10038.27,4015.308000000001
+33,Gaming Mouse,57,57.77,499,0,price_sensitive,229.0,34.199999999999996,13053.0,5221.200000000001
+34,Gaming Mouse,57,57.07,499,0,loyal,215.58,34.199999999999996,12288.060000000001,4915.224000000001
+35,Gaming Mouse,57,56.3,499,0,occasional,240.01,34.199999999999996,13680.57,5472.228000000001
+36,Gaming Mouse,57,64.7,499,0,loyal,188.27,34.199999999999996,10731.390000000001,4292.556000000001
+37,Gaming Mouse,57,56.98,499,0,price_sensitive,232.87,34.199999999999996,13273.59,5309.4360000000015
+38,Gaming Mouse,57,56.57,499,0,price_sensitive,234.52,34.199999999999996,13367.640000000001,5347.056000000001
+39,Gaming Mouse,57,60.12,499,0,loyal,202.84,34.199999999999996,11561.880000000001,4624.752000000001
+40,Gaming Mouse,57,57.44,499,-5,price_sensitive,185.05,34.199999999999996,10547.85,4219.140000000001
+41,Gaming Mouse,57,57.7,499,0,occasional,237.21,34.199999999999996,13520.970000000001,5408.388000000001
+42,Gaming Mouse,57,57.52,499,0,occasional,216.45,34.199999999999996,12337.65,4935.06
+43,Gaming Mouse,57,58.93,499,0,price_sensitive,186.72,34.199999999999996,10643.039999999999,4257.216
+44,Gaming Mouse,57,58.19,499,-5,loyal,204.96,34.199999999999996,11682.720000000001,4673.088000000001
+45,Gaming Mouse,57,54.15,499,0,occasional,222.33,34.199999999999996,12672.810000000001,5069.124000000002
+46,Gaming Mouse,57,55.9,499,0,occasional,217.32,34.199999999999996,12387.24,4954.896000000001
+47,Gaming Mouse,57,59.65,499,0,price_sensitive,226.95,34.199999999999996,12936.15,5174.460000000001
+48,Gaming Mouse,57,55.08,499,0,occasional,225.26,34.199999999999996,12839.82,5135.928000000001
+49,Gaming Mouse,57,58.6,499,0,price_sensitive,214.95,34.199999999999996,12252.15,4900.860000000001
+50,Gaming Mouse,57,56.47,499,-5,occasional,233.22,34.199999999999996,13293.539999999999,5317.416000000001
+51,Gaming Mouse,57,60.13,499,0,price_sensitive,225.81,34.199999999999996,12871.17,5148.468000000001
+52,Gaming Mouse,57,54.36,499,0,price_sensitive,223.35,34.199999999999996,12730.949999999999,5092.380000000001
+53,Gaming Mouse,57,58.17,499,0,occasional,190.91,34.199999999999996,10881.869999999999,4352.7480000000005
+54,Gaming Mouse,57,56.4,499,0,occasional,217.65,34.199999999999996,12406.050000000001,4962.420000000001
+55,Gaming Mouse,57,55.16,499,-10,occasional,193.92,34.199999999999996,11053.439999999999,4421.376
+56,Gaming Mouse,57,50.28,499,-5,loyal,236.44,34.199999999999996,13477.08,5390.832000000001
+57,Gaming Mouse,57,57.63,499,0,price_sensitive,193.11,34.199999999999996,11007.27,4402.908000000001
+58,Gaming Mouse,57,62.3,499,0,occasional,200.76,34.199999999999996,11443.32,4577.328
+59,Gaming Mouse,57,57.11,499,0,price_sensitive,194.86,34.199999999999996,11107.02,4442.808000000001
+60,Gaming Mouse,57,58.9,499,0,loyal,211.34,34.199999999999996,12046.380000000001,4818.552000000001
+61,Gaming Mouse,57,58.6,499,0,loyal,212.41,34.199999999999996,12107.369999999999,4842.948000000001
+62,Gaming Mouse,57,57.51,499,0,loyal,220.84,34.199999999999996,12587.880000000001,5035.152000000001
+63,Gaming Mouse,57,55.22,499,0,price_sensitive,227.89,34.199999999999996,12989.73,5195.892000000001
+64,Gaming Mouse,57,57.61,499,0,occasional,215.88,34.199999999999996,12305.16,4922.064000000001
+65,Gaming Mouse,57,54.28,499,0,occasional,203.44,34.199999999999996,11596.08,4638.432000000001
+66,Gaming Mouse,57,58.21,499,0,loyal,214.38,34.199999999999996,12219.66,4887.8640000000005
+67,Gaming Mouse,57,56.42,499,-10,loyal,187.91,34.199999999999996,10710.869999999999,4284.348000000001
+68,Gaming Mouse,57,54.05,499,-10,occasional,217.15,34.199999999999996,12377.550000000001,4951.020000000001
+69,Gaming Mouse,57,55.39,499,-10,occasional,195.45,34.199999999999996,11140.65,4456.26
+70,Gaming Mouse,57,59.01,499,0,occasional,217.54,34.199999999999996,12399.779999999999,4959.912000000001
+71,Gaming Mouse,57,56.23,499,0,occasional,221.01,34.199999999999996,12597.57,5039.028000000001
+72,Gaming Mouse,57,54.69,499,0,occasional,248.33,34.199999999999996,14154.810000000001,5661.924000000002
+73,Gaming Mouse,57,53.6,499,0,price_sensitive,229.14,34.199999999999996,13060.98,5224.392000000001
+74,Gaming Mouse,57,52.4,499,0,occasional,256.11,34.199999999999996,14598.27,5839.308000000002
+75,Gaming Mouse,57,59.42,499,0,loyal,211.89,34.199999999999996,12077.73,4831.092000000001
+76,Gaming Mouse,57,56.67,499,-10,occasional,237.75,34.199999999999996,13551.75,5420.700000000001
+77,Gaming Mouse,57,62.09,499,0,price_sensitive,188.15,34.199999999999996,10724.550000000001,4289.820000000001
+78,Gaming Mouse,57,60.04,499,-5,occasional,226.33,34.199999999999996,12900.810000000001,5160.324000000001
+79,Gaming Mouse,57,57.88,499,0,price_sensitive,238.56,34.199999999999996,13597.92,5439.1680000000015
+80,Gaming Mouse,57,59.66,499,0,occasional,190.43,34.199999999999996,10854.51,4341.804000000001
+81,Gaming Mouse,57,59.98,499,0,price_sensitive,231.78,34.199999999999996,13211.460000000001,5284.584000000001
+82,Gaming Mouse,57,57.83,499,0,occasional,217.21,34.199999999999996,12380.970000000001,4952.388000000001
+83,Gaming Mouse,57,56.86,499,-10,occasional,192.66,34.199999999999996,10981.619999999999,4392.648000000001
+84,Gaming Mouse,57,54.76,499,0,loyal,208.39,34.199999999999996,11878.23,4751.292
+85,Gaming Mouse,57,57.74,499,-5,occasional,212.65,34.199999999999996,12121.050000000001,4848.420000000001
+86,Gaming Mouse,57,57.69,499,0,occasional,239.62,34.199999999999996,13658.34,5463.336000000001
+87,Gaming Mouse,57,56.4,499,0,loyal,199.55,34.199999999999996,11374.35,4549.740000000001
+88,Gaming Mouse,57,54.13,499,0,occasional,228.58,34.199999999999996,13029.060000000001,5211.624000000002
+89,Gaming Mouse,57,60.8,499,0,price_sensitive,229.42,34.199999999999996,13076.939999999999,5230.776000000001
+90,Gaming Mouse,57,57.16,499,0,price_sensitive,224.52,34.199999999999996,12797.640000000001,5119.056000000001
+91,Gaming Mouse,57,64.37,499,0,loyal,223.17,34.199999999999996,12720.689999999999,5088.276000000001
+92,Gaming Mouse,57,52.36,499,0,price_sensitive,233.92,34.199999999999996,13333.439999999999,5333.376000000001
+93,Gaming Mouse,57,56.08,499,0,price_sensitive,222.74,34.199999999999996,12696.18,5078.472000000002
+94,Gaming Mouse,57,57.87,499,-5,price_sensitive,212.39,34.199999999999996,12106.23,4842.492
+95,Gaming Mouse,57,57.79,499,0,loyal,217.6,34.199999999999996,12403.199999999999,4961.280000000001
+96,Gaming Mouse,57,55.6,499,0,occasional,224.16,34.199999999999996,12777.119999999999,5110.848000000001
+97,Gaming Mouse,57,54.76,499,0,loyal,231.63,34.199999999999996,13202.91,5281.164000000001
+98,Gaming Mouse,57,56.4,499,-5,occasional,199.01,34.199999999999996,11343.57,4537.428000000001
+99,Gaming Mouse,57,58.98,499,-5,price_sensitive,187.51,34.199999999999996,10688.07,4275.228000000001
+100,Gaming Mouse,57,57.62,499,-5,loyal,212.96,34.199999999999996,12138.720000000001,4855.488000000001
+101,Gaming Mouse,57,58.7,499,-5,price_sensitive,231.13,34.199999999999996,13174.41,5269.764000000001
+102,Gaming Mouse,57,54.83,499,0,loyal,203.59,34.199999999999996,11604.630000000001,4641.852000000001
+103,Gaming Mouse,57,57.29,499,-5,price_sensitive,213.77,34.199999999999996,12184.890000000001,4873.956000000001
+104,Gaming Mouse,57,61.07,499,-5,occasional,186.14,34.199999999999996,10609.98,4243.992
+105,Gaming Mouse,57,56.1,499,-10,loyal,217.19,34.199999999999996,12379.83,4951.932000000001
+106,Gaming Mouse,57,59.27,499,0,price_sensitive,212.61,34.199999999999996,12118.77,4847.508000000002
+107,Gaming Mouse,57,56.92,499,-10,loyal,209.57,34.199999999999996,11945.49,4778.196000000001
+108,Gaming Mouse,57,50.49,499,0,loyal,214.89,34.199999999999996,12248.73,4899.492
+109,Gaming Mouse,57,55.51,499,0,occasional,245.98,34.199999999999996,14020.859999999999,5608.344000000001
+110,Gaming Mouse,57,56.91,499,0,loyal,219.31,34.199999999999996,12500.67,5000.268000000001
+111,Gaming Mouse,57,56.58,499,-5,occasional,197.67,34.199999999999996,11267.189999999999,4506.876
+112,Gaming Mouse,57,58.1,499,-10,occasional,188.46,34.199999999999996,10742.220000000001,4296.888000000001
+113,Gaming Mouse,57,58.43,499,0,occasional,235.85,34.199999999999996,13443.449999999999,5377.380000000001
+114,Gaming Mouse,57,56.38,499,0,price_sensitive,198.38,34.199999999999996,11307.66,4523.064
+115,Gaming Mouse,57,61.55,499,0,price_sensitive,204.79,34.199999999999996,11673.029999999999,4669.212
+116,Gaming Mouse,57,57.42,499,0,occasional,195.34,34.199999999999996,11134.380000000001,4453.752000000001
+117,Gaming Mouse,57,60.52,499,0,occasional,207.6,34.199999999999996,11833.199999999999,4733.280000000001
+118,Gaming Mouse,57,60.07,499,0,price_sensitive,213.82,34.199999999999996,12187.74,4875.0960000000005
+119,Gaming Mouse,57,56.49,499,0,loyal,201.95,34.199999999999996,11511.15,4604.460000000001
+120,Gaming Mouse,57,53.57,499,0,loyal,228.01,34.199999999999996,12996.57,5198.628000000001
+121,Gaming Mouse,57,57.04,499,-5,occasional,208.67,34.199999999999996,11894.189999999999,4757.676
+122,Gaming Mouse,57,56.54,499,0,price_sensitive,218.76,34.199999999999996,12469.32,4987.728000000001
+123,Gaming Mouse,57,56.28,499,0,loyal,241.31,34.199999999999996,13754.67,5501.868000000001
+124,Gaming Mouse,57,57.38,499,-5,occasional,210.88,34.199999999999996,12020.16,4808.064000000001
+125,Gaming Mouse,57,59.16,499,0,price_sensitive,215.35,34.199999999999996,12274.949999999999,4909.9800000000005
+126,Gaming Mouse,57,57.5,499,0,price_sensitive,198.13,34.199999999999996,11293.41,4517.3640000000005
+127,Gaming Mouse,57,56.49,499,0,price_sensitive,196.2,34.199999999999996,11183.4,4473.360000000001
+128,Gaming Mouse,57,59.58,499,0,loyal,187.67,34.199999999999996,10697.189999999999,4278.876
+129,Gaming Mouse,57,62.51,499,-10,occasional,209.48,34.199999999999996,11940.359999999999,4776.144
+130,Gaming Mouse,57,51.81,499,-5,occasional,226.41,34.199999999999996,12905.369999999999,5162.148000000001
+131,Gaming Mouse,57,56.59,499,0,occasional,238.57,34.199999999999996,13598.49,5439.396000000001
+132,Gaming Mouse,57,58.71,499,0,occasional,193.75,34.199999999999996,11043.75,4417.500000000001
+133,Gaming Mouse,57,58.99,499,0,loyal,214.21,34.199999999999996,12209.970000000001,4883.988000000001
+134,Gaming Mouse,57,58.59,499,-5,occasional,184.18,34.199999999999996,10498.26,4199.304000000001
+135,Gaming Mouse,57,59.27,499,0,loyal,187.14,34.199999999999996,10666.98,4266.792
+136,Gaming Mouse,57,56.64,499,0,occasional,237.15,34.199999999999996,13517.550000000001,5407.020000000001
+137,Gaming Mouse,57,57.61,499,-5,price_sensitive,228.67,34.199999999999996,13034.189999999999,5213.676
+138,Gaming Mouse,57,59.05,499,0,price_sensitive,228.66,34.199999999999996,13033.619999999999,5213.448000000001
+139,Gaming Mouse,57,54.67,499,0,price_sensitive,225.77,34.199999999999996,12868.890000000001,5147.556000000001
+140,Gaming Mouse,57,57.44,499,0,occasional,217.2,34.199999999999996,12380.4,4952.160000000001
+141,Gaming Mouse,57,53.91,499,0,occasional,222.53,34.199999999999996,12684.210000000001,5073.684000000001
+142,Gaming Mouse,57,61.5,499,0,price_sensitive,219.46,34.199999999999996,12509.220000000001,5003.688000000001
+143,Gaming Mouse,57,53.2,499,0,price_sensitive,224.14,34.199999999999996,12775.98,5110.392000000001
+144,Gaming Mouse,57,58.2,499,0,price_sensitive,187.98,34.199999999999996,10714.859999999999,4285.944
+145,Gaming Mouse,57,55.45,499,-5,price_sensitive,190.16,34.199999999999996,10839.119999999999,4335.648000000001
+146,Gaming Mouse,57,59.98,499,0,occasional,187.19,34.199999999999996,10669.83,4267.932000000001
+147,Gaming Mouse,57,61.3,499,0,occasional,183.36,34.199999999999996,10451.52,4180.608000000001
+148,Gaming Mouse,57,59.03,499,0,occasional,184.74,34.199999999999996,10530.18,4212.072000000001
+149,Gaming Mouse,57,62.0,499,0,loyal,196.09,34.199999999999996,11177.130000000001,4470.852000000001
+150,Gaming Mouse,57,56.41,499,-5,loyal,207.56,34.199999999999996,11830.92,4732.368000000001
+151,Gaming Mouse,57,55.54,499,-5,loyal,209.87,34.199999999999996,11962.59,4785.036000000001
+152,Gaming Mouse,57,55.73,499,0,loyal,214.01,34.199999999999996,12198.57,4879.428000000001
+153,Gaming Mouse,57,58.27,499,0,loyal,232.19,34.199999999999996,13234.83,5293.932000000001
+154,Gaming Mouse,57,52.92,499,0,occasional,204.16,34.199999999999996,11637.119999999999,4654.848000000001
+155,Gaming Mouse,57,55.82,499,0,price_sensitive,212.85,34.199999999999996,12132.449999999999,4852.9800000000005
+156,Gaming Mouse,57,56.83,499,-5,price_sensitive,204.49,34.199999999999996,11655.93,4662.372000000001
+157,Gaming Mouse,57,56.13,499,0,loyal,211.3,34.199999999999996,12044.1,4817.640000000001
+158,Gaming Mouse,57,59.21,499,0,price_sensitive,201.72,34.199999999999996,11498.039999999999,4599.216000000001
+159,Gaming Mouse,57,56.01,499,-5,price_sensitive,227.11,34.199999999999996,12945.27,5178.108000000001
+160,Gaming Mouse,57,57.84,499,-5,loyal,205.2,34.199999999999996,11696.4,4678.56
+161,Gaming Mouse,57,56.04,499,0,loyal,193.77,34.199999999999996,11044.890000000001,4417.956000000001
+162,Gaming Mouse,57,57.02,499,0,occasional,207.04,34.199999999999996,11801.279999999999,4720.512000000001
+163,Gaming Mouse,57,58.51,499,-10,loyal,192.25,34.199999999999996,10958.25,4383.300000000001
+164,Gaming Mouse,57,55.11,499,-10,occasional,202.11,34.199999999999996,11520.27,4608.108000000001
+165,Gaming Mouse,57,57.89,499,0,price_sensitive,203.45,34.199999999999996,11596.65,4638.660000000001
+166,Gaming Mouse,57,58.91,499,-5,loyal,215.07,34.199999999999996,12258.99,4903.5960000000005
+167,Gaming Mouse,57,56.42,499,0,loyal,212.2,34.199999999999996,12095.4,4838.160000000001
+168,Gaming Mouse,57,58.89,499,-5,price_sensitive,179.01,34.199999999999996,10203.57,4081.4280000000003
+169,Gaming Mouse,57,55.7,499,-10,price_sensitive,219.55,34.199999999999996,12514.35,5005.740000000002
+170,Gaming Mouse,57,59.72,499,-5,price_sensitive,210.92,34.199999999999996,12022.439999999999,4808.976000000001
+171,Gaming Mouse,57,57.71,499,0,price_sensitive,201.98,34.199999999999996,11512.859999999999,4605.144
+172,Gaming Mouse,57,57.19,499,0,occasional,203.19,34.199999999999996,11581.83,4632.732000000001
+173,Gaming Mouse,57,57.31,499,0,loyal,182.26,34.199999999999996,10388.82,4155.528
+174,Gaming Mouse,57,60.81,499,0,price_sensitive,196.66,34.199999999999996,11209.619999999999,4483.848000000001
+175,Gaming Mouse,57,55.02,499,0,price_sensitive,235.07,34.199999999999996,13398.99,5359.5960000000005
+176,Gaming Mouse,57,58.53,499,-10,price_sensitive,187.82,34.199999999999996,10705.74,4282.296
+177,Gaming Mouse,57,58.63,499,0,price_sensitive,216.9,34.199999999999996,12363.300000000001,4945.320000000001
+178,Gaming Mouse,57,56.93,499,0,loyal,181.73,34.199999999999996,10358.609999999999,4143.444
+179,Gaming Mouse,57,57.72,499,-5,loyal,194.21,34.199999999999996,11069.970000000001,4427.988000000001
+180,Gaming Mouse,57,57.76,499,0,occasional,218.62,34.199999999999996,12461.34,4984.536000000001
+181,Gaming Mouse,57,53.87,499,0,loyal,193.58,34.199999999999996,11034.060000000001,4413.624000000001
+182,Gaming Mouse,57,57.11,499,0,loyal,225.52,34.199999999999996,12854.640000000001,5141.856000000002
+183,Gaming Mouse,57,57.59,499,0,occasional,198.22,34.199999999999996,11298.539999999999,4519.416000000001
+184,Gaming Mouse,57,58.2,499,0,price_sensitive,176.45,34.199999999999996,10057.65,4023.0600000000004
+185,Gaming Mouse,57,60.07,499,0,loyal,190.1,34.199999999999996,10835.699999999999,4334.280000000001
+186,Gaming Mouse,57,56.46,499,-5,occasional,195.58,34.199999999999996,11148.060000000001,4459.224000000001
+187,Gaming Mouse,57,59.13,499,0,occasional,192.22,34.199999999999996,10956.539999999999,4382.616000000001
+188,Gaming Mouse,57,55.28,499,0,price_sensitive,208.44,34.199999999999996,11881.08,4752.432000000001
+189,Gaming Mouse,57,55.11,499,0,loyal,229.48,34.199999999999996,13080.359999999999,5232.144000000001
+190,Gaming Mouse,57,52.8,499,0,loyal,210.2,34.199999999999996,11981.4,4792.56
+191,Gaming Mouse,57,61.22,499,-5,occasional,179.58,34.199999999999996,10236.060000000001,4094.424000000001
+192,Gaming Mouse,57,52.71,499,0,occasional,209.78,34.199999999999996,11957.460000000001,4782.984000000001
+193,Gaming Mouse,57,58.55,499,0,price_sensitive,211.11,34.199999999999996,12033.27,4813.308000000001
+194,Gaming Mouse,57,62.42,499,0,loyal,179.97,34.199999999999996,10258.289999999999,4103.316000000001
+195,Gaming Mouse,57,60.62,499,0,loyal,209.01,34.199999999999996,11913.57,4765.428000000001
+196,Gaming Mouse,57,59.95,499,-10,occasional,162.53,34.199999999999996,9264.210000000001,3705.6840000000007
+197,Gaming Mouse,57,57.65,499,0,price_sensitive,212.6,34.199999999999996,12118.199999999999,4847.280000000001
+198,Gaming Mouse,57,61.48,499,0,occasional,163.3,34.199999999999996,9308.1,3723.240000000001
+199,Gaming Mouse,57,57.26,499,0,price_sensitive,213.13,34.199999999999996,12148.41,4859.3640000000005
+200,Gaming Mouse,57,55.03,499,0,occasional,180.11,34.199999999999996,10266.27,4106.508000000001
+201,Gaming Mouse,57,54.43,499,0,occasional,199.44,34.199999999999996,11368.08,4547.232000000001
+202,Gaming Mouse,57,57.39,499,-5,price_sensitive,192.4,34.199999999999996,10966.800000000001,4386.720000000001
+203,Gaming Mouse,57,65.23,499,-10,price_sensitive,163.53,34.199999999999996,9321.210000000001,3728.484000000001
+204,Gaming Mouse,57,60.38,499,0,occasional,182.78,34.199999999999996,10418.460000000001,4167.384000000001
+205,Gaming Mouse,57,55.54,499,0,occasional,196.96,34.199999999999996,11226.720000000001,4490.688000000001
+206,Gaming Mouse,57,59.19,499,-10,loyal,194.27,34.199999999999996,11073.390000000001,4429.356000000001
+207,Gaming Mouse,57,57.18,499,-5,occasional,186.42,34.199999999999996,10625.939999999999,4250.376
+208,Gaming Mouse,57,57.36,499,-5,price_sensitive,166.49,34.199999999999996,9489.93,3795.972000000001
+209,Gaming Mouse,57,56.77,499,0,price_sensitive,197.01,34.199999999999996,11229.57,4491.828
+210,Gaming Mouse,57,56.01,499,0,loyal,218.87,34.199999999999996,12475.59,4990.236000000001
+211,Gaming Mouse,57,55.36,499,0,loyal,215.18,34.199999999999996,12265.26,4906.104000000001
+212,Gaming Mouse,57,58.83,499,0,occasional,184.91,34.199999999999996,10539.869999999999,4215.948
+213,Gaming Mouse,57,59.39,499,-5,occasional,177.93,34.199999999999996,10142.01,4056.804000000001
+214,Gaming Mouse,57,57.99,499,0,loyal,168.16,34.199999999999996,9585.119999999999,3834.0480000000007
+215,Gaming Mouse,57,55.44,499,0,occasional,194.17,34.199999999999996,11067.689999999999,4427.076000000001
+216,Gaming Mouse,57,53.77,499,-10,occasional,173.52,34.199999999999996,9890.640000000001,3956.2560000000008
+217,Gaming Mouse,57,55.41,499,0,loyal,178.83,34.199999999999996,10193.310000000001,4077.324000000001
+218,Gaming Mouse,57,59.91,499,-10,price_sensitive,169.92,34.199999999999996,9685.439999999999,3874.1760000000004
+219,Gaming Mouse,57,57.03,499,0,occasional,207.09,34.199999999999996,11804.130000000001,4721.652000000001
+220,Gaming Mouse,57,55.58,499,0,occasional,211.57,34.199999999999996,12059.49,4823.796000000001
+221,Gaming Mouse,57,57.04,499,0,price_sensitive,187.68,34.199999999999996,10697.76,4279.104000000001
+222,Gaming Mouse,57,59.88,499,-5,price_sensitive,191.76,34.199999999999996,10930.32,4372.128000000001
+223,Gaming Mouse,57,54.79,499,0,occasional,198.9,34.199999999999996,11337.300000000001,4534.920000000001
+224,Gaming Mouse,57,59.19,499,0,loyal,185.41,34.199999999999996,10568.369999999999,4227.348000000001
+225,Gaming Mouse,57,59.63,499,0,loyal,178.85,34.199999999999996,10194.449999999999,4077.7800000000007
+226,Gaming Mouse,57,59.8,499,0,occasional,178.07,34.199999999999996,10149.99,4059.9960000000005
+227,Gaming Mouse,57,56.55,499,-10,loyal,158.81,34.199999999999996,9052.17,3620.868000000001
+228,Gaming Mouse,57,52.99,499,0,price_sensitive,198.0,34.199999999999996,11286.0,4514.400000000001
+229,Gaming Mouse,57,57.5,499,-5,price_sensitive,160.8,34.199999999999996,9165.6,3666.240000000001
+230,Gaming Mouse,57,54.12,499,0,price_sensitive,199.14,34.199999999999996,11350.98,4540.392000000001
+231,Gaming Mouse,57,53.27,499,0,loyal,201.46,34.199999999999996,11483.220000000001,4593.288000000001
+232,Gaming Mouse,57,56.32,499,0,occasional,168.36,34.199999999999996,9596.52,3838.608000000001
+233,Gaming Mouse,57,56.08,499,-5,occasional,201.33,34.199999999999996,11475.810000000001,4590.324000000001
+234,Gaming Mouse,57,59.17,499,0,occasional,178.08,34.199999999999996,10150.560000000001,4060.224000000001
+235,Gaming Mouse,57,53.68,499,-5,occasional,169.89,34.199999999999996,9683.73,3873.492
+236,Gaming Mouse,57,57.38,499,0,occasional,164.7,34.199999999999996,9387.9,3755.1600000000003
+237,Gaming Mouse,57,58.52,499,0,occasional,184.37,34.199999999999996,10509.09,4203.636000000001
+238,Gaming Mouse,57,56.16,499,0,price_sensitive,210.38,34.199999999999996,11991.66,4796.664000000001
+239,Gaming Mouse,57,61.95,499,-5,loyal,163.7,34.199999999999996,9330.9,3732.3600000000006
+240,Gaming Mouse,57,62.95,499,-10,loyal,172.03,34.199999999999996,9805.710000000001,3922.2840000000006
+241,Gaming Mouse,57,59.05,499,0,occasional,177.02,34.199999999999996,10090.140000000001,4036.056000000001
+242,Gaming Mouse,57,59.88,499,0,price_sensitive,174.34,34.199999999999996,9937.380000000001,3974.9520000000007
+243,Gaming Mouse,57,56.11,499,-10,price_sensitive,156.92,34.199999999999996,8944.439999999999,3577.7760000000003
+244,Gaming Mouse,57,55.36,499,0,loyal,192.55,34.199999999999996,10975.35,4390.140000000001
+245,Gaming Mouse,57,56.81,499,-5,loyal,183.02,34.199999999999996,10432.140000000001,4172.856000000001
+246,Gaming Mouse,57,55.9,499,-10,occasional,175.59,34.199999999999996,10008.630000000001,4003.4520000000007
+247,Gaming Mouse,57,56.62,499,0,occasional,201.6,34.199999999999996,11491.199999999999,4596.4800000000005
+248,Gaming Mouse,57,60.54,499,0,occasional,171.36,34.199999999999996,9767.52,3907.008000000001
+249,Gaming Mouse,57,55.07,499,0,loyal,187.63,34.199999999999996,10694.91,4277.964000000001
+250,Gaming Mouse,57,60.32,499,0,loyal,188.91,34.199999999999996,10767.869999999999,4307.148000000001
+251,Gaming Mouse,57,58.86,499,0,price_sensitive,180.99,34.199999999999996,10316.43,4126.572000000001
+252,Gaming Mouse,57,55.13,499,0,loyal,192.03,34.199999999999996,10945.710000000001,4378.284000000001
+253,Gaming Mouse,57,55.06,499,0,occasional,168.39,34.199999999999996,9598.23,3839.2920000000004
+254,Gaming Mouse,57,54.54,499,0,price_sensitive,188.55,34.199999999999996,10747.35,4298.940000000001
+255,Gaming Mouse,57,58.67,499,0,occasional,176.07,34.199999999999996,10035.99,4014.3960000000006
+256,Gaming Mouse,57,58.22,499,0,occasional,159.57,34.199999999999996,9095.49,3638.1960000000004
+257,Gaming Mouse,57,53.58,499,0,price_sensitive,172.0,34.199999999999996,9804.0,3921.600000000001
+258,Gaming Mouse,57,53.38,499,0,loyal,196.61,34.199999999999996,11206.77,4482.708000000001
+259,Gaming Mouse,57,54.25,499,0,price_sensitive,193.93,34.199999999999996,11054.01,4421.604000000001
+260,Gaming Mouse,57,52.67,499,-5,price_sensitive,188.58,34.199999999999996,10749.060000000001,4299.624000000001
+261,Gaming Mouse,57,58.61,499,0,price_sensitive,158.1,34.199999999999996,9011.699999999999,3604.6800000000007
+262,Gaming Mouse,57,56.08,499,0,occasional,201.5,34.199999999999996,11485.5,4594.200000000001
+263,Gaming Mouse,57,57.77,499,0,loyal,178.04,34.199999999999996,10148.279999999999,4059.3120000000004
+264,Gaming Mouse,57,51.56,499,-10,price_sensitive,186.62,34.199999999999996,10637.34,4254.936000000001
+265,Gaming Mouse,57,58.87,499,0,loyal,179.62,34.199999999999996,10238.34,4095.3360000000007
+266,Gaming Mouse,57,55.2,499,0,loyal,171.53,34.199999999999996,9777.210000000001,3910.884000000001
+267,Gaming Mouse,57,52.61,499,0,price_sensitive,212.66,34.199999999999996,12121.619999999999,4848.648000000001
+268,Gaming Mouse,57,59.14,499,0,occasional,173.68,34.199999999999996,9899.76,3959.904000000001
+269,Gaming Mouse,57,61.75,499,0,occasional,165.81,34.199999999999996,9451.17,3780.4680000000008
+270,Gaming Mouse,57,55.61,499,0,price_sensitive,184.21,34.199999999999996,10499.970000000001,4199.988000000001
+271,Gaming Mouse,57,52.88,499,0,occasional,211.63,34.199999999999996,12062.91,4825.164000000001
+272,Gaming Mouse,57,54.96,499,0,price_sensitive,172.01,34.199999999999996,9804.57,3921.8280000000004
+273,Gaming Mouse,57,60.86,499,0,occasional,190.75,34.199999999999996,10872.75,4349.1
+274,Gaming Mouse,57,59.98,499,0,occasional,153.95,34.199999999999996,8775.15,3510.0600000000004
+275,Gaming Mouse,57,53.71,499,0,occasional,189.87,34.199999999999996,10822.59,4329.036000000001
+276,Gaming Mouse,57,52.65,499,-5,occasional,188.06,34.199999999999996,10719.42,4287.768000000001
+277,Gaming Mouse,57,59.29,499,0,occasional,173.16,34.199999999999996,9870.119999999999,3948.0480000000007
+278,Gaming Mouse,57,58.89,499,0,occasional,174.37,34.199999999999996,9939.09,3975.636000000001
+279,Gaming Mouse,57,61.67,499,-5,occasional,148.94,34.199999999999996,8489.58,3395.832000000001
+280,Gaming Mouse,57,60.23,499,0,loyal,175.4,34.199999999999996,9997.800000000001,3999.120000000001
+281,Gaming Mouse,57,62.65,499,-5,price_sensitive,158.21,34.199999999999996,9017.970000000001,3607.188000000001
+282,Gaming Mouse,57,58.21,499,0,price_sensitive,176.55,34.199999999999996,10063.35,4025.340000000001
+283,Gaming Mouse,57,54.44,499,0,loyal,187.92,34.199999999999996,10711.439999999999,4284.576000000001
+284,Gaming Mouse,57,58.14,499,0,price_sensitive,176.87,34.199999999999996,10081.59,4032.636000000001
+285,Gaming Mouse,57,61.86,499,0,price_sensitive,165.79,34.199999999999996,9450.029999999999,3780.0120000000006
+286,Gaming Mouse,57,53.22,499,0,price_sensitive,196.76,34.199999999999996,11215.32,4486.128000000001
+287,Gaming Mouse,57,56.41,499,-5,occasional,182.29,34.199999999999996,10390.529999999999,4156.212
+288,Gaming Mouse,57,57.68,499,-10,loyal,186.4,34.199999999999996,10624.800000000001,4249.920000000001
+289,Gaming Mouse,57,59.28,499,-5,loyal,168.82,34.199999999999996,9622.74,3849.0960000000005
+290,Gaming Mouse,57,62.78,499,0,price_sensitive,147.06,34.199999999999996,8382.42,3352.9680000000008
+291,Gaming Mouse,57,57.15,499,-5,loyal,175.42,34.199999999999996,9998.939999999999,3999.5760000000005
+292,Gaming Mouse,57,58.83,499,0,occasional,175.46,34.199999999999996,10001.220000000001,4000.4880000000007
+293,Gaming Mouse,57,53.24,499,0,loyal,177.62,34.199999999999996,10124.34,4049.736000000001
+294,Gaming Mouse,57,53.24,499,0,occasional,197.46,34.199999999999996,11255.220000000001,4502.088000000001
+295,Gaming Mouse,57,54.8,499,-10,occasional,177.9,34.199999999999996,10140.300000000001,4056.120000000001
+296,Gaming Mouse,57,59.37,499,0,occasional,174.32,34.199999999999996,9936.24,3974.4960000000005
+297,Gaming Mouse,57,62.08,499,0,price_sensitive,182.96,34.199999999999996,10428.720000000001,4171.488000000001
+298,Gaming Mouse,57,58.87,499,0,price_sensitive,193.69,34.199999999999996,11040.33,4416.1320000000005
+299,Gaming Mouse,57,56.04,499,0,price_sensitive,184.71,34.199999999999996,10528.470000000001,4211.388000000001
+300,Gaming Mouse,57,53.92,499,-5,occasional,191.22,34.199999999999996,10899.539999999999,4359.816000000001
+301,Gaming Mouse,57,51.75,499,0,price_sensitive,222.89,34.199999999999996,12704.73,5081.892000000001
+302,Gaming Mouse,57,54.28,499,0,loyal,171.41,34.199999999999996,9770.369999999999,3908.1480000000006
+303,Gaming Mouse,57,59.2,499,0,loyal,193.45,34.199999999999996,11026.65,4410.660000000001
+304,Gaming Mouse,57,54.43,499,-5,price_sensitive,185.34,34.199999999999996,10564.380000000001,4225.752000000001
+305,Gaming Mouse,57,56.25,499,0,loyal,166.55,34.199999999999996,9493.35,3797.340000000001
+306,Gaming Mouse,57,59.83,499,0,occasional,157.03,34.199999999999996,8950.710000000001,3580.2840000000006
+307,Gaming Mouse,57,57.64,499,0,price_sensitive,186.23,34.199999999999996,10615.109999999999,4246.044000000001
+308,Gaming Mouse,57,64.11,499,0,occasional,167.02,34.199999999999996,9520.140000000001,3808.056000000001
+309,Gaming Mouse,57,55.62,499,0,price_sensitive,187.67,34.199999999999996,10697.189999999999,4278.876
+310,Gaming Mouse,57,56.41,499,-10,loyal,194.07,34.199999999999996,11061.99,4424.796
+311,Gaming Mouse,57,56.03,499,-10,occasional,176.86,34.199999999999996,10081.02,4032.4080000000013
+312,Gaming Mouse,57,58.52,499,-10,loyal,169.58,34.199999999999996,9666.060000000001,3866.424000000001
+313,Gaming Mouse,57,53.06,499,0,occasional,196.19,34.199999999999996,11182.83,4473.1320000000005
+314,Gaming Mouse,57,61.46,499,0,occasional,176.2,34.199999999999996,10043.4,4017.3600000000006
+315,Gaming Mouse,57,49.49,499,-10,loyal,202.32,34.199999999999996,11532.24,4612.896000000001
+316,Gaming Mouse,57,63.23,499,-10,loyal,156.35,34.199999999999996,8911.949999999999,3564.7800000000007
+317,Gaming Mouse,57,56.64,499,-5,loyal,181.33,34.199999999999996,10335.810000000001,4134.324000000001
+318,Gaming Mouse,57,54.38,499,0,price_sensitive,174.03,34.199999999999996,9919.710000000001,3967.884000000001
+319,Gaming Mouse,57,56.24,499,0,occasional,169.21,34.199999999999996,9644.970000000001,3857.9880000000007
+320,Gaming Mouse,57,58.22,499,0,loyal,164.09,34.199999999999996,9353.130000000001,3741.252000000001
+321,Gaming Mouse,57,55.39,499,0,loyal,196.04,34.199999999999996,11174.279999999999,4469.712
+322,Gaming Mouse,57,60.69,499,-10,loyal,152.38,34.199999999999996,8685.66,3474.2640000000006
+323,Gaming Mouse,57,60.69,499,-10,occasional,183.25,34.199999999999996,10445.25,4178.1
+324,Gaming Mouse,57,57.04,499,0,price_sensitive,186.87,34.199999999999996,10651.59,4260.636000000001
+325,Gaming Mouse,57,63.95,499,0,occasional,149.77,34.199999999999996,8536.890000000001,3414.7560000000008
+326,Gaming Mouse,57,55.76,499,0,occasional,210.37,34.199999999999996,11991.09,4796.436000000001
+327,Gaming Mouse,57,55.73,499,0,price_sensitive,172.44,34.199999999999996,9829.08,3931.6320000000005
+328,Gaming Mouse,57,54.16,499,0,occasional,221.77,34.199999999999996,12640.890000000001,5056.356000000002
+329,Gaming Mouse,57,59.94,499,0,occasional,166.09,34.199999999999996,9467.130000000001,3786.8520000000008
+330,Gaming Mouse,57,60.43,499,-5,price_sensitive,173.36,34.199999999999996,9881.52,3952.608000000001
+331,Gaming Mouse,57,55.9,499,0,occasional,172.99,34.199999999999996,9860.43,3944.172000000001
+332,Gaming Mouse,57,57.14,499,0,price_sensitive,188.81,34.199999999999996,10762.17,4304.868000000001
+333,Gaming Mouse,57,54.06,499,0,price_sensitive,198.32,34.199999999999996,11304.24,4521.696000000001
+334,Gaming Mouse,57,53.41,499,0,price_sensitive,200.59,34.199999999999996,11433.630000000001,4573.452000000001
+335,Gaming Mouse,57,57.86,499,0,loyal,173.26,34.199999999999996,9875.82,3950.3280000000004
+336,Gaming Mouse,57,52.14,499,0,occasional,210.0,34.199999999999996,11970.0,4788.000000000001
+337,Gaming Mouse,57,53.11,499,0,occasional,202.37,34.199999999999996,11535.09,4614.036000000001
+338,Gaming Mouse,57,55.01,499,-10,price_sensitive,186.97,34.199999999999996,10657.289999999999,4262.916000000001
+339,Gaming Mouse,57,55.61,499,0,loyal,195.5,34.199999999999996,11143.5,4457.400000000001
+340,Gaming Mouse,57,56.01,499,0,occasional,194.61,34.199999999999996,11092.77,4437.108000000001
+341,Gaming Mouse,57,56.76,499,-5,price_sensitive,168.4,34.199999999999996,9598.800000000001,3839.520000000001
+342,Gaming Mouse,57,53.03,499,0,price_sensitive,188.26,34.199999999999996,10730.82,4292.328
+343,Gaming Mouse,57,61.8,499,0,occasional,183.19,34.199999999999996,10441.83,4176.732000000001
+344,Gaming Mouse,57,53.48,499,0,loyal,183.13,34.199999999999996,10438.41,4175.3640000000005
+345,Gaming Mouse,57,55.02,499,0,occasional,179.27,34.199999999999996,10218.390000000001,4087.356000000001
+346,Gaming Mouse,57,60.47,499,0,loyal,201.45,34.199999999999996,11482.65,4593.06
+347,Gaming Mouse,57,57.72,499,-5,price_sensitive,186.72,34.199999999999996,10643.039999999999,4257.216
+348,Gaming Mouse,57,56.5,499,0,loyal,195.71,34.199999999999996,11155.470000000001,4462.188000000001
+349,Gaming Mouse,57,57.15,499,0,loyal,199.1,34.199999999999996,11348.699999999999,4539.4800000000005
+350,Gaming Mouse,57,54.12,499,0,price_sensitive,187.68,34.199999999999996,10697.76,4279.104000000001
+351,Gaming Mouse,57,54.94,499,0,price_sensitive,201.4,34.199999999999996,11479.800000000001,4591.920000000001
+352,Gaming Mouse,57,60.63,499,0,occasional,184.67,34.199999999999996,10526.189999999999,4210.476000000001
+353,Gaming Mouse,57,53.92,499,0,occasional,205.12,34.199999999999996,11691.84,4676.736000000001
+354,Gaming Mouse,57,56.54,499,0,loyal,197.59,34.199999999999996,11262.630000000001,4505.052000000001
+355,Gaming Mouse,57,57.39,499,-5,price_sensitive,190.39,34.199999999999996,10852.23,4340.892000000001
+356,Gaming Mouse,57,56.73,499,-5,loyal,197.72,34.199999999999996,11270.039999999999,4508.0160000000005
+357,Gaming Mouse,57,62.77,499,-5,loyal,179.93,34.199999999999996,10256.01,4102.404000000001
+358,Gaming Mouse,57,58.01,499,0,price_sensitive,214.01,34.199999999999996,12198.57,4879.428000000001
+359,Gaming Mouse,57,56.95,499,0,occasional,178.27,34.199999999999996,10161.390000000001,4064.556000000001
+360,Gaming Mouse,57,55.81,499,0,occasional,201.83,34.199999999999996,11504.310000000001,4601.724000000001
+361,Gaming Mouse,57,61.32,499,0,occasional,204.22,34.199999999999996,11640.539999999999,4656.216000000001
+362,Gaming Mouse,57,59.09,499,-5,loyal,187.7,34.199999999999996,10698.9,4279.56
+363,Gaming Mouse,57,59.54,499,0,loyal,216.37,34.199999999999996,12333.09,4933.236000000001
+364,Gaming Mouse,57,59.76,499,0,occasional,176.73,34.199999999999996,10073.609999999999,4029.4440000000004
+365,Gaming Mouse,57,59.52,499,0,price_sensitive,192.45,34.199999999999996,10969.65,4387.860000000001
+1,Smartwatch,56,58.96,429,0,price_sensitive,172.01,33.6,9632.56,3853.0239999999994
+2,Smartwatch,56,58.87,429,-10,loyal,181.75,33.6,10178.0,4071.2
+3,Smartwatch,56,54.38,429,0,loyal,205.55,33.6,11510.800000000001,4604.32
+4,Smartwatch,56,52.89,429,0,loyal,210.37,33.6,11780.720000000001,4712.288
+5,Smartwatch,56,52.76,429,0,occasional,211.09,33.6,11821.04,4728.416
+6,Smartwatch,56,55.7,429,0,occasional,207.63,33.6,11627.279999999999,4650.911999999999
+7,Smartwatch,56,52.91,429,0,occasional,194.72,33.6,10904.32,4361.728
+8,Smartwatch,56,59.1,429,0,price_sensitive,173.81,33.6,9733.36,3893.3439999999996
+9,Smartwatch,56,53.77,429,0,price_sensitive,209.45,33.6,11729.199999999999,4691.679999999999
+10,Smartwatch,56,58.81,429,-5,price_sensitive,170.21,33.6,9531.76,3812.7039999999997
+11,Smartwatch,56,55.05,429,0,occasional,206.28,33.6,11551.68,4620.672
+12,Smartwatch,56,52.61,429,0,occasional,213.95,33.6,11981.199999999999,4792.48
+13,Smartwatch,56,59.07,429,-5,occasional,194.91,33.6,10914.96,4365.9839999999995
+14,Smartwatch,56,57.14,429,-5,occasional,201.02,33.6,11257.12,4502.848
+15,Smartwatch,56,54.19,429,-5,occasional,226.25,33.6,12670.0,5068.0
+16,Smartwatch,56,53.1,429,0,occasional,235.21,33.6,13171.76,5268.704
+17,Smartwatch,56,47.44,429,0,occasional,208.02,33.6,11649.12,4659.648
+18,Smartwatch,56,55.73,429,0,price_sensitive,227.24,33.6,12725.44,5090.1759999999995
+19,Smartwatch,56,55.86,429,0,loyal,185.89,33.6,10409.84,4163.936
+20,Smartwatch,56,57.79,429,0,price_sensitive,206.08,33.6,11540.480000000001,4616.192
+21,Smartwatch,56,57.67,429,0,price_sensitive,227.45,33.6,12737.199999999999,5094.879999999999
+22,Smartwatch,56,56.58,429,-10,price_sensitive,215.87,33.6,12088.720000000001,4835.487999999999
+23,Smartwatch,56,56.07,429,0,loyal,186.48,33.6,10442.88,4177.151999999999
+24,Smartwatch,56,57.33,429,0,loyal,203.74,33.6,11409.44,4563.776
+25,Smartwatch,56,54.82,429,-10,price_sensitive,201.58,33.6,11288.480000000001,4515.392
+26,Smartwatch,56,56.53,429,0,price_sensitive,227.44,33.6,12736.64,5094.656
+27,Smartwatch,56,60.79,429,0,loyal,179.36,33.6,10044.16,4017.664
+28,Smartwatch,56,60.21,429,-10,occasional,211.5,33.6,11844.0,4737.599999999999
+29,Smartwatch,56,60.6,429,-5,occasional,210.04,33.6,11762.24,4704.896
+30,Smartwatch,56,54.99,429,-5,occasional,186.37,33.6,10436.720000000001,4174.688
+31,Smartwatch,56,58.64,429,0,occasional,222.18,33.6,12442.08,4976.831999999999
+32,Smartwatch,56,62.28,429,0,occasional,210.48,33.6,11786.88,4714.7519999999995
+33,Smartwatch,56,51.97,429,0,occasional,222.58,33.6,12464.480000000001,4985.792
+34,Smartwatch,56,54.41,429,0,occasional,220.55,33.6,12350.800000000001,4940.32
+35,Smartwatch,56,54.92,429,0,loyal,219.33,33.6,12282.480000000001,4912.992
+36,Smartwatch,56,53.45,429,-5,occasional,214.01,33.6,11984.56,4793.824
+37,Smartwatch,56,59.52,429,0,loyal,221.19,33.6,12386.64,4954.656
+38,Smartwatch,56,56.32,429,-5,loyal,227.06,33.6,12715.36,5086.143999999999
+39,Smartwatch,56,57.44,429,-5,price_sensitive,202.88,33.6,11361.279999999999,4544.512
+40,Smartwatch,56,56.0,429,0,price_sensitive,212.48,33.6,11898.88,4759.552
+41,Smartwatch,56,51.34,429,-10,loyal,198.56,33.6,11119.36,4447.744
+42,Smartwatch,56,54.68,429,-10,loyal,211.96,33.6,11869.76,4747.9039999999995
+43,Smartwatch,56,54.82,429,-5,loyal,211.79,33.6,11860.24,4744.096
+44,Smartwatch,56,56.97,429,0,price_sensitive,189.56,33.6,10615.36,4246.144
+45,Smartwatch,56,53.39,429,0,price_sensitive,221.6,33.6,12409.6,4963.839999999999
+46,Smartwatch,56,54.53,429,0,loyal,218.43,33.6,12232.08,4892.831999999999
+47,Smartwatch,56,56.61,429,0,occasional,212.44,33.6,11896.64,4758.656
+48,Smartwatch,56,55.92,429,0,occasional,219.75,33.6,12306.0,4922.4
+49,Smartwatch,56,52.27,429,0,price_sensitive,230.92,33.6,12931.519999999999,5172.607999999999
+50,Smartwatch,56,56.99,429,0,occasional,233.21,33.6,13059.76,5223.9039999999995
+51,Smartwatch,56,57.06,429,0,occasional,208.83,33.6,11694.480000000001,4677.792
+52,Smartwatch,56,60.93,429,0,price_sensitive,200.62,33.6,11234.720000000001,4493.888
+53,Smartwatch,56,57.77,429,0,loyal,231.34,33.6,12955.04,5182.016
+54,Smartwatch,56,54.02,429,0,loyal,199.62,33.6,11178.720000000001,4471.487999999999
+55,Smartwatch,56,58.46,429,-5,price_sensitive,187.3,33.6,10488.800000000001,4195.52
+56,Smartwatch,56,57.76,429,-5,occasional,232.56,33.6,13023.36,5209.344
+57,Smartwatch,56,55.79,429,-5,price_sensitive,190.38,33.6,10661.279999999999,4264.512
+58,Smartwatch,56,58.22,429,0,occasional,188.99,33.6,10583.44,4233.376
+59,Smartwatch,56,60.2,429,-10,price_sensitive,173.81,33.6,9733.36,3893.3439999999996
+60,Smartwatch,56,50.5,429,0,loyal,233.52,33.6,13077.12,5230.848
+61,Smartwatch,56,56.4,429,-5,occasional,189.41,33.6,10606.96,4242.784
+62,Smartwatch,56,52.99,429,-5,loyal,203.27,33.6,11383.12,4553.248
+63,Smartwatch,56,56.04,429,-5,occasional,217.44,33.6,12176.64,4870.656
+64,Smartwatch,56,54.55,429,0,loyal,222.06,33.6,12435.36,4974.143999999999
+65,Smartwatch,56,51.91,429,0,loyal,207.13,33.6,11599.279999999999,4639.7119999999995
+66,Smartwatch,56,54.41,429,-5,loyal,217.8,33.6,12196.800000000001,4878.72
+67,Smartwatch,56,54.56,429,0,loyal,200.24,33.6,11213.44,4485.376
+68,Smartwatch,56,55.26,429,0,price_sensitive,220.53,33.6,12349.68,4939.871999999999
+69,Smartwatch,56,51.61,429,0,occasional,212.95,33.6,11925.199999999999,4770.079999999999
+70,Smartwatch,56,56.72,429,-10,loyal,211.42,33.6,11839.519999999999,4735.807999999999
+71,Smartwatch,56,53.16,429,-5,price_sensitive,199.5,33.6,11172.0,4468.799999999999
+72,Smartwatch,56,49.55,429,0,loyal,238.18,33.6,13338.08,5335.232
+73,Smartwatch,56,59.93,429,-10,occasional,197.13,33.6,11039.279999999999,4415.7119999999995
+74,Smartwatch,56,54.92,429,0,occasional,200.04,33.6,11202.24,4480.896
+75,Smartwatch,56,55.7,429,0,price_sensitive,220.05,33.6,12322.800000000001,4929.12
+76,Smartwatch,56,58.39,429,-5,loyal,190.36,33.6,10660.16,4264.064
+77,Smartwatch,56,52.44,429,-5,price_sensitive,230.02,33.6,12881.12,5152.448
+78,Smartwatch,56,55.54,429,0,loyal,198.73,33.6,11128.88,4451.552
+79,Smartwatch,56,56.73,429,0,loyal,217.3,33.6,12168.800000000001,4867.5199999999995
+80,Smartwatch,56,55.05,429,-10,occasional,212.41,33.6,11894.96,4757.9839999999995
+81,Smartwatch,56,55.38,429,0,loyal,199.35,33.6,11163.6,4465.44
+82,Smartwatch,56,51.13,429,0,occasional,234.3,33.6,13120.800000000001,5248.32
+83,Smartwatch,56,53.36,429,0,price_sensitive,209.42,33.6,11727.519999999999,4691.008
+84,Smartwatch,56,56.64,429,-5,loyal,195.59,33.6,10953.04,4381.215999999999
+85,Smartwatch,56,52.56,429,0,loyal,230.17,33.6,12889.519999999999,5155.807999999999
+86,Smartwatch,56,54.42,429,0,loyal,247.11,33.6,13838.16,5535.264
+87,Smartwatch,56,55.61,429,0,occasional,198.99,33.6,11143.44,4457.376
+88,Smartwatch,56,57.6,429,0,occasional,215.16,33.6,12048.96,4819.584
+89,Smartwatch,56,56.3,429,0,price_sensitive,219.06,33.6,12267.36,4906.9439999999995
+90,Smartwatch,56,58.64,429,-10,price_sensitive,207.06,33.6,11595.36,4638.143999999999
+91,Smartwatch,56,52.02,429,-10,loyal,226.95,33.6,12709.199999999999,5083.679999999999
+92,Smartwatch,56,49.89,429,-5,occasional,209.5,33.6,11732.0,4692.799999999999
+93,Smartwatch,56,51.0,429,0,price_sensitive,258.49,33.6,14475.44,5790.1759999999995
+94,Smartwatch,56,58.84,429,0,loyal,232.6,33.6,13025.6,5210.24
+95,Smartwatch,56,56.11,429,0,price_sensitive,219.65,33.6,12300.4,4920.16
+96,Smartwatch,56,53.17,429,0,occasional,228.44,33.6,12792.64,5117.056
+97,Smartwatch,56,51.74,429,0,occasional,261.46,33.6,14641.759999999998,5856.703999999999
+98,Smartwatch,56,54.94,429,-10,loyal,195.25,33.6,10934.0,4373.599999999999
+99,Smartwatch,56,53.17,429,0,price_sensitive,205.51,33.6,11508.56,4603.423999999999
+100,Smartwatch,56,58.31,429,0,loyal,191.6,33.6,10729.6,4291.839999999999
+101,Smartwatch,56,53.43,429,-10,price_sensitive,194.71,33.6,10903.76,4361.504
+102,Smartwatch,56,57.1,429,-10,occasional,184.75,33.6,10346.0,4138.4
+103,Smartwatch,56,52.95,429,-10,loyal,218.8,33.6,12252.800000000001,4901.12
+104,Smartwatch,56,53.31,429,0,price_sensitive,255.91,33.6,14330.96,5732.384
+105,Smartwatch,56,56.21,429,0,loyal,201.49,33.6,11283.44,4513.376
+106,Smartwatch,56,55.93,429,0,loyal,241.61,33.6,13530.16,5412.064
+107,Smartwatch,56,59.9,429,0,occasional,207.62,33.6,11626.720000000001,4650.688
+108,Smartwatch,56,52.94,429,0,occasional,205.59,33.6,11513.04,4605.215999999999
+109,Smartwatch,56,53.75,429,0,price_sensitive,225.88,33.6,12649.279999999999,5059.7119999999995
+110,Smartwatch,56,55.38,429,0,loyal,198.81,33.6,11133.36,4453.344
+111,Smartwatch,56,51.8,429,0,loyal,260.2,33.6,14571.199999999999,5828.48
+112,Smartwatch,56,56.22,429,-5,occasional,218.17,33.6,12217.519999999999,4887.008
+113,Smartwatch,56,59.19,429,0,occasional,209.12,33.6,11710.720000000001,4684.288
+114,Smartwatch,56,54.75,429,0,price_sensitive,244.56,33.6,13695.36,5478.143999999999
+115,Smartwatch,56,56.68,429,-5,occasional,211.4,33.6,11838.4,4735.36
+116,Smartwatch,56,56.89,429,0,occasional,194.08,33.6,10868.480000000001,4347.392
+117,Smartwatch,56,55.83,429,-5,occasional,213.69,33.6,11966.64,4786.656
+118,Smartwatch,56,62.21,429,0,price_sensitive,204.38,33.6,11445.279999999999,4578.111999999999
+119,Smartwatch,56,53.77,429,0,price_sensitive,229.55,33.6,12854.800000000001,5141.92
+120,Smartwatch,56,54.32,429,-5,occasional,217.76,33.6,12194.56,4877.824
+121,Smartwatch,56,53.48,429,0,occasional,220.6,33.6,12353.6,4941.44
+122,Smartwatch,56,52.27,429,0,loyal,228.58,33.6,12800.480000000001,5120.192
+123,Smartwatch,56,51.76,429,0,loyal,206.94,33.6,11588.64,4635.455999999999
+124,Smartwatch,56,49.66,429,0,loyal,236.06,33.6,13219.36,5287.744
+125,Smartwatch,56,55.92,429,-5,loyal,239.28,33.6,13399.68,5359.871999999999
+126,Smartwatch,56,53.82,429,-5,price_sensitive,246.02,33.6,13777.12,5510.848
+127,Smartwatch,56,59.34,429,0,price_sensitive,185.79,33.6,10404.24,4161.696
+128,Smartwatch,56,59.81,429,0,occasional,225.31,33.6,12617.36,5046.9439999999995
+129,Smartwatch,56,50.63,429,-5,price_sensitive,227.16,33.6,12720.96,5088.384
+130,Smartwatch,56,59.07,429,0,price_sensitive,185.97,33.6,10414.32,4165.728
+131,Smartwatch,56,52.61,429,0,loyal,225.79,33.6,12644.24,5057.696
+132,Smartwatch,56,51.56,429,0,loyal,233.75,33.6,13090.0,5236.0
+133,Smartwatch,56,56.82,429,-5,loyal,234.5,33.6,13132.0,5252.799999999999
+134,Smartwatch,56,59.79,429,0,loyal,203.61,33.6,11402.16,4560.864
+135,Smartwatch,56,55.41,429,0,price_sensitive,216.5,33.6,12124.0,4849.599999999999
+136,Smartwatch,56,53.86,429,0,occasional,220.92,33.6,12371.519999999999,4948.607999999999
+137,Smartwatch,56,55.94,429,-5,loyal,209.44,33.6,11728.64,4691.455999999999
+138,Smartwatch,56,54.19,429,-5,loyal,214.44,33.6,12008.64,4803.455999999999
+139,Smartwatch,56,55.25,429,0,occasional,221.01,33.6,12376.56,4950.624
+140,Smartwatch,56,60.81,429,0,loyal,224.5,33.6,12572.0,5028.799999999999
+141,Smartwatch,56,50.47,429,0,price_sensitive,252.84,33.6,14159.04,5663.616
+142,Smartwatch,56,60.32,429,0,price_sensitive,200.05,33.6,11202.800000000001,4481.12
+143,Smartwatch,56,55.5,429,0,price_sensitive,214.25,33.6,11998.0,4799.2
+144,Smartwatch,56,58.95,429,-10,price_sensitive,173.25,33.6,9702.0,3880.7999999999997
+145,Smartwatch,56,55.58,429,0,occasional,213.47,33.6,11954.32,4781.728
+146,Smartwatch,56,55.83,429,-10,occasional,207.45,33.6,11617.199999999999,4646.879999999999
+147,Smartwatch,56,60.01,429,0,price_sensitive,225.08,33.6,12604.480000000001,5041.792
+148,Smartwatch,56,56.92,429,0,loyal,208.6,33.6,11681.6,4672.639999999999
+149,Smartwatch,56,57.26,429,0,occasional,207.29,33.6,11608.24,4643.295999999999
+150,Smartwatch,56,54.9,429,0,occasional,214.08,33.6,11988.480000000001,4795.392
+151,Smartwatch,56,54.83,429,-10,loyal,204.02,33.6,11425.12,4570.048
+152,Smartwatch,56,53.17,429,-5,loyal,213.7,33.6,11967.199999999999,4786.879999999999
+153,Smartwatch,56,60.52,429,0,loyal,201.33,33.6,11274.480000000001,4509.792
+154,Smartwatch,56,53.09,429,0,price_sensitive,201.0,33.6,11256.0,4502.4
+155,Smartwatch,56,53.94,429,-5,loyal,188.92,33.6,10579.519999999999,4231.807999999999
+156,Smartwatch,56,56.69,429,-10,occasional,217.61,33.6,12186.16,4874.464
+157,Smartwatch,56,57.0,429,0,occasional,205.69,33.6,11518.64,4607.455999999999
+158,Smartwatch,56,55.57,429,-5,loyal,204.66,33.6,11460.96,4584.384
+159,Smartwatch,56,54.83,429,0,loyal,211.57,33.6,11847.92,4739.168
+160,Smartwatch,56,56.87,429,0,price_sensitive,231.12,33.6,12942.720000000001,5177.088
+161,Smartwatch,56,57.76,429,0,price_sensitive,186.42,33.6,10439.519999999999,4175.807999999999
+162,Smartwatch,56,53.64,429,-10,loyal,225.6,33.6,12633.6,5053.44
+163,Smartwatch,56,58.69,429,0,loyal,218.57,33.6,12239.92,4895.968
+164,Smartwatch,56,54.47,429,0,loyal,211.04,33.6,11818.24,4727.295999999999
+165,Smartwatch,56,52.11,429,0,loyal,195.99,33.6,10975.44,4390.1759999999995
+166,Smartwatch,56,53.27,429,0,loyal,213.96,33.6,11981.76,4792.704
+167,Smartwatch,56,51.59,429,0,price_sensitive,223.69,33.6,12526.64,5010.656
+168,Smartwatch,56,59.87,429,0,price_sensitive,218.35,33.6,12227.6,4891.04
+169,Smartwatch,56,53.75,429,0,loyal,190.4,33.6,10662.4,4264.96
+170,Smartwatch,56,57.03,429,0,occasional,201.37,33.6,11276.720000000001,4510.688
+171,Smartwatch,56,58.4,429,-10,loyal,186.9,33.6,10466.4,4186.5599999999995
+172,Smartwatch,56,56.86,429,-5,loyal,176.06,33.6,9859.36,3943.7439999999997
+173,Smartwatch,56,55.7,429,0,occasional,183.9,33.6,10298.4,4119.36
+174,Smartwatch,56,54.76,429,-5,loyal,206.82,33.6,11581.92,4632.767999999999
+175,Smartwatch,56,57.45,429,-10,loyal,213.74,33.6,11969.44,4787.776
+176,Smartwatch,56,53.97,429,0,occasional,229.34,33.6,12843.04,5137.215999999999
+177,Smartwatch,56,59.46,429,0,price_sensitive,191.7,33.6,10735.199999999999,4294.08
+178,Smartwatch,56,59.14,429,0,occasional,211.55,33.6,11846.800000000001,4738.72
+179,Smartwatch,56,55.65,429,0,price_sensitive,182.19,33.6,10202.64,4081.0559999999996
+180,Smartwatch,56,57.19,429,0,occasional,197.45,33.6,11057.199999999999,4422.879999999999
+181,Smartwatch,56,59.93,429,0,occasional,174.52,33.6,9773.12,3909.248
+182,Smartwatch,56,57.92,429,0,loyal,199.6,33.6,11177.6,4471.04
+183,Smartwatch,56,54.37,429,0,loyal,204.9,33.6,11474.4,4589.76
+184,Smartwatch,56,56.14,429,-5,price_sensitive,194.24,33.6,10877.44,4350.976
+185,Smartwatch,56,57.44,429,0,price_sensitive,194.99,33.6,10919.44,4367.776
+186,Smartwatch,56,56.4,429,0,price_sensitive,177.99,33.6,9967.44,3986.976
+187,Smartwatch,56,51.58,429,0,loyal,211.87,33.6,11864.720000000001,4745.888
+188,Smartwatch,56,57.06,429,-5,price_sensitive,195.11,33.6,10926.16,4370.464
+189,Smartwatch,56,52.48,429,0,loyal,192.16,33.6,10760.96,4304.384
+190,Smartwatch,56,58.55,429,-10,occasional,160.95,33.6,9013.199999999999,3605.2799999999993
+191,Smartwatch,56,53.91,429,0,occasional,183.16,33.6,10256.96,4102.784
+192,Smartwatch,56,56.98,429,0,price_sensitive,193.96,33.6,10861.76,4344.704
+193,Smartwatch,56,57.54,429,0,price_sensitive,191.94,33.6,10748.64,4299.456
+194,Smartwatch,56,54.85,429,0,price_sensitive,199.66,33.6,11180.96,4472.384
+195,Smartwatch,56,52.7,429,0,occasional,189.7,33.6,10623.199999999999,4249.28
+196,Smartwatch,56,55.68,429,-10,loyal,191.52,33.6,10725.12,4290.048
+197,Smartwatch,56,55.56,429,-10,price_sensitive,186.54,33.6,10446.24,4178.495999999999
+198,Smartwatch,56,55.33,429,0,price_sensitive,177.21,33.6,9923.76,3969.504
+199,Smartwatch,56,58.15,429,0,occasional,188.11,33.6,10534.16,4213.664
+200,Smartwatch,56,54.71,429,0,occasional,178.27,33.6,9983.12,3993.248
+201,Smartwatch,56,57.2,429,-5,loyal,205.28,33.6,11495.68,4598.272
+202,Smartwatch,56,54.01,429,0,price_sensitive,184.07,33.6,10307.92,4123.168
+203,Smartwatch,56,57.41,429,0,price_sensitive,174.59,33.6,9777.04,3910.816
+204,Smartwatch,56,56.24,429,0,price_sensitive,172.97,33.6,9686.32,3874.528
+205,Smartwatch,56,55.91,429,0,loyal,173.56,33.6,9719.36,3887.7439999999997
+206,Smartwatch,56,55.32,429,0,occasional,194.32,33.6,10881.92,4352.767999999999
+207,Smartwatch,56,58.62,429,0,price_sensitive,165.69,33.6,9278.64,3711.4559999999997
+208,Smartwatch,56,57.16,429,0,loyal,169.35,33.6,9483.6,3793.4399999999996
+209,Smartwatch,56,58.43,429,0,loyal,170.13,33.6,9527.279999999999,3810.912
+210,Smartwatch,56,53.33,429,0,loyal,204.03,33.6,11425.68,4570.272
+211,Smartwatch,56,57.01,429,-5,occasional,201.44,33.6,11280.64,4512.255999999999
+212,Smartwatch,56,54.99,429,0,price_sensitive,174.08,33.6,9748.480000000001,3899.392
+213,Smartwatch,56,56.03,429,0,loyal,190.0,33.6,10640.0,4256.0
+214,Smartwatch,56,52.38,429,0,price_sensitive,200.67,33.6,11237.519999999999,4495.008
+215,Smartwatch,56,52.39,429,0,occasional,220.38,33.6,12341.279999999999,4936.512
+216,Smartwatch,56,45.24,429,0,occasional,249.14,33.6,13951.84,5580.735999999999
+217,Smartwatch,56,58.03,429,0,occasional,187.85,33.6,10519.6,4207.839999999999
+218,Smartwatch,56,54.62,429,0,occasional,173.5,33.6,9716.0,3886.3999999999996
+219,Smartwatch,56,53.46,429,0,price_sensitive,176.38,33.6,9877.279999999999,3950.912
+220,Smartwatch,56,53.38,429,0,loyal,195.94,33.6,10972.64,4389.056
+221,Smartwatch,56,50.65,429,0,loyal,183.47,33.6,10274.32,4109.728
+222,Smartwatch,56,55.31,429,-5,occasional,184.6,33.6,10337.6,4135.04
+223,Smartwatch,56,59.11,429,-5,price_sensitive,177.93,33.6,9964.08,3985.632
+224,Smartwatch,56,58.18,429,-5,occasional,180.45,33.6,10105.199999999999,4042.0799999999995
+225,Smartwatch,56,55.04,429,0,price_sensitive,189.62,33.6,10618.720000000001,4247.488
+226,Smartwatch,56,52.05,429,-10,occasional,188.34,33.6,10547.04,4218.816
+227,Smartwatch,56,53.41,429,0,price_sensitive,193.99,33.6,10863.44,4345.376
+228,Smartwatch,56,51.52,429,-5,price_sensitive,214.36,33.6,12004.16,4801.664
+229,Smartwatch,56,58.75,429,0,occasional,177.48,33.6,9938.88,3975.5519999999997
+230,Smartwatch,56,55.03,429,-5,occasional,188.41,33.6,10550.96,4220.384
+231,Smartwatch,56,51.49,429,-5,price_sensitive,198.8,33.6,11132.800000000001,4453.12
+232,Smartwatch,56,59.48,429,0,price_sensitive,192.04,33.6,10754.24,4301.696
+233,Smartwatch,56,55.1,429,0,occasional,187.49,33.6,10499.44,4199.776
+234,Smartwatch,56,55.14,429,-5,loyal,163.44,33.6,9152.64,3661.0559999999996
+235,Smartwatch,56,55.44,429,0,occasional,204.66,33.6,11460.96,4584.384
+236,Smartwatch,56,56.33,429,-5,price_sensitive,178.16,33.6,9976.96,3990.7839999999997
+237,Smartwatch,56,58.13,429,0,occasional,164.29,33.6,9200.24,3680.0959999999995
+238,Smartwatch,56,57.31,429,0,occasional,203.28,33.6,11383.68,4553.472
+239,Smartwatch,56,56.88,429,0,occasional,198.99,33.6,11143.44,4457.376
+240,Smartwatch,56,56.98,429,-5,occasional,175.4,33.6,9822.4,3928.96
+241,Smartwatch,56,51.4,429,0,loyal,196.97,33.6,11030.32,4412.128
+242,Smartwatch,56,60.0,429,0,occasional,170.97,33.6,9574.32,3829.7279999999996
+243,Smartwatch,56,54.15,429,-5,occasional,183.35,33.6,10267.6,4107.04
+244,Smartwatch,56,54.22,429,-10,loyal,182.96,33.6,10245.76,4098.304
+245,Smartwatch,56,56.0,429,-10,price_sensitive,158.7,33.6,8887.199999999999,3554.8799999999997
+246,Smartwatch,56,54.6,429,0,occasional,186.5,33.6,10444.0,4177.599999999999
+247,Smartwatch,56,60.08,429,-5,occasional,147.9,33.6,8282.4,3312.96
+248,Smartwatch,56,52.65,429,0,occasional,192.03,33.6,10753.68,4301.472
+249,Smartwatch,56,59.66,429,0,occasional,170.85,33.6,9567.6,3827.0399999999995
+250,Smartwatch,56,54.35,429,0,occasional,186.63,33.6,10451.279999999999,4180.512
+251,Smartwatch,56,57.01,429,-5,price_sensitive,178.53,33.6,9997.68,3999.0719999999997
+252,Smartwatch,56,61.38,429,0,loyal,170.28,33.6,9535.68,3814.272
+253,Smartwatch,56,58.26,429,0,loyal,157.06,33.6,8795.36,3518.144
+254,Smartwatch,56,60.45,429,0,occasional,151.06,33.6,8459.36,3383.7439999999997
+255,Smartwatch,56,58.03,429,0,occasional,157.48,33.6,8818.88,3527.5519999999997
+256,Smartwatch,56,55.91,429,0,price_sensitive,163.1,33.6,9133.6,3653.4399999999996
+257,Smartwatch,56,62.83,429,0,loyal,144.32,33.6,8081.92,3232.7679999999996
+258,Smartwatch,56,53.38,429,0,loyal,174.25,33.6,9758.0,3903.2
+259,Smartwatch,56,56.07,429,0,loyal,166.92,33.6,9347.519999999999,3739.0079999999994
+260,Smartwatch,56,62.09,429,0,loyal,162.3,33.6,9088.800000000001,3635.52
+261,Smartwatch,56,56.77,429,0,price_sensitive,178.18,33.6,9978.08,3991.232
+262,Smartwatch,56,57.06,429,0,price_sensitive,177.26,33.6,9926.56,3970.6239999999993
+263,Smartwatch,56,57.24,429,0,price_sensitive,158.98,33.6,8902.88,3561.1519999999996
+264,Smartwatch,56,57.46,429,0,occasional,158.32,33.6,8865.92,3546.3679999999995
+265,Smartwatch,56,56.83,429,0,loyal,164.49,33.6,9211.44,3684.576
+266,Smartwatch,56,55.03,429,0,price_sensitive,169.3,33.6,9480.800000000001,3792.32
+267,Smartwatch,56,59.31,429,0,occasional,170.2,33.6,9531.199999999999,3812.4799999999996
+268,Smartwatch,56,57.8,429,0,occasional,174.7,33.6,9783.199999999999,3913.2799999999993
+269,Smartwatch,56,54.84,429,0,occasional,201.91,33.6,11306.96,4522.784
+270,Smartwatch,56,53.68,429,-10,occasional,158.31,33.6,8865.36,3546.144
+271,Smartwatch,56,55.71,429,0,price_sensitive,180.9,33.6,10130.4,4052.16
+272,Smartwatch,56,58.7,429,0,occasional,194.61,33.6,10898.16,4359.264
+273,Smartwatch,56,56.91,429,0,loyal,200.51,33.6,11228.56,4491.423999999999
+274,Smartwatch,56,50.83,429,0,price_sensitive,175.95,33.6,9853.199999999999,3941.2799999999993
+275,Smartwatch,56,56.95,429,0,occasional,177.15,33.6,9920.4,3968.16
+276,Smartwatch,56,57.3,429,0,loyal,193.72,33.6,10848.32,4339.3279999999995
+277,Smartwatch,56,58.84,429,-10,price_sensitive,161.5,33.6,9044.0,3617.6
+278,Smartwatch,56,56.26,429,0,loyal,179.27,33.6,10039.12,4015.648
+279,Smartwatch,56,56.14,429,-10,price_sensitive,174.65,33.6,9780.4,3912.16
+280,Smartwatch,56,53.64,429,0,occasional,192.18,33.6,10762.08,4304.831999999999
+281,Smartwatch,56,54.06,429,0,loyal,185.96,33.6,10413.76,4165.504
+282,Smartwatch,56,52.73,429,0,occasional,189.99,33.6,10639.44,4255.776
+283,Smartwatch,56,56.55,429,0,occasional,196.45,33.6,11001.199999999999,4400.48
+284,Smartwatch,56,60.16,429,0,loyal,151.05,33.6,8458.800000000001,3383.52
+285,Smartwatch,56,58.65,429,0,price_sensitive,172.41,33.6,9654.96,3861.9839999999995
+286,Smartwatch,56,52.42,429,0,price_sensitive,215.77,33.6,12083.12,4833.248
+287,Smartwatch,56,52.42,429,-5,loyal,191.23,33.6,10708.88,4283.552
+288,Smartwatch,56,55.21,429,0,loyal,182.96,33.6,10245.76,4098.304
+289,Smartwatch,56,56.52,429,-5,loyal,192.02,33.6,10753.12,4301.248
+290,Smartwatch,56,54.51,429,0,price_sensitive,203.74,33.6,11409.44,4563.776
+291,Smartwatch,56,58.62,429,0,price_sensitive,190.28,33.6,10655.68,4262.272
+292,Smartwatch,56,57.95,429,-10,loyal,165.11,33.6,9246.16,3698.464
+293,Smartwatch,56,58.56,429,-5,occasional,173.39,33.6,9709.84,3883.9359999999992
+294,Smartwatch,56,55.57,429,0,loyal,187.46,33.6,10497.76,4199.104
+295,Smartwatch,56,53.45,429,-5,occasional,183.95,33.6,10301.199999999999,4120.48
+296,Smartwatch,56,62.25,429,0,occasional,162.66,33.6,9108.96,3643.584
+297,Smartwatch,56,50.66,429,-5,loyal,172.81,33.6,9677.36,3870.944
+298,Smartwatch,56,51.96,429,0,price_sensitive,174.42,33.6,9767.519999999999,3907.0079999999994
+299,Smartwatch,56,53.84,429,0,occasional,169.49,33.6,9491.44,3796.576
+300,Smartwatch,56,57.72,429,0,loyal,163.63,33.6,9163.279999999999,3665.3119999999994
+301,Smartwatch,56,54.21,429,0,price_sensitive,212.5,33.6,11900.0,4760.0
+302,Smartwatch,56,55.51,429,0,occasional,165.38,33.6,9261.279999999999,3704.5119999999997
+303,Smartwatch,56,56.78,429,0,loyal,180.1,33.6,10085.6,4034.24
+304,Smartwatch,56,56.65,429,0,price_sensitive,198.74,33.6,11129.44,4451.776
+305,Smartwatch,56,56.59,429,0,price_sensitive,162.92,33.6,9123.519999999999,3649.4079999999994
+306,Smartwatch,56,56.05,429,-5,loyal,196.12,33.6,10982.720000000001,4393.088
+307,Smartwatch,56,54.92,429,0,occasional,191.39,33.6,10717.84,4287.1359999999995
+308,Smartwatch,56,50.84,429,-10,occasional,173.45,33.6,9713.199999999999,3885.2799999999993
+309,Smartwatch,56,58.4,429,0,price_sensitive,158.71,33.6,8887.76,3555.104
+310,Smartwatch,56,56.86,429,0,price_sensitive,163.04,33.6,9130.24,3652.0959999999995
+311,Smartwatch,56,56.0,429,0,occasional,165.55,33.6,9270.800000000001,3708.32
+312,Smartwatch,56,51.91,429,-5,occasional,171.77,33.6,9619.12,3847.648
+313,Smartwatch,56,52.48,429,0,price_sensitive,175.44,33.6,9824.64,3929.8559999999998
+314,Smartwatch,56,58.56,429,-5,price_sensitive,176.89,33.6,9905.84,3962.3359999999993
+315,Smartwatch,56,57.82,429,0,price_sensitive,202.77,33.6,11355.12,4542.048
+316,Smartwatch,56,58.79,429,0,occasional,176.67,33.6,9893.519999999999,3957.4079999999994
+317,Smartwatch,56,54.48,429,0,loyal,170.83,33.6,9566.480000000001,3826.592
+318,Smartwatch,56,57.11,429,0,price_sensitive,163.96,33.6,9181.76,3672.7039999999997
+319,Smartwatch,56,55.79,429,-5,occasional,181.36,33.6,10156.16,4062.464
+320,Smartwatch,56,58.77,429,0,occasional,159.9,33.6,8954.4,3581.7599999999998
+321,Smartwatch,56,53.47,429,0,loyal,198.81,33.6,11133.36,4453.344
+322,Smartwatch,56,53.13,429,0,occasional,200.08,33.6,11204.480000000001,4481.792
+323,Smartwatch,56,59.71,429,0,price_sensitive,175.62,33.6,9834.720000000001,3933.888
+324,Smartwatch,56,55.4,429,-5,occasional,183.81,33.6,10293.36,4117.344
+325,Smartwatch,56,57.87,429,0,price_sensitive,163.49,33.6,9155.44,3662.176
+326,Smartwatch,56,54.36,429,0,loyal,211.69,33.6,11854.64,4741.856
+327,Smartwatch,56,55.04,429,-5,price_sensitive,185.69,33.6,10398.64,4159.456
+328,Smartwatch,56,53.26,429,0,occasional,221.42,33.6,12399.519999999999,4959.807999999999
+329,Smartwatch,56,54.47,429,0,loyal,178.14,33.6,9975.84,3990.3359999999993
+330,Smartwatch,56,55.23,429,0,loyal,190.95,33.6,10693.199999999999,4277.28
+331,Smartwatch,56,59.23,429,0,loyal,161.32,33.6,9033.92,3613.5679999999998
+332,Smartwatch,56,51.91,429,0,occasional,221.64,33.6,12411.84,4964.735999999999
+333,Smartwatch,56,48.54,429,0,loyal,190.69,33.6,10678.64,4271.456
+334,Smartwatch,56,55.11,429,-5,occasional,187.46,33.6,10497.76,4199.104
+335,Smartwatch,56,51.11,429,0,loyal,209.78,33.6,11747.68,4699.072
+336,Smartwatch,56,55.39,429,0,loyal,197.23,33.6,11044.88,4417.951999999999
+337,Smartwatch,56,55.76,429,-5,loyal,186.42,33.6,10439.519999999999,4175.807999999999
+338,Smartwatch,56,56.83,429,0,occasional,188.54,33.6,10558.24,4223.295999999999
+339,Smartwatch,56,59.57,429,0,occasional,180.61,33.6,10114.16,4045.664
+340,Smartwatch,56,54.89,429,0,loyal,175.46,33.6,9825.76,3930.304
+341,Smartwatch,56,53.9,429,-10,price_sensitive,188.25,33.6,10542.0,4216.8
+342,Smartwatch,56,59.83,429,0,occasional,167.21,33.6,9363.76,3745.504
+343,Smartwatch,56,48.99,429,0,occasional,218.63,33.6,12243.279999999999,4897.312
+344,Smartwatch,56,60.41,429,0,occasional,179.68,33.6,10062.08,4024.832
+345,Smartwatch,56,55.29,429,0,occasional,195.35,33.6,10939.6,4375.839999999999
+346,Smartwatch,56,54.11,429,-5,price_sensitive,214.15,33.6,11992.4,4796.96
+347,Smartwatch,56,55.62,429,0,loyal,195.02,33.6,10921.12,4368.448
+348,Smartwatch,56,52.67,429,0,occasional,204.21,33.6,11435.76,4574.304
+349,Smartwatch,56,55.12,429,-5,price_sensitive,197.18,33.6,11042.08,4416.831999999999
+350,Smartwatch,56,56.2,429,0,price_sensitive,219.2,33.6,12275.199999999999,4910.079999999999
+351,Smartwatch,56,58.4,429,-10,occasional,178.0,33.6,9968.0,3987.2
+352,Smartwatch,56,57.69,429,-5,loyal,185.48,33.6,10386.88,4154.7519999999995
+353,Smartwatch,56,55.83,429,0,occasional,196.4,33.6,10998.4,4399.36
+354,Smartwatch,56,57.08,429,0,price_sensitive,212.29,33.6,11888.24,4755.295999999999
+355,Smartwatch,56,57.42,429,0,price_sensitive,173.09,33.6,9693.04,3877.216
+356,Smartwatch,56,59.45,429,0,occasional,191.56,33.6,10727.36,4290.9439999999995
+357,Smartwatch,56,53.87,429,0,occasional,208.63,33.6,11683.279999999999,4673.312
+358,Smartwatch,56,57.53,429,0,loyal,173.7,33.6,9727.199999999999,3890.8799999999997
+359,Smartwatch,56,54.28,429,0,loyal,223.41,33.6,12510.96,5004.384
+360,Smartwatch,56,56.79,429,-10,price_sensitive,166.32,33.6,9313.92,3725.5679999999998
+361,Smartwatch,56,60.29,429,0,price_sensitive,185.74,33.6,10401.44,4160.576
+362,Smartwatch,56,58.47,429,0,occasional,191.57,33.6,10727.92,4291.168
+363,Smartwatch,56,52.38,429,0,loyal,215.18,33.6,12050.08,4820.032
+364,Smartwatch,56,58.3,429,0,occasional,177.97,33.6,9966.32,3986.528
+365,Smartwatch,56,56.87,429,0,loyal,197.39,33.6,11053.84,4421.535999999999

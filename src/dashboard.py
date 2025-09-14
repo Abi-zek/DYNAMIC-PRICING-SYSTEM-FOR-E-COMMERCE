@@ -85,5 +85,24 @@ features = pd.DataFrame([{
 
 predicted_demand = model.predict(features)[0]
 st.write(f"**Predicted Demand:** {predicted_demand:.2f}")
+st.subheader("📈 Revenue & Profit Projection")
+
+# Check if required columns exist
+if {"product", "revenue", "profit"}.issubset(df.columns):
+    # Aggregate totals by product
+    summary = df.groupby("product")[["revenue", "profit"]].sum().reset_index()
+    st.dataframe(summary)
+
+    # Bar chart
+    st.bar_chart(summary.set_index("product")[["revenue", "profit"]])
+
+    # Allow CSV download
+    st.download_button(
+        "Download Revenue & Profit CSV",
+        summary.to_csv(index=False),
+        file_name="revenue_profit_summary.csv"
+    )
+else:
+    st.warning("Run the updated data generation script to include revenue and profit columns.")
 
 st.success("✅ Dashboard loaded successfully!")
