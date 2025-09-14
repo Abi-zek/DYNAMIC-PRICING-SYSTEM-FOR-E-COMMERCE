@@ -28,12 +28,19 @@ df = load_data()
 model = load_model()
 
 # -----------------------------
+# Prepare revenue/profit columns
+# -----------------------------
+if "revenue" not in df.columns or "profit" not in df.columns:
+    df["revenue"] = df["base_price"] * df["demand"]
+    df["profit"] = df["revenue"] * 0.3  # 30% margin assumption
+
+# -----------------------------
 # Dashboard layout
 # -----------------------------
 st.title("📊 Dynamic Pricing Dashboard")
-st.write("Explore demand, pricing, and SHAP feature importance interactively.")
+st.write("Explore demand, pricing, revenue, profit, and SHAP feature importance interactively.")
 
-# Display dataset preview
+# Dataset preview
 st.subheader("Dataset Preview")
 st.dataframe(df.head())
 
@@ -41,10 +48,10 @@ st.dataframe(df.head())
 products = df["product"].unique()
 selected_product = st.selectbox("Select a product:", products)
 
-# Filter data for the selected product
+# Filtered data for selected product
 product_data = df[df["product"] == selected_product]
 
-# Plot demand vs. base_price for selected product
+# Demand vs Base Price scatter plot
 st.subheader(f"Demand vs Base Price for {selected_product}")
 fig, ax = plt.subplots()
 ax.scatter(product_data["base_price"], product_data["demand"], alpha=0.6)
@@ -52,7 +59,41 @@ ax.set_xlabel("Base Price")
 ax.set_ylabel("Demand")
 st.pyplot(fig)
 
-# Show SHAP plots if they exist
+# -----------------------------
+# Revenue and Profit Summary
+# -----------------------------
+st.subheader("💰 Revenue and Profit by Product")
+summary = df.groupby("product")[["revenue", "profit"]].sum()
+st.bar_chart(summary)
+
+# -----------------------------
+# 📊 Revenue/Profit Trends Over Time
+# -----------------------------
+st.subheader("📊 Revenue/Profit Trends Over Time")
+metric = st.radio("Select Metric:", ["revenue", "profit"])
+products_to_compare = st.multiselect("Select Products:", products, default=products[:2])
+
+trend_data = df[df["product"].isin(products_to_compare)]
+trend_summary = trend_data.groupby(["day", "product"])[metric].sum().reset_index()
+
+# Line chart for trends
+st.line_chart(trend_summary.pivot(index="day", columns="product", values=metric))
+
+# 🏆 Top Products by Profit
+st.subheader("🏆 Top Products by Profit")
+top_products = df.groupby("product")["profit"].sum().sort_values(ascending=False).head(3)
+st.bar_chart(top_products)
+
+# Download trend data
+st.download_button(
+    "⬇️ Download Trend Data",
+    trend_summary.to_csv(index=False),
+    file_name=f"{metric}_trends.csv"
+)
+
+# -----------------------------
+# SHAP Feature Importance
+# -----------------------------
 shap_summary = os.path.join(reports_dir, "shap_summary.png")
 shap_force = os.path.join(reports_dir, "shap_force.png")
 
@@ -68,14 +109,25 @@ if os.path.exists(shap_force):
 else:
     st.warning("SHAP force plot not found. Run shap_analysis.py first.")
 
-# Interactive prediction
+# -----------------------------
+# Interactive Prediction
+# -----------------------------
 st.subheader("🔮 Predict Demand")
 base_price = st.slider("Base Price", int(df["base_price"].min()), int(df["base_price"].max()), 50)
-avg_competitor_price = st.slider("Avg Competitor Price", int(df["avg_competitor_price"].min()), int(df["avg_competitor_price"].max()), 55)
+avg_competitor_price = st.slider(
+    "Avg Competitor Price",
+    int(df["avg_competitor_price"].min()),
+    int(df["avg_competitor_price"].max()),
+    55,
+)
 promotion_flag = st.selectbox("Promotion Flag (discount)", [-10, -5, 0])
-inventory_level = st.slider("Inventory Level", int(df["inventory_level"].min()), int(df["inventory_level"].max()), 200)
+inventory_level = st.slider(
+    "Inventory Level",
+    int(df["inventory_level"].min()),
+    int(df["inventory_level"].max()),
+    200,
+)
 
-# Make a prediction
 features = pd.DataFrame([{
     "base_price": base_price,
     "avg_competitor_price": avg_competitor_price,
@@ -85,24 +137,5 @@ features = pd.DataFrame([{
 
 predicted_demand = model.predict(features)[0]
 st.write(f"**Predicted Demand:** {predicted_demand:.2f}")
-st.subheader("📈 Revenue & Profit Projection")
-
-# Check if required columns exist
-if {"product", "revenue", "profit"}.issubset(df.columns):
-    # Aggregate totals by product
-    summary = df.groupby("product")[["revenue", "profit"]].sum().reset_index()
-    st.dataframe(summary)
-
-    # Bar chart
-    st.bar_chart(summary.set_index("product")[["revenue", "profit"]])
-
-    # Allow CSV download
-    st.download_button(
-        "Download Revenue & Profit CSV",
-        summary.to_csv(index=False),
-        file_name="revenue_profit_summary.csv"
-    )
-else:
-    st.warning("Run the updated data generation script to include revenue and profit columns.")
 
 st.success("✅ Dashboard loaded successfully!")
