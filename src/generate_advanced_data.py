@@ -59,7 +59,14 @@ for product in products:
         })
 
 # Convert to DataFrame
+# Convert to DataFrame
 df = pd.DataFrame(data)
+
+# Rename columns for consistency with SHAP analysis
+df.rename(columns={
+    "inventory": "inventory_level",
+    "promotion_discount": "promotion_flag"
+}, inplace=True)
 
 # Save to CSV
 script_dir = os.path.dirname(os.path.abspath(__file__))
